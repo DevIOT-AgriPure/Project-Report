@@ -3,20 +3,20 @@ New Version of the Project Report
 ## Capítulo IV: Solution Software Design 
 - 4.1. Strategic-Level Domain-Driven Design. 
 	- 4.1.1. EventStorming. 
-	- Timelines:	
+	- **Timelines:** Este gráfico de timelines representa la secuencia temporal de eventos y acciones clave relacionados con la gestión de cultivos, monitoreo, búsqueda de especialista en nuestra aplicación. Cada línea de tiempo corresponde a un aspecto específico de la gestión de cultivos y muestra cómo se desarrollan los eventos con el tiempo. Este diagrama nos ayuda a comprender la lógica temporal de la aplicación y cómo los eventos se relacionan entre sí para proporcionar una visión general de la gestión de cultivos.	
 	![Timelines](https://cdn.discordapp.com/attachments/1149587894416183327/1149588737613889566/Eventstorming_2.jpg)
-	- Pivotal Points:	
+	- **Pivotal Points:** Este gráfico representa los Pivotal Points en el flujo de eventos de nuestro sistema de gestión de cultivos. Los Pivotal Points son momentos críticos en los cuales se producen cambios significativos o se toman decisiones clave que afectan la lógica y el comportamiento del sistema. Identificar y comprender estos puntos pivote es esencial para garantizar que nuestro software capture adecuadamente la complejidad y los requisitos críticos del negocio.	
 	![Paint Points](https://cdn.discordapp.com/attachments/1149587894416183327/1149588075333296148/Eventstorming_1.jpg)
-	- Comands:	
+	- **Comands:** Este gráfico representa los comandos que los usuarios pueden emitir para interactuar con nuestro sistema de gestión de cultivos. Los comandos son acciones que los usuarios toman para lograr sus objetivos y modificar el estado del sistema. Identificar estos comandos es esencial para comprender cómo los usuarios interactúan con nuestra aplicación y qué acciones pueden realizar para gestionar sus cultivos de manera efectiva.	
 	![Comands](https://cdn.discordapp.com/attachments/1149587894416183327/1149589014064660481/Eventstorming_3.jpg)
-	- Policies:	
+	- **Policies:** Este gráfico representa las políticas que dictan cómo el sistema de gestión de cultivos responde a eventos y acciones específicas. Las políticas son reglas o directrices que guían el comportamiento del sistema en situaciones diversas. Identificar y comprender estas políticas es esencial para asegurar que nuestro software funcione de acuerdo con las reglas de negocio y las expectativas de los usuarios.	
 	![Policies](https://cdn.discordapp.com/attachments/1149587894416183327/1149589239965683782/Eventstorming_4.jpg)
-	- Read Models:	
+	- **Read Models:** Este gráfico representa los modelos de lectura que permitirán a los usuarios acceder eficientemente a los datos relacionados con la gestión de cultivos en nuestro sistema. Los modelos de lectura son representaciones optimizadas de los datos que se utilizan para generar informes, consultas y visualizaciones. Identificar y definir estos modelos es esencial para garantizar que los usuarios puedan obtener la información que necesitan de manera rápida y precisa.
 	![Read Models](https://cdn.discordapp.com/attachments/1149587894416183327/1149589444786139137/Eventstorming_5.jpg)
-	- External Systems:
+	- **External Systems:** Este gráfico representa la interacción planificada de nuestra aplicación con sistemas externos que son parte integral de nuestro ecosistema de gestión de cultivos. Los sistemas externos son componentes que se comunican con nuestra aplicación para intercambiar información y realizar acciones específicas. Identificar y comprender estas interacciones es crucial para garantizar que nuestro sistema sea capaz de integrarse efectivamente con otros sistemas y cumplir con los requisitos de negocio.
 	![External Systems](https://cdn.discordapp.com/attachments/1149587894416183327/1149589665226170378/Eventstorming_6.jpg)
-	- Agregates:
-	![Agregates](https://cdn.discordapp.com/attachments/1149587894416183327/1149589993363361792/Eventstorming_7.jpg
+	- **Agregates:** Este gráfico representa los agregados y las entidades clave que desempeñan un papel fundamental en la gestión de cultivos de nuestro sistema. Los agregados son grupos lógicos de entidades y datos que tienen un significado coherente en el contexto del negocio. Identificar y definir estos agregados es esencial para diseñar una estructura de datos efectiva y garantizar que nuestra aplicación refleje adecuadamente la realidad del dominio agrícola.
+	![Agregates](https://cdn.discordapp.com/attachments/1149587894416183327/1149589993363361792/Eventstorming_7.jpg)
 		- Identificar candidatos de contexto implica descubrir áreas potenciales de enfoque en un sistema complejo. Esto implica analizar el sistema para identificar sus componentes esenciales y sus interacciones, agrupándolos en áreas lógicas para simplificar el proceso de diseño e implementación. El objetivo principal es mejorar la escalabilidad, el rendimiento y la facilidad de mantenimiento del sistema.
 		![Candidates context](https://cdn.discordapp.com/attachments/1149587894416183327/1149589993363361792/Eventstorming_7.jpg)	
 		- 4.1.1.1 Candidate Context Discovery. 
