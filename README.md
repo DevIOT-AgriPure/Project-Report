@@ -313,12 +313,12 @@ New Version of the Project Report
 				|FindById|promise<PlantResource|publicDevuelve una planta por el Id|
 				
 		- **4.2.2.5. Bounded Context Software Architecture Component Level Diagrams**
-			El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes sUSCRIPTION](https://cdn.discordapp.com/attachments/1143666758042013890/1152477663966011422/image.png)
+			El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes plantas]([https://cdn.discordapp.com/attachments/1143666758042013890/1152477663966011422/image.png](https://cdn.discordapp.com/attachments/1149587894416183327/1153883194555371632/image.png))
 		- **4.2.2.6 Bounded Context Software Architecture Code Level Diagrams**
 			Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
 			- **4.2.2.6.1 Bounded Context Domain Layer Class Diagrams**
 				Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
-				![Diagrama clases Suscription](https://cdn.discordapp.com/attachments/1143666758042013890/1152481306656120885/image.png)
+				![Diagrama clases PLantas](https://cdn.discordapp.com/attachments/1143666758042013890/1153884913712509080/image.png)
 			- **4.2.2.6.2 Bounded Context Database Diagrams**
 				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
 
@@ -445,7 +445,7 @@ New Version of the Project Report
 				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
 		
 	- **4.2.4. Bounded Context: Crop Management**
-		- **4.2.2.1. Crop.** 
+		- **4.2.4.1. Crop.** 
 			- Nombre: Crop
 			- Categoria: Entity
 			- Propósito: Almacenar los datos de los cultivos
@@ -520,7 +520,7 @@ New Version of the Project Report
 				| GetIoTByOd|Promise|public|Permite obtener un dispositivo IoT|
 				| GetIoTByUserId|Promise|public|Permite obtener una lista de los dispositivos de un usuario|
 				| DeleteIoT | Promise      | public      | Permite eliminar un dispositivo  |
-		- **4.2.1.3 Application Layer**
+		- **4.2.4.3 Application Layer**
 			- Nombre: RegisterCrop.handler
 			- Categorìa: Handler
 			- Propòsito: Handler para registrar un cultivo
@@ -608,7 +608,7 @@ New Version of the Project Report
 				| DeleteCrop.command | void         | public      | Constructor      |
 
 			
-		- **4.2.1.4 Infrastructure Layer**
+		- **4.2.4.4 Infrastructure Layer**
 			- Nombre: CropRepository
 			- Categoría: Repository
 			- Propósito: Persistir los cultivos
@@ -632,14 +632,14 @@ New Version of the Project Report
 				| FinById  | IoTResource       | public      | Devuelve un IoT device |
 				| delete | void |public|Eliminar un dispositivo|
 				
-		- **4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**
-			El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes sUSCRIPTION](https://cdn.discordapp.com/attachments/1143666758042013890/1152477663966011422/image.png)
-		- **4.2.1.6 Bounded Context Software Architecture Code Level Diagrams**
+		- **4.2.4.5. Bounded Context Software Architecture Component Level Diagrams**
+			El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes Crop](https://cdn.discordapp.com/attachments/1149587894416183327/1153891010666053642/image.png)
+		- **4.2.4.6 Bounded Context Software Architecture Code Level Diagrams**
 			Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
-			- **4.2.1.6.1 Bounded Context Domain Layer Class Diagrams**
+			- **4.2.4.6.1 Bounded Context Domain Layer Class Diagrams**
 				Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
 				![Diagrama clases Suscription](https://cdn.discordapp.com/attachments/1143666758042013890/1152481306656120885/image.png)
-			- **4.2.1.6.2 Bounded Context Database Diagrams**
+			- **4.2.4.6.2 Bounded Context Database Diagrams**
 				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
 
 	- **4.2.4. Bounded Context: Project Management**
