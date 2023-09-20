@@ -26,23 +26,18 @@ New Version of the Project Report
 			- El Bounded Context es un patrón de diseño en la arquitectura de software que divide un sistema en áreas de dominio separadas con lenguajes y límites claros. Esto facilita la administración y escalabilidad de sistemas complejos, ya que cada contexto acotado puede desarrollarse y mantenerse de manera independiente. Los Bounded Context Canvases, por otro lado, son herramientas visuales para el diseño de arquitecturas de software basadas en Bounded Contexts. Su objetivo es fomentar la colaboración entre equipos y garantizar la coherencia y la relación adecuada entre los diferentes contextos delimitados en el sistema.
 
 	- **Bounded Context 1: Notification Management**
-	![Bounded Context 1](https://media.discordapp.net/attachments/912089666939916348/1149126632427241482/Bounded_Context_Canvas_by_Nick_Tune_6.jpg?width=1351&height=668)
+	    ![Bounded Context 1](https://media.discordapp.net/attachments/912089666939916348/1149126632427241482/Bounded_Context_Canvas_by_Nick_Tune_6.jpg?width=1351&height=668)
 	- **Bounded Context 2: Project Management**
-	![Bounded Context 2](https://media.discordapp.net/attachments/912089666939916348/1149126632745992222/Bounded_Context_Canvas_by_Nick_Tune_7.jpg?width=1301&height=668)
+	    ![Bounded Context 2](https://media.discordapp.net/attachments/912089666939916348/1149126632745992222/Bounded_Context_Canvas_by_Nick_Tune_7.jpg?width=1301&height=668)
 	- **Bounded Context 3: Crop Management**
-	![Bounded Context 3](https://media.discordapp.net/attachments/912089666939916348/1149126634281123951/Bounded_Context_Canvas_by_Nick_Tune_3.jpg?width=1371&height=669)
+	    ![Bounded Context 3](https://media.discordapp.net/attachments/912089666939916348/1149126634281123951/Bounded_Context_Canvas_by_Nick_Tune_3.jpg?width=1371&height=669)
 	- **Bounded Context 4: Knowledge Management**
 	![Bounded Context 4](https://media.discordapp.net/attachments/912089666939916348/1149126634012692480/Bounded_Context_Canvas_by_Nick_Tune_2.jpg?width=1345&height=669)
 	- **Bounded Context 5: Specialist Contact**
-![Bounded Context 5](https://media.discordapp.net/attachments/912089666939916348/1149126633060585522/Bounded_Context_Canvas_by_Nick_Tune_8.jpg?width=1336&height=669)
+        ![Bounded Context 5](https://media.discordapp.net/attachments/912089666939916348/1149126633060585522/Bounded_Context_Canvas_by_Nick_Tune_8.jpg?width=1336&height=669)
 	- **Bounded Context 6: Identity Access**
-![Bounded Context 6](https://media.discordapp.net/attachments/912089666939916348/1149126633467428904/Bounded_Context_Canvas_by_Nick_Tune.jpg?width=1326&height=669)
-	- **Bounded Context 7: Profile Management**
-![Bounded Context 7](https://media.discordapp.net/attachments/912089666939916348/1149126633735848047/Bounded_Context_Canvas_by_Nick_Tune_1.jpg?width=1310&height=669)
-	- **Bounded Context 8: Suscription and Payment**
-![Bounded Context 8](https://media.discordapp.net/attachments/912089666939916348/1149126634570514513/Bounded_Context_Canvas_by_Nick_Tune_4.jpg?width=1353&height=669)
-	- **Bounded Context 9: IOT Asset Management**
-![Bounded Context 9](https://media.discordapp.net/attachments/912089666939916348/1149126634834771978/Bounded_Context_Canvas_by_Nick_Tune_5.jpg?width=1338&height=669)
+        ![Bounded Context 6](https://media.discordapp.net/attachments/912089666939916348/1149126633467428904/Bounded_Context_Canvas_by_Nick_Tune.jpg?width=1326&height=669)
+
 
 
 - 4.1.2. Context Mapping. 
