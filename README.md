@@ -123,4 +123,81 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 		j. ¿Estaria dispuesto a invertir en dispositivos IOT para realizar el asesoramiento?
 					
 - 2.2.2. Registro de entrevistas.
+  
+- 2.2.3. Análisis de entrevistas.
+
+
+### 2.3. Needfinding.
+- 2.3.1. User Personas.
+
+***Segmento 1: Agricultores***
+
+![User Persona Agricultores]()
+***Segmento 2: Especialistas***
+
+![User Persona Especialistas]()
+
+- 2.3.2. User Task Matrix.
+
+***Segmento 1: Agricultores***
+
+| User Task | Frecuencia | Importancia |
+|-----------|-----------|-----------|
+| Se pueda crear una cuenta   | A Veces    | Alta    |
+| Tener una interfaz practica y facil de usar    | Siempre    | Media   |
+| Aceptar tarjetas para pagos   | A Veces    | Alta    |
+| Tenga una guia de eleccion de tierra y planta a sembrar | A Veces    | Media    |
+| Cuente con un caldendario para las fechas de fumigacion o fertilizacion    | Seguido    | Media Alta    |
+| Sea compatible con diferentes dispositivos o sistemas operativos   | A Veces    | Alta    |
+| Pueda crear o visualizar las parcelas e indice de vegetacion   | Seguido   | Media    |
+| Informe sobre la distancia entre siembras y la profundidad    | Seguido   | Media    |
+| Brinde el pronostico de tiempo respecto a mi ubicacion    | Siempre    | Alta    |
+| Permita recibir notificaciones desde su dispositivo  | Seguido   | Media Alta   |
+
+***Segmento 2: Especialistas***
+
+| User Task | Frecuencia | Importancia |
+|-----------|-----------|-----------|
+| Se pueda crear una cuenta   | A Veces    | Alta     |
+| Tener una interfaz practica y facil de usar    | Siempre    | Media    |
+| Tenga una seleccion de disponibilidad de horarios | Siempre   | Alta    |
+| Cuente con configuracion de perfiles    | A Veces   | Alta    |
+| Sea compatible con diferentes dispositivos o sistemas operativos   | A Veces    | Alta   |
+| Pueda aceptar y rechazar horarios propuestos por otros usuarios   | A Veces    | Alta    |
+| Permita recibir notificaciones desde su dispositivo  | Siempre   | Alta   |
+
+- 2.3.3. User Journey Mapping.
+
+***Segmento 1: Agricultores***
+![User JourneEmpathy Map Agricultores](https://media.discordapp.net/attachments/912089666939916348/1149144062583115776/image.png?width=858&height=669)
+
+***Segmento 2: Especialistas***
+
+![User Journey Map Especialilstas](https://media.discordapp.net/attachments/877599577073647676/1149356844012282037/Customer_journey_map_1.png?width=2218&height=1614)
+- 2.3.4. Empathy Mapping.
+
+***Segmento 1: Agricultores***
+![Empathy Map Agricultores](https://media.discordapp.net/attachments/912089666939916348/1149068182947115039/Flowchart.jpg?width=810&height=669)
+
+***Segmento 2: Especialistas***
+
+![Empathy Map Especialistas](https://media.discordapp.net/attachments/912089666939916348/1149136554577633400/Flowchart.jpg?width=810&height=669)
+
+- 2.3.5. As-is Scenario Mapping.
+
+***Segmento 1: Agricultores***
+
+| Steps | Busca informacion sobre agricultura | Encuentra mucha informacion esparcida por internet | Ingresa a un enlace de internet | Obtiene cierta informacion | 
+| -------------- | -------------- | -------------- | -------------- | -------------- | 
+| Doing | Investiga sobre superficies y cultivos e ingresa desde anuncios publicitarios  | La informacion esta desordenada | Prueba lo que leyo en internet | Experimenta con sus cultivos
+| Thinking | Donde puedo dejar crecer mis cultivos? | Es demasiada informacion, por donde empiezo? | Estare haciendo lo correcto? | Ojala mis cultivos permanezcan fructiferos | 
+| Feeling | Dudoso | Frustrado | Inseguro | Ansioso |  
+
+***Segmento 2: Especialistas***
+
+| Steps | Descubrimiento e interes | Investiga por internet | Ingresa a un enlace de internet | Obtiene cierta informacion | 
+| -------------- | -------------- | -------------- | -------------- | -------------- | 
+| Doing | El especialista se cuestiona si podria enseñar sus capacidades a otros agricultores | El especialista busca por internet formas de contactarse con otros agricultores | El especialista ingresa a una pagina comun y corriente | El especialista no recibe ningun contacto, ya que la mayoria de los usuarios no estan interesados en agricultura.
+| Thinking | Como sere capaz de apoyar a otros agricultores? | No veo muchas paginas buenas | Supongo que podre registrarme aqui | No hay nadie que me contacte | 
+| Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
