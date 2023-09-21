@@ -177,8 +177,7 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 - 2.3.4. Empathy Mapping.
 
 ***Segmento 1: Agricultores***
-![Empathy Map Agricultores](https://media.discordapp.net/attachments/912089666939916348/1149068182947115039/Flowchart.jpg?width=810&height=669)
-
+![Empathy Map Agricultores](https://media.discordapp.net/attachments/912089666939916348/1154440882943180882/Empathy_map.png?width=824&height=862)
 ***Segmento 2: Especialistas***
 
 ![Empathy Map Especialistas](https://media.discordapp.net/attachments/912089666939916348/1149136554577633400/Flowchart.jpg?width=810&height=669)
