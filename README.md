@@ -174,13 +174,17 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 ***Segmento 2: Especialistas***
 
 ![User Journey Map Especialilstas](https://media.discordapp.net/attachments/877599577073647676/1149356844012282037/Customer_journey_map_1.png?width=2218&height=1614)
+
 - 2.3.4. Empathy Mapping.
+
+El objetivo del desarrollo de este Empathy Map es de comprender mejor las necesidades, deseos, emociones y perspectivas de nuestros segmentos objetivo. Al ponernos en los zapatos de nuestros usuarios, podemos ver como es que piensa, observa, escucha, dice y cuáles son sus frustraciones y necesidades. Al completar los Empathy Map, podemos tomar decisiones más concretas y crear soluciones que se adapten mejor a las necesidades reales de nuestros usuarios.
 
 ***Segmento 1: Agricultores***
 ![Empathy Map Agricultores](https://media.discordapp.net/attachments/912089666939916348/1154440882943180882/Empathy_map.png?width=824&height=862)
+
 ***Segmento 2: Especialistas***
 
-![Empathy Map Especialistas](https://media.discordapp.net/attachments/912089666939916348/1149136554577633400/Flowchart.jpg?width=810&height=669)
+![Empathy Map Especialistas](https://media.discordapp.net/attachments/912089666939916348/1154811283561009274/Empathy_map.png?width=622&height=669)
 
 - 2.3.5. As-is Scenario Mapping.
 
