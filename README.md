@@ -132,7 +132,8 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 ***Segmento 1: Agricultores***
 
-![User Persona Agricultores]()
+![User Persona Agricultores](https://media.discordapp.net/attachments/912089666939916348/1154824739110522910/Alejandra_Velasquez.png?width=462&height=669)
+
 ***Segmento 2: Especialistas***
 
 ![User Persona Especialistas]()
