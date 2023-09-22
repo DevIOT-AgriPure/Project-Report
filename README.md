@@ -180,6 +180,7 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 El objetivo del desarrollo de este Empathy Map es de comprender mejor las necesidades, deseos, emociones y perspectivas de nuestros segmentos objetivo. Al ponernos en los zapatos de nuestros usuarios, podemos ver como es que piensa, observa, escucha, dice y cuáles son sus frustraciones y necesidades. Al completar los Empathy Map, podemos tomar decisiones más concretas y crear soluciones que se adapten mejor a las necesidades reales de nuestros usuarios.
 
 ***Segmento 1: Agricultores***
+
 ![Empathy Map Agricultores](https://media.discordapp.net/attachments/912089666939916348/1154440882943180882/Empathy_map.png?width=824&height=862)
 
 ***Segmento 2: Especialistas***
