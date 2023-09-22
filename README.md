@@ -136,7 +136,7 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 ***Segmento 2: Especialistas***
 
-![User Persona Especialistas]()
+![User Persona Especialistas](https://media.discordapp.net/attachments/912089666939916348/1154834033767887029/Miguel_Garcia.png?width=462&height=669)
 
 - 2.3.2. User Task Matrix.
 
