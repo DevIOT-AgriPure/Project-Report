@@ -181,9 +181,13 @@ El objetivo del desarrollo de este Empathy Map es de comprender mejor las necesi
 
 ***Segmento 1: Agricultores***
 
+Para los agricultores, hemos considerado los puntos tomados de las entrevistas, y su problematica principal, siendo la que requieren ayuda en conocer mas los conceptos de agricultura.
+
 ![Empathy Map Agricultores](https://media.discordapp.net/attachments/912089666939916348/1154440882943180882/Empathy_map.png?width=824&height=862)
 
 ***Segmento 2: Especialistas***
+
+Para los especialistas, consideramos de como es que ellos tienen ganas de mostrar lo que aprendieron de cultivos a otros agricultores o aquellos interesados en agricultura.
 
 ![Empathy Map Especialistas](https://media.discordapp.net/attachments/912089666939916348/1154811283561009274/Empathy_map.png?width=622&height=669)
 
