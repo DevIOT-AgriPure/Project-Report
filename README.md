@@ -148,10 +148,8 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 | Consultar libros o revistas agrícolas | A Veces    | Media    |
 | Comunicarse con otros agricultores  | Seguido    | Media Alta    |
 | Recibir asesoramiento de expertos en persona   | A Veces    | Alta    |
-| Pueda crear o visualizar las parcelas e indice de vegetacion   | Seguido   | Media    |
-| Informe sobre la distancia entre siembras y la profundidad    | Seguido   | Media    |
-| Brinde el pronostico de tiempo respecto a mi ubicacion    | Siempre    | Alta    |
-| Permita recibir notificaciones desde su dispositivo  | Seguido   | Media Alta   |
+| Participar en eventos agrícolas   | Seguido   | Media    |
+| Actualizar sus prácticas basadas en investigaciones  | Seguido   | Media    |
 
 - 2.3.3. User Journey Mapping.
 
@@ -204,5 +202,5 @@ Para los especialistas, consideramos de como es que ellos tienen ganas de mostra
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzMwNjMyNSw3MDE2NTk0XX0=
+eyJoaXN0b3J5IjpbLTIwOTg3MTg2MzksNzAxNjU5NF19
 -->
