@@ -140,6 +140,8 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 - 2.3.2. User Task Matrix.
 
+El desarrollo del User Task Matrix se basó en identificar las tareas clave que realizan nuestros dos User Personas identificados: Agricultor y Especialista. Las tareas se seleccionaron cuidadosamente para abarcar un espectro amplio de actividades agrícolas y de apoyo. Se tuvo en cuenta que los agricultores pueden tener diferentes niveles de experiencia y necesidades, lo que se refleja en la frecuencia e importancia asignada a cada tarea. 
+
 | User Task | Frecuencia (Agricultores) | Importancia (Agricultores) | Frecuencia (Especialistas) | Importancia (Especialistas) |
 |-----------|-----------|-----------|-----------|-----------|
 | Aprender sobre nuevas técnicas agrícolas   | Siempre   | Alta    | A Veces    | Alta    |
@@ -202,6 +204,6 @@ Para los especialistas, consideramos de como es que ellos tienen ganas de mostra
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzU1MzI4MSwtMjA5ODcxODYzOSw3MD
-E2NTk0XX0=
+eyJoaXN0b3J5IjpbODk5NDcxMTI2LC0yMDk4NzE4NjM5LDcwMT
+Y1OTRdfQ==
 -->
