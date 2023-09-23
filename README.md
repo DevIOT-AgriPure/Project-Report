@@ -140,16 +140,16 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 - 2.3.2. User Task Matrix.
 
-| User Task | Frecuencia | Importancia |
-|-----------|-----------|-----------|
-| Aprender sobre nuevas técnicas agrícolas   | A Veces    | Alta    |
-| Registrar datos de cultivo | Siempre    | Media   |
-| Buscar información en línea sobre cultivos  | A Veces    | Alta    |
-| Consultar libros o revistas agrícolas | A Veces    | Media    |
-| Comunicarse con otros agricultores  | Seguido    | Media Alta    |
-| Recibir asesoramiento de expertos en persona   | A Veces    | Alta    |
-| Participar en eventos agrícolas   | Seguido   | Media    |
-| Actualizar sus prácticas basadas en investigaciones  | Seguido   | Media    |
+| User Task | Frecuencia (Agricultores) | Importancia (Agricultores) | Frecuencia (Especialistas) | Importancia (Especialistas) |
+|-----------|-----------|-----------|-----------|-----------|
+| Aprender sobre nuevas técnicas agrícolas   | Siempre   | Alta    | A Veces    | Alta    |
+| Registrar datos de cultivo | Siempre    | Alta   | Siempre  | Alta    |
+| Buscar información en línea sobre cultivos  | A Veces    | Alta    | A Veces    | Alta    |
+| Consultar libros o revistas agrícolas | A Veces    | Media    | A Veces    | Alta    |
+| Comunicarse con otros agricultores  | Seguido    | Media Alta    | A Veces    | Alta    |
+| Recibir asesoramiento de expertos en persona   | A Veces    | Alta    | A Veces    | Alta    |
+| Participar en eventos agrícolas   | Seguido   | Media    | A Veces    | Alta    |
+| Actualizar sus prácticas basadas en investigaciones  | Seguido   | Media    | A Veces    | Alta    |
 
 - 2.3.3. User Journey Mapping.
 
@@ -202,5 +202,6 @@ Para los especialistas, consideramos de como es que ellos tienen ganas de mostra
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg3MTg2MzksNzAxNjU5NF19
+eyJoaXN0b3J5IjpbMTM2NjcxNjY4NSwtMjA5ODcxODYzOSw3MD
+E2NTk0XX0=
 -->
