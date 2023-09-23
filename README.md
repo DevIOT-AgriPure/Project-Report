@@ -173,11 +173,13 @@ El objetivo del desarrollo del User Journey Map es ponerse en el lugar de nuestr
 
 ***Segmento 1: Agricultores***
 
-Para nuestro segmento de agricultores, hemos considerado cuando el usuario 
+Para nuestro segmento de agricultores, hemos considerado cuando el usuario busca la aplicacion y como es su experiencia con el paso del tiempo.
 
 ![User JourneEmpathy Map Agricultores](https://media.discordapp.net/attachments/912089666939916348/1149144062583115776/image.png?width=858&height=669)
 
 ***Segmento 2: Especialistas***
+
+Al igual que con los agricultores, estamos tomando la perspectiva de nuestros especialistas y como es su experencia desde el descubrimiento de la app hasta su aceptacion.
 
 ![User Journey Map Especialilstas](https://media.discordapp.net/attachments/877599577073647676/1149356844012282037/Customer_journey_map_1.png?width=2218&height=1614)
 
@@ -216,6 +218,6 @@ Para los especialistas, consideramos de como es que ellos tienen ganas de mostra
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NDc3MTc5LC0xODM4NDgyODg2LDEzMj
-gzMjA4NzMsLTE3MzUxODA5OTFdfQ==
+eyJoaXN0b3J5IjpbNzAxNjU5NCw5NDg0NzcxNzksLTE4Mzg0OD
+I4ODYsMTMyODMyMDg3MywtMTczNTE4MDk5MV19
 -->
