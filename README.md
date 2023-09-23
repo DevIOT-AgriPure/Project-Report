@@ -210,3 +210,6 @@ Para los especialistas, consideramos de como es que ellos tienen ganas de mostra
 | Thinking | Como sere capaz de apoyar a otros agricultores? | No veo muchas paginas buenas | Supongo que podre registrarme aqui | No hay nadie que me contacte | 
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3MzUxODA5OTFdfQ==
+-->
