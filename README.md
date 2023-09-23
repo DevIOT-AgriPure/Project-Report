@@ -169,6 +169,11 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 - 2.3.3. User Journey Mapping.
 
+El objetivo principal del User Journey Mapping es ponerse en el lugar del usuario y obtener una comprensión profunda de sus necesidades, emociones y puntos de dolor durante todo el proceso. Esto ayuda a los equipos de diseño y desarrollo a tomar decisiones informadas para mejorar la experiencia del usuario, identificar oportunidades de mejora y alinear sus esfuerzos con las expectativas y objetivos de los usuarios.
+
+El mapeo de la experiencia del usuario generalmente implica la creación de representaciones visuales, como diagramas o gráficos, que muestran los puntos de contacto del usuario con el sistema, las emociones asociadas en cada etapa y las posibles áreas de optimización. Es una herramienta valiosa para diseñadores, desarrolladores y equipos de producto en la búsqueda de la excelencia en la experiencia del usuario.
+
+
 ***Segmento 1: Agricultores***
 ![User JourneEmpathy Map Agricultores](https://media.discordapp.net/attachments/912089666939916348/1149144062583115776/image.png?width=858&height=669)
 
@@ -211,5 +216,6 @@ Para los especialistas, consideramos de como es que ellos tienen ganas de mostra
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzUxODA5OTFdfQ==
+eyJoaXN0b3J5IjpbLTE0MzA2MzA3NDMsLTE3MzUxODA5OTFdfQ
+==
 -->
