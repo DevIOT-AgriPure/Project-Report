@@ -140,32 +140,18 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 - 2.3.2. User Task Matrix.
 
-***Segmento 1: Agricultores***
-
 | User Task | Frecuencia | Importancia |
 |-----------|-----------|-----------|
-| Se pueda crear una cuenta   | A Veces    | Alta    |
-| Tener una interfaz practica y facil de usar    | Siempre    | Media   |
-| Aceptar tarjetas para pagos   | A Veces    | Alta    |
-| Tenga una guia de eleccion de tierra y planta a sembrar | A Veces    | Media    |
-| Cuente con un caldendario para las fechas de fumigacion o fertilizacion    | Seguido    | Media Alta    |
-| Sea compatible con diferentes dispositivos o sistemas operativos   | A Veces    | Alta    |
+| Aprender sobre nuevas técnicas agrícolas   | A Veces    | Alta    |
+| Registrar datos de cultivo | Siempre    | Media   |
+| Buscar información en línea sobre cultivos  | A Veces    | Alta    |
+| Consultar libros o revistas agrícolas | A Veces    | Media    |
+| Comunicarse con otros agricultores  | Seguido    | Media Alta    |
+| Recibir asesoramiento de expertos en persona   | A Veces    | Alta    |
 | Pueda crear o visualizar las parcelas e indice de vegetacion   | Seguido   | Media    |
 | Informe sobre la distancia entre siembras y la profundidad    | Seguido   | Media    |
 | Brinde el pronostico de tiempo respecto a mi ubicacion    | Siempre    | Alta    |
 | Permita recibir notificaciones desde su dispositivo  | Seguido   | Media Alta   |
-
-***Segmento 2: Especialistas***
-
-| User Task | Frecuencia | Importancia |
-|-----------|-----------|-----------|
-| Se pueda crear una cuenta   | A Veces    | Alta     |
-| Tener una interfaz practica y facil de usar    | Siempre    | Media    |
-| Tenga una seleccion de disponibilidad de horarios | Siempre   | Alta    |
-| Cuente con configuracion de perfiles    | A Veces   | Alta    |
-| Sea compatible con diferentes dispositivos o sistemas operativos   | A Veces    | Alta   |
-| Pueda aceptar y rechazar horarios propuestos por otros usuarios   | A Veces    | Alta    |
-| Permita recibir notificaciones desde su dispositivo  | Siempre   | Alta   |
 
 - 2.3.3. User Journey Mapping.
 
@@ -218,5 +204,5 @@ Para los especialistas, consideramos de como es que ellos tienen ganas de mostra
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxNjU5NF19
+eyJoaXN0b3J5IjpbLTg4NzMwNjMyNSw3MDE2NTk0XX0=
 -->
