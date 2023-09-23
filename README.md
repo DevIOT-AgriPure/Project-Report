@@ -218,6 +218,5 @@ Para los especialistas, consideramos de como es que ellos tienen ganas de mostra
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxNjU5NCw5NDg0NzcxNzksLTE4Mzg0OD
-I4ODYsMTMyODMyMDg3MywtMTczNTE4MDk5MV19
+eyJoaXN0b3J5IjpbNzAxNjU5NF19
 -->
