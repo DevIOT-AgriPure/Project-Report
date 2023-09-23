@@ -144,11 +144,11 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 |-----------|-----------|-----------|-----------|-----------|
 | Aprender sobre nuevas técnicas agrícolas   | Siempre   | Alta    | A Veces    | Alta    |
 | Registrar datos de cultivo | Siempre    | Alta   | Siempre  | Alta    |
-| Buscar información en línea sobre cultivos  | A Veces    | Alta    | A Veces    | Alta    |
-| Consultar libros o revistas agrícolas | A Veces    | Media    | A Veces    | Alta    |
-| Comunicarse con otros agricultores  | Seguido    | Media Alta    | A Veces    | Alta    |
-| Recibir asesoramiento de expertos en persona   | A Veces    | Alta    | A Veces    | Alta    |
-| Participar en eventos agrícolas   | Seguido   | Media    | A Veces    | Alta    |
+| Buscar información en línea sobre cultivos  | A Veces    | Alta    | A Veces    | Baja    |
+| Consultar libros o revistas agrícolas | A Veces    | Media    | A Veces    | Baja  |
+| Comunicarse con otros agricultores  | Seguido    | Alta    | Siempre  | Alta   |
+| Recibir asesoramiento de expertos en persona   | Siempre   | Alta    | A Veces    | Alta    |
+| Participar en eventos agrícolas   | Seguido   | Media    | A Veces    | Media    |
 | Actualizar sus prácticas basadas en investigaciones  | Seguido   | Media    | A Veces    | Alta    |
 
 - 2.3.3. User Journey Mapping.
@@ -202,6 +202,6 @@ Para los especialistas, consideramos de como es que ellos tienen ganas de mostra
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjcxNjY4NSwtMjA5ODcxODYzOSw3MD
+eyJoaXN0b3J5IjpbMTE3NzU1MzI4MSwtMjA5ODcxODYzOSw3MD
 E2NTk0XX0=
 -->
