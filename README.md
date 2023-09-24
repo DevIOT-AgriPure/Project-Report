@@ -113,12 +113,12 @@ Es usado cuando los agrícolas, generalmente los principiantes, tienen alguna du
 **Características Clave Relevantes:**
 5. **¿Qué características son relevantes?**
 
-Las características más relevantes de la aplicación será el hecho de poder brindar información útil o guía para conocer cómo se deben cultivar las plantas, con relación al terreno, clima y temporada que se especificara en cada campo para un correcto funcionamiento.
+Las características más relevantes de la aplicación incluyen la capacidad de proporcionar información útil y guía para el cultivo de plantas, teniendo en cuenta el terreno, el clima y la temporada.
 
 **Diseño y Funcionamiento del Producto:**
 6.  **¿Cómo debe verse nuestro producto y cómo comportarse?**
 
-Nuestro producto debería tener un diseño moderno y simplista, lo suficiente como para que los nuevos usuarios puedan entender el propósito y uso de la aplicación. De esa manera, el App móvil deberá estar operativo las 24/7 y todos los errores se solucionarán hasta antes cumplir las 24 horas del día.
+Nuestro producto debería tener un diseño moderno y simplista, debe presentar un diseño moderno y sencillo, y estar disponible las 24/7. Cualquier error debe resolverse en un plazo máximo de 24 horas.
 
   - 1.2.2.3. Lean UX Hypothesis Statements.
  
@@ -148,6 +148,6 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 - Agricultores: Son nuestro principal segmento objetivo, son aquellos que quieren tener su propio cultivo y recibir recomendaciones en cuanto al mismo. Por lo general tendrán entre 20 y 55 años.
 - Asesores: Son aquellos que estan dispuestos a ayudar a los agricultores, brindandoles algunos tips y servicios si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4MjU2Mjk2LC0xMDAxODM5ODExLDIxND
-cyNTA2MywxOTAzNDg4ODYyLC0yMDgzNjY4MzAwXX0=
+eyJoaXN0b3J5IjpbMTEwNTIyNDgyMywtMTAwMTgzOTgxMSwyMT
+Q3MjUwNjMsMTkwMzQ4ODg2MiwtMjA4MzY2ODMwMF19
 -->
