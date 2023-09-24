@@ -130,7 +130,7 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 ### 2.3. Needfinding.
 - 2.3.1. User Personas.
 
-El propósito principal del desarrollo de nuestros User Personas es humanizar a los usuarios y proporcionar una comprensión más profunda de sus perspectivas y necesidades. Esto nos ayuda a tomar mejores decisiones y a centrar sus esfuerzos en la creación de soluciones que se ajusten mejor a las expectativas y requerimientos de los usuarios reales. Las User Personas son una herramienta valiosa en la toma de decisiones de diseño, marketing y desarrollo de productos y servicios.
+El propósito principal del desarrollo de nuestros User Personas es humanizar a los usuarios y proporcionar una comprensión más profunda de sus perspectivas y necesidades. Esto nos ayuda a tomar mejores decisiones y a centrar sus esfuerzos en la creación de soluciones que se ajusten mejor a las expectativas y requerimientos de los usuarios reales. Con ayuda de las entrevistas, hemos podido desarrollar cada uno de estos cuadros.
 
 ***Segmento 1: Agricultores***
 
@@ -208,6 +208,5 @@ El As-Is Scenario Map es una representación visual que describe y documenta de 
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzIxMjE0MjYsLTExMDAyNjc0MzJdfQ
-==
+eyJoaXN0b3J5IjpbLTIwODQ1MDg5NjVdfQ==
 -->
