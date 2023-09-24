@@ -134,21 +134,23 @@ Nuestro producto debería tener un diseño moderno y simplista, debe presentar u
 **Segmentación de Clientes:**
     
  -   **HYPOTHESIS 3:** Creemos que si nos enfocamos en agricultores de 18 a 80 años que buscan mejorar su producción agrícola a través de nuevas tecnologías, entonces identificaremos un mercado objetivo receptivo a nuestra solución.
+ 
 **Valor Principal para el Cliente:**
     
 -   **HYPOTHESIS 4:** Creemos que si permitimos que los usuarios gestionen todos sus terrenos y tipos de cultivos en la aplicación, mostrando resultados satisfactorios, entonces satisfaremos la principal demanda de nuestros clientes.
-3.  **Modelo de Negocio:**
+
+**Modelo de Negocio:**
     
-    -   **HYPOTHESIS 5:** Creemos que si ofrecemos una versión gratuita con un registro limitado a un terreno, pero con la capacidad de ampliar el área sin restricciones mediante un plan premium, entonces los usuarios estarán dispuestos a pagar por funcionalidades adicionales.
-4.  **Diferenciación y Ventaja Competitiva:**
+-   **HYPOTHESIS 5:** Creemos que si ofrecemos una versión gratuita con un registro limitado a un terreno, pero con la capacidad de ampliar el área sin restricciones mediante un plan premium, entonces los usuarios estarán dispuestos a pagar por funcionalidades adicionales.
+**Diferenciación y Ventaja Competitiva:**
     
-    -   **HYPOTHESIS 6:** Creemos que si destacamos entre la competencia al proporcionar información detallada sobre ubicación, clima, niveles de pH y una guía de cultivo específica, entonces atraeremos a la mayoría de los clientes.
-5.  **Riesgo Principal del Producto:**
+-   **HYPOTHESIS 6:** Creemos que si destacamos entre la competencia al proporcionar información detallada sobre ubicación, clima, niveles de pH y una guía de cultivo específica, entonces atraeremos a la mayoría de los clientes.
+- **Riesgo Principal del Producto:**
     
-    -   **HYPOTHESIS 7:** Creemos que si mitigamos el riesgo de proporcionar recomendaciones erróneas mediante la recopilación constante de comentarios de los usuarios y actualizaciones oportunas, entonces mantendremos la confianza de los usuarios y evitaremos resultados negativos.
-6.  **Resolución de Problemas:**
+-   **HYPOTHESIS 7:** Creemos que si mitigamos el riesgo de proporcionar recomendaciones erróneas mediante la recopilación constante de comentarios de los usuarios y actualizaciones oportunas, entonces mantendremos la confianza de los usuarios y evitaremos resultados negativos.
+- **Resolución de Problemas:**
     
-    -   **HYPOTHESIS 8:** Creemos que si utilizamos los comentarios de los usuarios para realizar actualizaciones continuas, entonces mejoraremos constantemente el producto y satisfaremos las expectativas de los usuarios.
+ -   **HYPOTHESIS 8:** Creemos que si utilizamos los comentarios de los usuarios para realizar actualizaciones continuas, entonces mejoraremos constantemente el producto y satisfaremos las expectativas de los usuarios.
 7.  **Soporte Técnico y Profesional:**
     
     -   **HYPOTHESIS 9:** Creemos que si ofrecemos soporte técnico y asesoramiento profesional para usuarios con registro premium, entonces proporcionaremos un valor adicional que respaldará una mejor producción agraria.
@@ -184,7 +186,7 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 - Agricultores: Son nuestro principal segmento objetivo, son aquellos que quieren tener su propio cultivo y recibir recomendaciones en cuanto al mismo. Por lo general tendrán entre 20 y 55 años.
 - Asesores: Son aquellos que estan dispuestos a ayudar a los agricultores, brindandoles algunos tips y servicios si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAyMjAwODcsNzI2ODkzNSwxNTE4OD
-U1MTU3LDExMDUyMjQ4MjMsLTEwMDE4Mzk4MTEsMjE0NzI1MDYz
-LDE5MDM0ODg4NjIsLTIwODM2NjgzMDBdfQ==
+eyJoaXN0b3J5IjpbLTg0Nzg2NTc0Nyw3MjY4OTM1LDE1MTg4NT
+UxNTcsMTEwNTIyNDgyMywtMTAwMTgzOTgxMSwyMTQ3MjUwNjMs
+MTkwMzQ4ODg2MiwtMjA4MzY2ODMwMF19
 -->
