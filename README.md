@@ -184,6 +184,9 @@ Entrevista #2:
 
 - 2.2.3. Análisis de entrevistas.
 
+Habiendo realizado nuestras entrevistas, hemos llegado a estas conclusiones, el 100% de nuestros usuarios son peruanos y rondan por las edades entre 20 y 55 años
+
+En resumen, las entrevistas muestran que los agricultores entrevistados valoran sus conocimientos agrícolas, pero buscan soluciones tecnológicas que les ayuden a optimizar sus procesos y afrontar desafíos como la conectividad irregular, la necesidad de pronósticos climáticos y la falta de conocimientos agrícolas entre los jóvenes. Ven con interés la idea de una aplicación integral que les brinde información precisa y herramientas para mejorar la gestión de sus cultivos, reconociendo su dependencia económica de la agricultura y su deseo de mantenerse a la vanguardia de las prácticas agrícolas.
 
 ### 2.3. Needfinding.
 - 2.3.1. User Personas.
@@ -266,5 +269,6 @@ El As-Is Scenario Map es una representación visual que describe y documenta de 
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyMDk0NDAzLC0yMDg0NTA4OTY1XX0=
+eyJoaXN0b3J5IjpbLTEzMjcwMzYwNzgsLTIwODQ1MDg5NjVdfQ
+==
 -->
