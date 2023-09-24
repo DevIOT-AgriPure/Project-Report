@@ -140,5 +140,5 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 - Agricultores: Son nuestro principal segmento objetivo, son aquellos que quieren tener su propio cultivo y recibir recomendaciones en cuanto al mismo. Por lo general tendrán entre 20 y 55 años.
 - Asesores: Son aquellos que estan dispuestos a ayudar a los agricultores, brindandoles algunos tips y servicios si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM2NjgzMDBdfQ==
+eyJoaXN0b3J5IjpbMTkwMzQ4ODg2MiwtMjA4MzY2ODMwMF19
 -->
