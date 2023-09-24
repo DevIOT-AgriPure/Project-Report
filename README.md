@@ -43,7 +43,8 @@ Para este segmento utilizaremos la tecnica de las 5W y 2H
   - 1.2.2.1. Lean UX Problem Statements.
   
 **Problem Statement 1:**  
- La sostenibilidad y la seguridad alimentaria son preocupaciones globales crecientes en la agricultura. La agricultura sostenible implica prácticas que conserven los recursos naturales y reduzcan al mínimo el impacto ambiental, mientras que la seguridad alimentaria implica la producción de alimentos seguros y nutritivos en cantidades adecuadas para la población.
+-Los agricultores en nuestras comunidades agrícolas se enfrentan al desafío de la falta de acceso a información actualizada y estrategias para llevar a cabo prácticas agrícolas sostenibles y garantizar la seguridad alimentaria.
+Esto resulta en prácticas agrícolas insostenibles y una disminución de la calidad de los alimentos producidos, lo que afecta negativamente a sus ingresos económicos.
 
 Un desafío crítico radica en la falta de acceso de los agricultores a información actualizada y estrategias para adoptar prácticas agrícolas sostenibles y garantizar la seguridad alimentaria. Esto puede dar lugar a prácticas insostenibles y a una menor calidad de los alimentos producidos.
 
@@ -51,9 +52,10 @@ Un desafío crítico radica en la falta de acceso de los agricultores a informac
 
   **Problem Statement 2:**
  
-  En nuestro contexto, se hace necesario el acceso a datos relacionados con la siembra, las condiciones climáticas y el tipo de terreno en el que se pretende llevar a cabo la actividad agrícola. Gracias a la información proporcionada por el usuario, es posible mostrar las condiciones a las que están expuestas sus cosechas y, además, suministrar las indicaciones esenciales para llevar a cabo los procesos de cultivo adecuados para cada especie de planta.
 
-Hemos encontrado un factor crítico que tiene un impacto significativo en los resultados finales generados por el sistema. Este factor radica en la introducción de datos inexactos o que no se ajustan a los valores correctos relativos al terreno, el clima y la siembra.
+Los asesores agrícolas en nuestro contexto se ven obstaculizados por la falta de acceso a datos precisos sobre la siembra, las condiciones climáticas y el tipo de terreno en el que se pretende llevar a cabo la actividad agrícola.
+Esto conlleva a un asesoramiento subóptimo y una falta de aprovechamiento completo de su experiencia en el campo agrícola, ya que carecen de información precisa sobre las condiciones reales de los campos de cultivo.
+La introducción de datos inexactos o no ajustados a los valores correctos relativos al terreno, el clima y la siembra limita la eficacia de su asesoramiento, necesitamos encontrar una manera de garantizar que el sistema pueda operar con información más precisa, lo que a su vez permitirá a los asesores agrícolas ofrecer resultados más favorables a los agricultores.
 
 ¿Cómo podemos garantizar que el sistema pueda operar con información más precisa para ofrecer resultados favorables al agricultor?  
 
@@ -132,6 +134,6 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 - Agricultores: Son nuestro principal segmento objetivo, son aquellos que quieren tener su propio cultivo y recibir recomendaciones en cuanto al mismo. Por lo general tendrán entre 20 y 55 años.
 - Asesores: Son aquellos que estan dispuestos a ayudar a los agricultores, brindandoles algunos tips y servicios si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzI1MDYzLDE5MDM0ODg4NjIsLTIwOD
-M2NjgzMDBdfQ==
+eyJoaXN0b3J5IjpbLTEwMDE4Mzk4MTEsMjE0NzI1MDYzLDE5MD
+M0ODg4NjIsLTIwODM2NjgzMDBdfQ==
 -->
