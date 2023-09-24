@@ -124,11 +124,63 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 					
 - 2.2.2. Registro de entrevistas.
 
-Enlace de Entrevistas:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020026_upc_edu_pe/Eboif-pdR7BPhhGD5VgYv4EBF2RGCildS9Lbnuf7P124Gg?e=edGooy
+Enlace de Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020026_upc_edu_pe/Eboif-pdR7BPhhGD5VgYv4EBF2RGCildS9Lbnuf7P124Gg?e=edGooy
+  
+***Segmento 1: Agricultores***
+
+Entrevista #1: 
+
+![Entrevista 1](https://media.discordapp.net/attachments/912089666939916348/1149060093338452008/image.png?width=866&height=415)
+- Nombre: Alejandro Rojas 
+- Edad: 20 años 
+-  Residencia: Santiago de Surco 
+- Timing: 00:03 
+- Tecnologías: Windows, Android. 
+- Resumen: Alejandro es un estudiante universitario que posee una residencia en Chosica. En ese lugar, junto con su familia, se dedica a la agricultura los fines de semana, cultivando diversas plantas y cultivos. Además, en su hogar en Lima, cultiva plantas pequeñas como el romero. Explica que utiliza tierras ricas en nutrientes para el cultivo, empleando composta, que se compone de residuos, para favorecer el crecimiento de las plantas. Alejandro se dedica a podar las plantas semanalmente para evitar que crezcan en exceso. También menciona que la temporada óptima para el cultivo de plantas suele ser durante la primavera y el verano, aunque no está completamente seguro de ello. Por último, muestra interés en una aplicación que le permita visualizar el estado de la vegetación en sus terrenos y que disponga de tecnologias IOT, aunque señala que en Chosica solo puede acceder a datos móviles, ya que la señal Wi-Fi es muy débil en esa zona. 
+
+Entrevista #2: 
+
+- ![Entrevista 2](https://media.discordapp.net/attachments/912089666939916348/1149479957538558052/image.png?width=1182&height=610)
+- Nombre: Carmen Martinez 
+- Edad: 50 años 
+-  Residencia: Huaral 
+- Timing: 11:02 
+- Tecnologías: Windows, Android. 
+- Resumen:
+- Carmen es una administradora que vive en huaral, una ciudad agricola, ella trabaja alquilando departamentos y tiene una sembrio en el que realiza el cultivo de vainitas, ella dedica 3 dias a la semana para trabajar en la chacra.Ella tiene buena señal movil, tambien nos explica que el suelo arenoso y los climas propicios en Huaral le son de mucha ayuda. Nos comenta que tuvo un previo asesoramiento en su cultivo y no realiza podas por la naturaleza de sus plantas.
   
 
+***Segmento 2: Especialistas***
 
+Entrevista #1: 
+
+![Entrevista 2](https://media.discordapp.net/attachments/877599577073647676/1149365323670229022/e89aa1c7-8c8a-43a2-93ea-6eaeaa6e02bd.png?width=2138&height=700)
+- Nombre: Erick Joaquin 
+- Edad: 21 años 
+-  Residencia: Lima
+- Timing: 19:30
+- Tecnologías: Windows, Android. 
+- Resumen: Erick es un egresado de la carrera de ingenieria agronomica. Esta comenzando hacer practicas por lo que adquirio conceptos sobre es asesoramiento de los cultivos, Explica que recomienda la elección adecuada de cultivos, mejora del suelo y prácticas sostenibles. Ademas de los desafios que presentan los agricultores identifico algunos como el clima y la gestión del agua. Tambien meciona que las tendencias actuales, como la agricultura de precisión, son prometedoras. Por ultimo, Actualmente no tiene recursos para invertir en dispositivos IoT, pero estaria dispuesto a explorar opciones de financiamiento y colaboración.
+
+Entrevista #2: 
+![Entrevista 3](https://cdn.discordapp.com/attachments/1063259243727306824/1149580605592449044/image.png?width=2138&height=700)
+
+- Nombre: Richard Romero 
+- Edad: 25 años
+-  Residencia: Los Olivos
+- Timing: 24:45
+- Tecnologías: Windows, Android. 
+- Resumen: Richard actualmente vive en Los Olivos, es un estudiante universitario y trabaja en un negocio independiente. Se dedica a vender fertilizantes, ademas tiene conocimiento de agronomia. Nos dice que debido a la alza de los precios, algunos productos estan de subido, asi que recomienda algunas marcas economicas para poder adquirir sus productos.Menciona que actualmente hay mucha gente con pocos conocimientos o con falta de informacion de sus cultivos. Tambien comenta que esta interesado en los dispositivos IoT y estaria dispuesto a probarlos en su rubro. 
+
+
+Entrevista #2:
+ ![](https://media.discordapp.net/attachments/881196470844420159/1149169300364599376/image.png) 				 
+-  Nombre: Edery Renzo Abanto Vicente
+ - Edad: 23 años 
+ - Residencia: Pueblo Libre 
+ -  Duración: 32:18 
+ -  Tecnologías: Windows, Android. 
+ - Resumen: Edery es un ingeniero agrónomo egresado de los últimos años. Ha tenido experiencia trabajando en cultivos a lo largo del país. Cada vez que va a realizar una asesoría, hace visitas al campo para poder analizar el entorno que rodea al cultivo. Él piensa que el cambio climático es uno de los factores que más afectan el desarrollo de las plantas. Edery piensa que un factor importante es revisar la calidad de las semillas al momento de comprarlas. Para finalizar, le parece muy interesante la idea de utilizar dispositivos IoT para el monitoreo de cultivos. 
 
 - 2.2.3. Análisis de entrevistas.
 
@@ -214,5 +266,5 @@ El As-Is Scenario Map es una representación visual que describe y documenta de 
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDc3MTIxMCwtMjA4NDUwODk2NV19
+eyJoaXN0b3J5IjpbNjkyMDk0NDAzLC0yMDg0NTA4OTY1XX0=
 -->
