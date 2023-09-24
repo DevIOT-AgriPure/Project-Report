@@ -126,7 +126,9 @@ Nuestro producto debería tener un diseño moderno y simplista, debe presentar u
 
 -   **HYPOTHESIS 1:** Creemos que si proporcionamos una herramienta que mejore los procesos y tratamientos agrícolas, entonces los usuarios estarán dispuestos a adoptarla con la expectativa de generar ganancias económicas a corto y largo plazo en cada producción.
 
-HYPOTHESIS 2: Creemos que la función de guía sobre plantas, basada en el análisis del pH, clima y terreno, será de gran utilidad para los agricultores que buscan mejorar o corregir sus métodos de siembra. Sabemos que tendremos éxito durante las entrevistas de validación, más del 90% de los usuarios no encuentran problemas con esta funcionalidad.
+**Solución Propuesta:**
+
+-   **HYPOTHESIS 2:** Creemos que si creamos una aplicación móvil que indique las condiciones de cultivo y ofrezca recomendaciones específicas, entonces los agricultores la utilizarán para mejorar sus prácticas agrícolas, incluyendo métodos de tratamiento de enfermedades, riego y fumigación.
 
 HYPOTHESIS 3: Creemos que ofrecer un plan gratuito que permita a los usuarios experimentar más a fondo con el producto atraerá a más clientes. Sabemos que tendremos éxito al alcanzar un mínimo de 1000 usuarios en los primeros días del lanzamiento.
 
@@ -150,7 +152,7 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 - Agricultores: Son nuestro principal segmento objetivo, son aquellos que quieren tener su propio cultivo y recibir recomendaciones en cuanto al mismo. Por lo general tendrán entre 20 y 55 años.
 - Asesores: Son aquellos que estan dispuestos a ayudar a los agricultores, brindandoles algunos tips y servicios si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODg1NTE1NywxMTA1MjI0ODIzLC0xMD
-AxODM5ODExLDIxNDcyNTA2MywxOTAzNDg4ODYyLC0yMDgzNjY4
-MzAwXX0=
+eyJoaXN0b3J5IjpbNzI2ODkzNSwxNTE4ODU1MTU3LDExMDUyMj
+Q4MjMsLTEwMDE4Mzk4MTEsMjE0NzI1MDYzLDE5MDM0ODg4NjIs
+LTIwODM2NjgzMDBdfQ==
 -->
