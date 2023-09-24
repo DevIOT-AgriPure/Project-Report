@@ -15,12 +15,12 @@
   - **Colores:** 
     - **Color primario**
   
-      HEX:  ![Alt text](image-1.png) 008000
+      HEX:  ![PrimeryColor](https://media.discordapp.net/attachments/1063259243727306824/1155576290246660096/image.png) 008000
 
       El color verde contiene la representación de la vegetación y los cultivos, con el tono degradé, incluyendo todo tipo de cultivos.
     - **Color secundario**
     - 
-      HEX: ![Alt text](image-2.png) E49E43
+      HEX: ![SecondaryColor](https://media.discordapp.net/attachments/1063259243727306824/1155576306969362483/image.png) E49E43
 
       El color ámbar representa la juventud y la calidez que resaltan los cultivos a plena luz.
   - **Espaciado o Spacing:**
