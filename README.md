@@ -78,9 +78,9 @@
 
         - **Accedemos al repositorio de nuestra landing page:** ![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeploy.PNG?raw=true)
 
-        - **Nos vamos a configuración, a la sección de page** ![Landing page deploy conf]()
+        - **Nos vamos a configuración, a la sección de page** ![Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
 
-        - **Seleccionamos la rama de donde desplegaremos la landing** ![Landing page delpoy branch]()
+        - **Seleccionamos la rama de donde desplegaremos la landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=true)
 
         - **Esperamos unos instantes y la landing page estará desplegada** ![Landing page deployed]()
 
@@ -96,7 +96,23 @@
 
     - **6.2.1. Sprint 1**
     
-    Para este sprint tomamos en cuenta las User Stories que tengan relaciòn con el desarrollo e implementaciòn de la landing page. Se encargò una tarea a cada integrante del equipo.
-        
+    Para este sprint tomamos en cuenta las User Stories que tengan relaciòn con el desarrollo e implementaciòn de la landing page y la primera versión de nuestro front-end. Se encargò una tarea a cada integrante del equipo.
+
+    - **6.2.1.1 Sprint Planning 1**
+
+        - Sprint #: 1
+        - Spring Planning Background
+            | Date                            | 24/09/2023                                                   |
+            |---------------------------------|--------------------------------------------------------------|
+            | Time                            | 5pm                                                          |
+            | Location                        | Llamada en discord                                           |
+            | Prepared By                     | Talledo, Diego                                               |
+            | Attendees (to planning meeting) | Soto, Franchesco Reynoso, Andrés Palomino, Bruno Alva, Frank |
+        - Sprint Goal & User Stories
+            | Sprint Goal 1                   | Implemntar y desplegar la landing page. A su vez, desarrollar la primera    versión del front-end |
+            |---------------------------------| ------------------------------------------------------------------------------------------------|
+            | Sprint 1  Velocity               |                                                                                                    |
+            | Sum of story  points             |                                                                                                    |
+            
 
         
