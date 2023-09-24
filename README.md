@@ -62,27 +62,30 @@ La introducción de datos inexactos o no ajustados a los valores correctos relat
   - 1.2.2.2. Lean UX Assumptions.
   
  Business Assumptions:
+ **Necesidad del Mercado:**
 1. **Los usuarios necesitan** una herramienta que permita mejorar los procesos y tratamientos de agricultura, que a corto o largo plazo genere ganancias económicas durante cada producción.
-
+**Solución Propuesta:**
 2. **Esta necesidad se puede solventar** con una aplicación móvil que indica las condiciones en las que se encuentra su siembra. Asimismo, brindar recomendaciones para cada tipo de planta, métodos de cómo tratar enfermedades, regadíos y fumigación.
-
+**Segmentación de Clientes:**
 3. **Nuestros clientes serán** los agricultores de 18 a 80 años que desean conocer nuevos métodos para mejorar su producción agrícola, por medio de nuevas tecnologías.
-
+**Valor Principal para el Cliente:**
 4. **El valor #1 que un cliente desea sobre nuestro servicio** es que todos sus terrenos y tipo de plantas (siembra) puedan trabajarse en la aplicación mostrando los resultados correctos y satisfactorios
-
+**Modelo de Negocio:**
 5. **Los beneficios a los que accede nuestros usuarios** es el acceso a una versión gratuita donde el máximo de terrenos que podrá registrar es de solo uno, pero el usuario puede limitar el área de este sin restricciones.
-
+**Diferenciación y Ventaja Competitiva:**
 6. **Atraeremos a la mayoría de los clientes a través de** la diferencia entre nuestra competencia. Aparte de mostrar todos los datos de ubicación, clima, nivel de pH, nuestro producto mostrara una guía de plantas que tiene como objetivo orientar a los agricultores para conocer los pasos correctos de siembra y el tratamiento que debe tener para el terreno en donde este sembrando.
-
+**Riesgo Principal del Producto:**
 7. **Mi mayor riesgo de producto** son resultados erróneos que terminen provocando una mala recomendación de la siembra y llegue a empeorarla.
 
-8. **Resolveremos esto a través de** los _feedback_ de usuarios para lanzar constantes actualizaciones que buscan corregir y mejorar el producto en busca de satisfacer las expectativas de los usuarios.
+**Resolución de Problemas:**
+9. **Resolveremos esto a través de** los _feedback_ de usuarios para lanzar constantes actualizaciones que buscan corregir y mejorar el producto en busca de satisfacer las expectativas de los usuarios.
 
-9. **Para usuarios con plan de registro,** todas las dudas y recomendaciones serán atendidas por un técnico agrícola, a su vez ingenieros ambientales, que utilizarán sus conocimientos profesionales para dar realce a una mejor producción agraria.
+**Soporte Técnico y Profesional:**
+10. **Para usuarios con plan de registro,** todas las dudas y recomendaciones serán atendidas por un técnico agrícola, a su vez ingenieros ambientales, que utilizarán sus conocimientos profesionales para dar realce a una mejor producción agraria.
 
  User Assumptions
  
-1. **¿Quién es el usuario?**
+11. **¿Quién es el usuario?**
 
 Agricultores y personas amantes de las plantas al borde de 18 a 80 años buscando mejorar su producción agrícola.
 
@@ -134,6 +137,6 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 - Agricultores: Son nuestro principal segmento objetivo, son aquellos que quieren tener su propio cultivo y recibir recomendaciones en cuanto al mismo. Por lo general tendrán entre 20 y 55 años.
 - Asesores: Son aquellos que estan dispuestos a ayudar a los agricultores, brindandoles algunos tips y servicios si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE4Mzk4MTEsMjE0NzI1MDYzLDE5MD
-M0ODg4NjIsLTIwODM2NjgzMDBdfQ==
+eyJoaXN0b3J5IjpbODE3NzI1MTAsLTEwMDE4Mzk4MTEsMjE0Nz
+I1MDYzLDE5MDM0ODg4NjIsLTIwODM2NjgzMDBdfQ==
 -->
