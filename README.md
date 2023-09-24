@@ -27,3 +27,31 @@
         - **GitHub:** Aplicación web que utilizaremos para el control de versiones de nuestro proyecto. Podemos acceder a sus servicios a través de: [https://github.com/](https://github.com/)
 
         - **Android Studio:** Entorno de desarrollo (IDLE) que utilizaremos para desarrollar nuestra aplicación móvil. Podemos acceder a través de: [https://developer.android.com/studio?gclid=CjwKCAjwmbqoBhAgEiwACIjzEALGhH7IKxVPgvmi7rUWtPaFlpD-Bw3QZAltOFF2JEIJvrA-ftw-hRoCfvsQAvD_BwE&gclsrc=aw.ds](https://developer.android.com/studio?gclid=CjwKCAjwmbqoBhAgEiwACIjzEALGhH7IKxVPgvmi7rUWtPaFlpD-Bw3QZAltOFF2JEIJvrA-ftw-hRoCfvsQAvD_BwE&gclsrc=aw.ds)
+
+    - **6.1.2. Source Code Management**
+
+        Como se mencionó anteriormente, se utilizará GitHub como sistema de control de versiones. Se han creado repositorios dentro de nuestra organización de GitHub.
+
+        - Enlace al repositorio de la landing page: [https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page](https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page)
+
+        - Enlace al repositorio de Front-End: [https://github.com/DevIOT-AgriPure/Agripure-Web-Application](https://github.com/DevIOT-AgriPure/Agripure-Web-Application)
+
+        - Enlace al repositorio de Back-End: [https://github.com/DevIOT-AgriPure/AgriPure-WebServices](https://github.com/DevIOT-AgriPure/AgriPure-WebServices)
+
+        Los repositorios mencionados anteriormente seguirán la metodología de Git Flow, que nos permitirá trabajar de manera eficiente y ágil en proyectos colaborativos. En este enfoque, utilizaremos las siguientes ramas:
+        
+        - **Main:** Esta rama contiene la versión completa del proyecto, asegurándose de que no haya errores en su ejecución. Es la versión que se encuentra en producción y es accesible para los usuarios finales.
+
+        - **Hotfix:** En caso de que surja un problema con la versión en la rama Main, utilizaremos esta rama como respaldo para identificar y resolver el problema lo más rápido posible. Una vez resuelto, fusionaremos los cambios con las ramas Main y Develop, y luego eliminaremos esta rama.
+
+        - **Release:** En esta rama, la aplicación web funciona sin problemas, pero debe someterse a pruebas exhaustivas para garantizar que todas las funcionalidades estén operativas. Cuando las pruebas sean exitosas y no se encuentren errores, esta versión se fusiona con la rama Main. La rama Release se crea a partir de la rama Develop.
+
+        - **Develop:** En esta rama se encuentran las diferentes características (features) que se han fusionado y desarrollado durante el sprint actual.
+
+        - **Feature:** Estas ramas se crean según sea necesario para agregar nuevas funcionalidades a la aplicación web. Se derivan de la rama Develop y se fusionan y actualizan lo más rápido posible para evitar problemas de conflicto.
+
+        Flujo de trabajo basándose en la metodología GitFlow
+
+        [https://nvie.com/img/git-model@2x.png](https://nvie.com/img/git-model@2x.png)
+
+    - **6.1.3. Source Code Style Guide & Conventions**
