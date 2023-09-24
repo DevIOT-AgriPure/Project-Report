@@ -206,6 +206,5 @@ El As-Is Scenario Map es una representación visual que describe y documenta de 
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDAyNjc0MzIsLTIwOTg3MTg2MzksNz
-AxNjU5NF19
+eyJoaXN0b3J5IjpbLTExMDAyNjc0MzJdfQ==
 -->
