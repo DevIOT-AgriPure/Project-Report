@@ -91,5 +91,33 @@
   - 5.4.2. Applications Wireflow Diagrams.
   - 5.4.3. Applications Mock-ups.
   - 5.4.4. Applications User Flow Diagrams.
+  
+  | User Goal | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios.  |
+  |-----------|-----------|
+  | Task Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582004579012730/image.png) |
+  | User Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582152994455696/image.png) |
+
+  | User Goal | Como usuario deseo poder cerrar sesión en el dispositivo para que nadie más pueda usar mi cuenta  |
+  |-----------|-----------|
+  | Task Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582495438417970/image.png) |
+  | User Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582576136835283/image.png) |
+
+  | User Goal | Como usuario deseo poder actualizar mis datos guardados en la aplicación para que esta me funcione correctamente  |
+  |-----------|-----------|
+  | Task Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582742159970374/image.png) |
+  | User Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582756655472680/image.png) |  
+
+  | User Goal | Como usuario deseo poder ingresar la planta que deseo sembrar para que la aplicación me ayude en su control |
+  |-----------|-----------|
+  | Task Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582877942173797/image.png) |
+  | User Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582897697333298/image.png) |  
+
+  | User Goal | Como usuario deseo saber cuáles son los días que debo fumigar mis plantas para que no se infecten de plagas, al igual de saber en qué fechas debo fertilizar mis plantas para que crezcan y produzcan más frutos. |
+  |-----------|-----------|
+  | Task Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155583170809430087/image.png) |
+  | User Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155583194188480554/image.png) |    
+
+
+
 - 5.5. Applications Prototyping.
   
