@@ -76,6 +76,27 @@
         Para el despliegue de nuestra landing page se utilizará "GitHub Pages" ya que es ideal para sitios web estáticos. Es muy fácil de realizar el despliegue. Para llevarlo a cabo, seguiremos los siguientes pasos:
 
 
-        - **Accedemos al repositorio de nuestra landing page** ![Landing page deploy]()
+        - **Accedemos al repositorio de nuestra landing page:** ![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeploy.PNG?raw=true)
 
-        - **
+        - **Nos vamos a configuración, a la sección de page** ![Landing page deploy conf]()
+
+        - **Seleccionamos la rama de donde desplegaremos la landing** ![Landing page delpoy branch]()
+
+        - **Esperamos unos instantes y la landing page estará desplegada** ![Landing page deployed]()
+
+        **Web application**
+
+        Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
+
+        **Web Services**
+
+        Para el despliegue de nuestro back-end service se utilizarà "Railway", es ideal para subir soluciones y crear esquemas
+
+- **6.2 Landing Page, Services & Applications Implementation.**
+
+    - **6.2.1. Sprint 1**
+    
+    Para este sprint tomamos en cuenta las User Stories que tengan relaciòn con el desarrollo e implementaciòn de la landing page. Se encargò una tarea a cada integrante del equipo.
+        
+
+        
