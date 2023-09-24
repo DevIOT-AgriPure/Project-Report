@@ -109,10 +109,15 @@
             | Prepared By                     | Talledo, Diego                                               |
             | Attendees (to planning meeting) | Soto, Franchesco Reynoso, Andrés Palomino, Bruno Alva, Frank |
         - Sprint Goal & User Stories
-            | Sprint Goal 1                   | Implemntar y desplegar la landing page. A su vez, desarrollar la primera    versión del front-end |
+            | Sprint Goal 1                   | Implementar y desplegar la landing page. A su vez, desarrollar la primera    versión del front-end |
             |---------------------------------| ------------------------------------------------------------------------------------------------|
             | Sprint 1  Velocity               |                                                                                                    |
             | Sum of story  points             |                                                                                                    |
-            
 
+    - **6.2.1.2 Sprint Backlog 1**
+        
+        - Sprint #: 1
+            | US Id | US Title | Task Id | Task Description | Task Estimation | Assigned To | Status |
+            |-------|----------|---------|------------------|-----------------|-------------|--------|
+            |       |          |         |                  |                 |             |        |
         
