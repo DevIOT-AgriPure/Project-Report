@@ -188,7 +188,7 @@ Habiendo realizado nuestras entrevistas, hemos llegado a estas conclusiones, el 
 
 En base a los agricultores entrevistados, estos valoran sus conocimientos agrícolas, pero buscan soluciones tecnológicas que les ayuden a optimizar sus procesos y afrontar desafíos como la conectividad irregular, la necesidad de pronósticos climáticos y la falta de conocimientos agrícolas entre los jóvenes. Ven con interés la idea de una aplicación integral que les brinde información precisa y herramientas para mejorar la gestión de sus cultivos, reconociendo su dependencia económica de la agricultura y su deseo de mantenerse a la vanguardia de las prácticas agrícolas.
 
-En base a los especialistas entrevistados, ellos valoran y aprecian sus conocimientos en base a la agricultura, pero tienen el deseo de ayudar a otros agricultores con sus cultivos, brindarles tips, etc.
+En base a los especialistas entrevistados, ellos valoran y aprecian sus conocimientos en base a la agricultura, pero tienen el deseo de ayudar a otros agricultores con sus cultivos, brindarles tips, etc. Siempre tienen el interes y motivacion de encontrar una aplicacion que le pueda ayudar a buscar agricultores que necesiten ayuda suya.
 
 ### 2.3. Needfinding.
 - 2.3.1. User Personas.
@@ -271,6 +271,5 @@ El As-Is Scenario Map es una representación visual que describe y documenta de 
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTMwODE4NSwtMTY5MzIzMTI1LC0yMD
-g0NTA4OTY1XX0=
+eyJoaXN0b3J5IjpbLTczODYxOTU4M119
 -->
