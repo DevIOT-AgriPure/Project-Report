@@ -122,7 +122,9 @@ Nuestro producto debería tener un diseño moderno y simplista, debe presentar u
 
   - 1.2.2.3. Lean UX Hypothesis Statements.
  
- HYPOTHESIS 1: Creemos que la provisión de un calendario que indique los momentos óptimos para la fumigación y fertilización de las plantas contribuirá a mejorar las condiciones de cultivo. Sabemos que tendremos éxito al observar un aumento en las ganancias de producción, reflejado en informes proporcionados por nuestros clientes.
+**Necesidad del Mercado:**
+
+-   **HYPOTHESIS 1:** Creemos que si proporcionamos una herramienta que mejore los procesos y tratamientos agrícolas, entonces los usuarios estarán dispuestos a adoptarla con la expectativa de generar ganancias económicas a corto y largo plazo en cada producción.
 
 HYPOTHESIS 2: Creemos que la función de guía sobre plantas, basada en el análisis del pH, clima y terreno, será de gran utilidad para los agricultores que buscan mejorar o corregir sus métodos de siembra. Sabemos que tendremos éxito durante las entrevistas de validación, más del 90% de los usuarios no encuentran problemas con esta funcionalidad.
 
@@ -148,6 +150,7 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 - Agricultores: Son nuestro principal segmento objetivo, son aquellos que quieren tener su propio cultivo y recibir recomendaciones en cuanto al mismo. Por lo general tendrán entre 20 y 55 años.
 - Asesores: Son aquellos que estan dispuestos a ayudar a los agricultores, brindandoles algunos tips y servicios si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTIyNDgyMywtMTAwMTgzOTgxMSwyMT
-Q3MjUwNjMsMTkwMzQ4ODg2MiwtMjA4MzY2ODMwMF19
+eyJoaXN0b3J5IjpbMTUxODg1NTE1NywxMTA1MjI0ODIzLC0xMD
+AxODM5ODExLDIxNDcyNTA2MywxOTAzNDg4ODYyLC0yMDgzNjY4
+MzAwXX0=
 -->
