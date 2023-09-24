@@ -55,3 +55,27 @@
         [https://nvie.com/img/git-model@2x.png](https://nvie.com/img/git-model@2x.png)
 
     - **6.1.3. Source Code Style Guide & Conventions**
+
+        Para el desarrollo del código adoptamos convenciones y estilos presentes en diversas tecnologías a nivel mundial.
+
+        - Front-End: Vue y Vuetify
+        - Back-End: Java y Spring Boot
+        - Landing-Page: HTML, CSS y Javascript
+        - Base de datos: MySQL
+        - Convenciones de idioma: Se empleará el idioma inglés para desarrollar el código, sea en nuestra landing page, front end services o back end services. También los títulos de los commits se encontrarán en el mismo idioma.
+        - Convenciones de tecnología: Cada nombre de una tabla en nuestra base de datos iniciará con mayúscula, y si esta se compone de dos o más palabras, se separará cada una con un "_" y seguirá una mayúscula.
+        - Cada Unit Test deberá ser escrito en lenguaje Gherkin y sus convenciones. Podremos revisarlos en el siguiente enlace: [https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)
+        - Para escribir el título de los commits, utilizaremos  Conventional Commits. Podemos revisar la documentación en el siguiente enlace: [https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)
+        - Para trabajar con JavaScript, se utilizarán las convenciones "Google Javascript Style Guide". Podemos acceder a estas a través del siguiente enlace: [https://google.github.io/styleguide/jsguide.html](https://google.github.io/styleguide/jsguide.html)
+        - Para trabajar con Java y Spring Boot, se utilizarán las convenciones que el fabricante brinda y por su comunidad de desarrollo. Podremos observar estas convenciones en el siguiente enlace: [https://google.github.io/styleguide/javaguide.html](https://google.github.io/styleguide/javaguide.html)
+    - **6.1.4. Software Deployment Configuration**
+        En esta sección observaremos como desplegamos cada uno de nuestros servicios en la nube.
+
+        **Landing Page:**
+
+        Para el despliegue de nuestra landing page se utilizará "GitHub Pages" ya que es ideal para sitios web estáticos. Es muy fácil de realizar el despliegue. Para llevarlo a cabo, seguiremos los siguientes pasos:
+
+
+        - **Accedemos al repositorio de nuestra landing page** ![Landing page deploy]()
+
+        - **
