@@ -2,8 +2,36 @@
 - 5.1. Style Guidelines.
   - 5.1.1. General Style Guidelines
   
+  Con el propósito de dar estilo y reconocimiento, nuestra app web posee una gran variedad de ajustes en los temas de colores, las fuentes de tipografía y en el aspecto de diseño estructural. 
+  - **Tipografía:** Avenir Light
+
+    El tipo de letra escogida, sucesor de Avenir, resalta un tono   suave y moderno. Ofreciendo así, una visión amigable y fácil de   leer para nuestra plataforma.
+
   
   - 5.1.2. Web, Mobile and IoT Style Guidelines.
+  
+  En el presente apartado, demostraremos las decisiones que fueron tomadas en base a los estándares visuales y los diferentes tipos de interacción con respecto al responsive web interfaz.
+
+  - **Colores:** 
+    - **Color primario**
+  
+      HEX:  ![Alt text](image-1.png) 008000
+
+      El color verde contiene la representación de la vegetación y los cultivos, con el tono degradé, incluyendo todo tipo de cultivos.
+    - **Color secundario**
+      HEX: ![Alt text](image-2.png) E49E43
+
+      El color ámbar representa la juventud y la calidez que resaltan los cultivos a plena luz.
+  - **Espaciado o Spacing:**
+    - **Ilustraciones:**
+      Proponemos cuadros de imágenes simples/minimalistas, con el propósito de enviar la información de manera directa como se planeaba.
+    - **Fotografía:**
+      La fotografía es una herramienta esencial en nuestro rubro, ya que nos permite apoyar la información escrita sobre cualquier tema de agricultura.
+    - **Botones:**
+      Se emplean botones con márgenes redondeados para demostrar adaptabilidad y usabilidad.
+
+
+
 - 5.2. Information Architecture.
   
   En esta sección detallamos y sustentamos las decisiones de diseño que tomamos como equipo durante el desarrollo del proyecto. Siempre con el objetivo de facilitar al usuario adaptarse a nuestra aplicación, explicaremos las propuestas claves para el diseño de nuestro Landing Page y nuestra App.
