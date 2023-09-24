@@ -184,6 +184,8 @@ Nuestro producto debería tener un diseño moderno y simplista, debe presentar u
 **Diseño y Funcionamiento del Producto:**
 
 -   **HYPOTHESIS 15:** Creemos que si diseñamos la aplicación de manera moderna y simplista, con disponibilidad las 24/7 y resolvemos los errores en un plazo máximo de 24 horas, entonces garantizaremos una experiencia de usuario satisfactoria y confiable.
+
+
   - 1.2.2.4. Lean UX Canvas.
   ![Lean UX Canvas](https://media.discordapp.net/attachments/912089666939916348/1149059139457261700/Flowchart_1.jpg?width=1328&height=669)
 
@@ -194,7 +196,7 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 - Agricultores: Son nuestro principal segmento objetivo, son aquellos que quieren tener su propio cultivo y recibir recomendaciones en cuanto al mismo. Por lo general tendrán entre 20 y 55 años.
 - Asesores: Son aquellos que estan dispuestos a ayudar a los agricultores, brindandoles algunos tips y servicios si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2ODkxODYsNzI2ODkzNSwxNTE4ODU1MT
-U3LDExMDUyMjQ4MjMsLTEwMDE4Mzk4MTEsMjE0NzI1MDYzLDE5
-MDM0ODg4NjIsLTIwODM2NjgzMDBdfQ==
+eyJoaXN0b3J5IjpbLTQwNjY3MzIxMCw3MjY4OTM1LDE1MTg4NT
+UxNTcsMTEwNTIyNDgyMywtMTAwMTgzOTgxMSwyMTQ3MjUwNjMs
+MTkwMzQ4ODg2MiwtMjA4MzY2ODMwMF19
 -->
