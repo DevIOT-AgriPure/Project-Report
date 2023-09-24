@@ -19,6 +19,7 @@
 
       El color verde contiene la representación de la vegetación y los cultivos, con el tono degradé, incluyendo todo tipo de cultivos.
     - **Color secundario**
+    - 
       HEX: ![Alt text](image-2.png) E49E43
 
       El color ámbar representa la juventud y la calidez que resaltan los cultivos a plena luz.
