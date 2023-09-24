@@ -57,14 +57,6 @@ Hemos encontrado un factor crítico que tiene un impacto significativo en los re
 
 ¿Cómo podemos garantizar que el sistema pueda operar con información más precisa para ofrecer resultados favorables al agricultor?  
 
-  **Problem Statement 3:**
- 
-En el contexto de nuestra aplicación, se busca proporcionar a los agricultores una plataforma tecnológica eficiente y útil. 
-
-Sin embargo, uno de los desafíos identificados es la adopción y el uso efectivo de la aplicación por parte de los agricultores, en particular aquellos que pueden tener limitaciones tecnológicas o resistencia al cambio.
-
-¿Cómo podemos superar las barreras tecnológicas y fomentar una mayor adopción y uso de nuestra aplicación entre la comunidad agrícola para que puedan aprovechar al máximo sus beneficios?
-
   - 1.2.2.2. Lean UX Assumptions.
   
  Business Assumptions:
@@ -140,5 +132,6 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 - Agricultores: Son nuestro principal segmento objetivo, son aquellos que quieren tener su propio cultivo y recibir recomendaciones en cuanto al mismo. Por lo general tendrán entre 20 y 55 años.
 - Asesores: Son aquellos que estan dispuestos a ayudar a los agricultores, brindandoles algunos tips y servicios si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzQ4ODg2MiwtMjA4MzY2ODMwMF19
+eyJoaXN0b3J5IjpbMjE0NzI1MDYzLDE5MDM0ODg4NjIsLTIwOD
+M2NjgzMDBdfQ==
 -->
