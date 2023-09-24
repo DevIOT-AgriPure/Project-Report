@@ -187,6 +187,8 @@ Para los especialistas, consideramos de como es que ellos tienen ganas de mostra
 
 - 2.3.5. As-is Scenario Mapping.
 
+El As-Is Scenario Map es una representación visual que describe y documenta de manera detallada cómo funciona un proceso, sistema o situación en el estado actual, sin cambios o mejoras, usado para comprender y analizar un proceso o situación tal como existe en un momento dado, lo que proporciona una base sólida para identificar áreas de mejora y optimización.
+
 ***Segmento 1: Agricultores***
 
 | Steps | Busca informacion sobre agricultura | Encuentra mucha informacion esparcida por internet | Ingresa a un enlace de internet | Obtiene cierta informacion | 
@@ -204,6 +206,6 @@ Para los especialistas, consideramos de como es que ellos tienen ganas de mostra
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5NDcxMTI2LC0yMDk4NzE4NjM5LDcwMT
-Y1OTRdfQ==
+eyJoaXN0b3J5IjpbLTExMDAyNjc0MzIsLTIwOTg3MTg2MzksNz
+AxNjU5NF19
 -->
