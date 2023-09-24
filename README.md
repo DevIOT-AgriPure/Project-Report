@@ -90,7 +90,9 @@
   - 5.4.1. Applications Wireframes.
   - 5.4.2. Applications Wireflow Diagrams.
   - 5.4.3. Applications Mock-ups.
-  - 5.4.4. Applications User Flow Diagrams.
+  - 5.4.4. Applications User Flow Diagrams
+  
+     Es un tipo de diagrama utilizado en el diseño de aplicaciones y sitios web para visualizar cómo los usuarios interactúan con la interfaz y las funcionalidades de una aplicación. Estos diagramas representaran el camino que un usuario típico sigue mientras utiliza la aplicación, desde el inicio hasta la finalización de una tarea o proceso.
   
   | User Goal | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios.  |
   |-----------|-----------|
