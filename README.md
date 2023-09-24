@@ -64,47 +64,58 @@ La introducción de datos inexactos o no ajustados a los valores correctos relat
  Business Assumptions:
  **Necesidad del Mercado:**
 1. **Los usuarios necesitan** una herramienta que permita mejorar los procesos y tratamientos de agricultura, que a corto o largo plazo genere ganancias económicas durante cada producción.
+
 **Solución Propuesta:**
 2. **Esta necesidad se puede solventar** con una aplicación móvil que indica las condiciones en las que se encuentra su siembra. Asimismo, brindar recomendaciones para cada tipo de planta, métodos de cómo tratar enfermedades, regadíos y fumigación.
+
 **Segmentación de Clientes:**
 3. **Nuestros clientes serán** los agricultores de 18 a 80 años que desean conocer nuevos métodos para mejorar su producción agrícola, por medio de nuevas tecnologías.
+
 **Valor Principal para el Cliente:**
-4. **El valor #1 que un cliente desea sobre nuestro servicio** es que todos sus terrenos y tipo de plantas (siembra) puedan trabajarse en la aplicación mostrando los resultados correctos y satisfactorios
+4. **El valor #1 que un cliente desea sobre nuestro servicio** es que todos sus terrenos y tipo de plantas (siembra) puedan trabajarse en la aplicación mostrando los resultados correctos y satisfactorios.
+
 **Modelo de Negocio:**
 5. **Los beneficios a los que accede nuestros usuarios** es el acceso a una versión gratuita donde el máximo de terrenos que podrá registrar es de solo uno, pero el usuario puede limitar el área de este sin restricciones.
+
 **Diferenciación y Ventaja Competitiva:**
 6. **Atraeremos a la mayoría de los clientes a través de** la diferencia entre nuestra competencia. Aparte de mostrar todos los datos de ubicación, clima, nivel de pH, nuestro producto mostrara una guía de plantas que tiene como objetivo orientar a los agricultores para conocer los pasos correctos de siembra y el tratamiento que debe tener para el terreno en donde este sembrando.
+
 **Riesgo Principal del Producto:**
 7. **Mi mayor riesgo de producto** son resultados erróneos que terminen provocando una mala recomendación de la siembra y llegue a empeorarla.
 
 **Resolución de Problemas:**
-9. **Resolveremos esto a través de** los _feedback_ de usuarios para lanzar constantes actualizaciones que buscan corregir y mejorar el producto en busca de satisfacer las expectativas de los usuarios.
+8. **Resolveremos esto a través de** los _feedback_ de usuarios para lanzar constantes actualizaciones que buscan corregir y mejorar el producto en busca de satisfacer las expectativas de los usuarios.
 
 **Soporte Técnico y Profesional:**
-10. **Para usuarios con plan de registro,** todas las dudas y recomendaciones serán atendidas por un técnico agrícola, a su vez ingenieros ambientales, que utilizarán sus conocimientos profesionales para dar realce a una mejor producción agraria.
+9. **Para usuarios con plan de registro,** todas las dudas y recomendaciones serán atendidas por un técnico agrícola, a su vez ingenieros ambientales, que utilizarán sus conocimientos profesionales para dar realce a una mejor producción agraria.
 
  User Assumptions
- 
-11. **¿Quién es el usuario?**
+ **Perfil de Usuario:**
+10. **¿Quién es el usuario?**
 
 Agricultores y personas amantes de las plantas al borde de 18 a 80 años buscando mejorar su producción agrícola.
 
+**Uso Diario del Producto:**
 2. **¿Dónde encaja nuestro producto en el día a día?**
 
 En el día a día del trabajo de los agricultores, personas interesadas en producción, nuestra aplicación trabaja como una herramienta eficaz para la producción agrícola, brindándoles alternativas de abono, fumigación y tips de siembra.
 
+**Problemas Resueltos por el Producto:**
 3. **¿Qué problemas resuelve nuestro producto?**
 
 Esto resuelve la falta de conocimiento con respecto a la cultivación de plantas desconocidas o corregir los procesos que tienen durante la siembra. La App móvil, tienda a dar tips de producción, abono, selección de semillas y fertilizantes que se puede usar durante el periodo de crecimiento.
 
+**Frecuencia de Uso y Situaciones de Uso:**
 4. **¿Cuándo y cómo es usado nuestro producto?**
 
 Es usado cuando los agrícolas, generalmente los principiantes, tienen alguna duda con respecto a las condiciones a las que debe ser plantada las plantas, ya sea en una altitud especifica, nivel de pH adecuado y/o la distribución en el terreno.
 
+**Características Clave Relevantes:**
 5. **¿Qué características son relevantes?**
 
 Las características más relevantes de la aplicación será el hecho de poder brindar información útil o guía para conocer cómo se deben cultivar las plantas, con relación al terreno, clima y temporada que se especificara en cada campo para un correcto funcionamiento.
 
+**Diseño y Funcionamiento del Producto:**
 6.  **¿Cómo debe verse nuestro producto y cómo comportarse?**
 
 Nuestro producto debería tener un diseño moderno y simplista, lo suficiente como para que los nuevos usuarios puedan entender el propósito y uso de la aplicación. De esa manera, el App móvil deberá estar operativo las 24/7 y todos los errores se solucionarán hasta antes cumplir las 24 horas del día.
@@ -137,6 +148,6 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 - Agricultores: Son nuestro principal segmento objetivo, son aquellos que quieren tener su propio cultivo y recibir recomendaciones en cuanto al mismo. Por lo general tendrán entre 20 y 55 años.
 - Asesores: Son aquellos que estan dispuestos a ayudar a los agricultores, brindandoles algunos tips y servicios si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3NzI1MTAsLTEwMDE4Mzk4MTEsMjE0Nz
-I1MDYzLDE5MDM0ODg4NjIsLTIwODM2NjgzMDBdfQ==
+eyJoaXN0b3J5IjpbNjI4MjU2Mjk2LC0xMDAxODM5ODExLDIxND
+cyNTA2MywxOTAzNDg4ODYyLC0yMDgzNjY4MzAwXX0=
 -->
