@@ -123,7 +123,13 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 		j. ¿Estaria dispuesto a invertir en dispositivos IOT para realizar el asesoramiento?
 					
 - 2.2.2. Registro de entrevistas.
+
+Enlace de Entrevistas:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020026_upc_edu_pe/Eboif-pdR7BPhhGD5VgYv4EBF2RGCildS9Lbnuf7P124Gg?e=edGooy
   
+
+
+
 - 2.2.3. Análisis de entrevistas.
 
 
@@ -208,5 +214,5 @@ El As-Is Scenario Map es una representación visual que describe y documenta de 
 | Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ1MDg5NjVdfQ==
+eyJoaXN0b3J5IjpbMjEyNDc3MTIxMCwtMjA4NDUwODk2NV19
 -->
