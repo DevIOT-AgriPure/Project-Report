@@ -130,17 +130,49 @@ Nuestro producto debería tener un diseño moderno y simplista, debe presentar u
 
 -   **HYPOTHESIS 2:** Creemos que si creamos una aplicación móvil que indique las condiciones de cultivo y ofrezca recomendaciones específicas, entonces los agricultores la utilizarán para mejorar sus prácticas agrícolas, incluyendo métodos de tratamiento de enfermedades, riego y fumigación.
 
-HYPOTHESIS 3: Creemos que ofrecer un plan gratuito que permita a los usuarios experimentar más a fondo con el producto atraerá a más clientes. Sabemos que tendremos éxito al alcanzar un mínimo de 1000 usuarios en los primeros días del lanzamiento.
 
-HYPOTHESIS 4: Creemos que permitir el registro a través de cuentas personales, como Google, Facebook, Apple, etc., aumentará nuestra base de usuarios. Sabemos que tendremos éxito si más del 70% de nuestros usuarios elige registrarse con alguna de estas cuentas mencionadas.
+**Segmentación de Clientes:**
+    
+ -   **HYPOTHESIS 3:** Creemos que si nos enfocamos en agricultores de 18 a 80 años que buscan mejorar su producción agrícola a través de nuevas tecnologías, entonces identificaremos un mercado objetivo receptivo a nuestra solución.
+**Valor Principal para el Cliente:**
+    
+-   **HYPOTHESIS 4:** Creemos que si permitimos que los usuarios gestionen todos sus terrenos y tipos de cultivos en la aplicación, mostrando resultados satisfactorios, entonces satisfaremos la principal demanda de nuestros clientes.
+3.  **Modelo de Negocio:**
+    
+    -   **HYPOTHESIS 5:** Creemos que si ofrecemos una versión gratuita con un registro limitado a un terreno, pero con la capacidad de ampliar el área sin restricciones mediante un plan premium, entonces los usuarios estarán dispuestos a pagar por funcionalidades adicionales.
+4.  **Diferenciación y Ventaja Competitiva:**
+    
+    -   **HYPOTHESIS 6:** Creemos que si destacamos entre la competencia al proporcionar información detallada sobre ubicación, clima, niveles de pH y una guía de cultivo específica, entonces atraeremos a la mayoría de los clientes.
+5.  **Riesgo Principal del Producto:**
+    
+    -   **HYPOTHESIS 7:** Creemos que si mitigamos el riesgo de proporcionar recomendaciones erróneas mediante la recopilación constante de comentarios de los usuarios y actualizaciones oportunas, entonces mantendremos la confianza de los usuarios y evitaremos resultados negativos.
+6.  **Resolución de Problemas:**
+    
+    -   **HYPOTHESIS 8:** Creemos que si utilizamos los comentarios de los usuarios para realizar actualizaciones continuas, entonces mejoraremos constantemente el producto y satisfaremos las expectativas de los usuarios.
+7.  **Soporte Técnico y Profesional:**
+    
+    -   **HYPOTHESIS 9:** Creemos que si ofrecemos soporte técnico y asesoramiento profesional para usuarios con registro premium, entonces proporcionaremos un valor adicional que respaldará una mejor producción agraria.
 
-HYPOTHESIS 5: Creemos que incluir una sección de "Contáctanos" nos permitirá recopilar retroalimentación y mantener una relación sólida entre nuestros clientes y la startup. Sabemos que tendremos éxito cuando hayamos resuelto las dudas del 80% de los usuarios de la aplicación.
+**Suposiciones de Usuarios (User Assumptions):**
 
-HYPOTHESIS 6: Creemos que, al proporcionar una aplicación móvil que permita a los agricultores realizar un seguimiento del crecimiento de sus plantas y recibir consejos personalizados basados en datos, aumentaremos su rendimiento y reduciremos el desperdicio de recursos. Sabemos que tendremos éxito midiendo un crecimiento del 10% semestral en el uso de la aplicación móvil.
-
-HYPOTHESIS 7: Creemos que la implementación de un programa de educación y capacitación para los agricultores sobre las mejores prácticas en siembra y cuidado de las plantas disminuirá la tasa de fracaso en la producción y mejorará la calidad de los cultivos. Sabemos que tendremos éxito mediante la recopilación de comentarios y sugerencias de nuestros clientes.
-
-HYPOTHESIS 8: Creemos que al proporcionar información en tiempo real sobre las condiciones climáticas y otros factores ambientales que afectan el crecimiento de las plantas, los agricultores podrán tomar decisiones más informadas para mejorar la producción en general. Sabemos que tendremos éxito mediante la evaluación de las puntuaciones de recomendación de la aplicación y el aumento en el porcentaje de descargas.
+10.  **Perfil de Usuario:**
+    
+    **HYPOTHESIS 10:** Creemos que si dirigimos nuestra aplicación a agricultores y amantes de las plantas de 18 a 80 años que buscan mejorar su producción agrícola, entonces identificaremos un público adecuado.
+11.  **Uso Diario del Producto:**
+    
+    -   **HYPOTHESIS 11:** Creemos que si integramos nuestra aplicación en la rutina diaria de los agricultores y personas interesadas en la producción agrícola, proporcionando consejos útiles, entonces se convertirá en una herramienta esencial en su día a día.
+12.  **Problemas Resueltos por el Producto:**
+    
+    -   **HYPOTHESIS 12:** Creemos que si resolvemos la falta de conocimiento sobre el cultivo de plantas desconocidas y corregimos los errores en los procesos de siembra mediante consejos sobre producción, abono, selección de semillas y fertilizantes, entonces satisfaremos las necesidades de nuestros usuarios.
+13.  **Frecuencia de Uso y Situaciones de Uso:**
+    
+    -   **HYPOTHESIS 13:** Creemos que si los usuarios utilizan la aplicación cuando tienen dudas sobre las condiciones de cultivo específicas, como altitud, pH y distribución en el terreno, entonces será una herramienta fundamental en momentos críticos.
+14.  **Características Clave Relevantes:**
+    
+    -   **HYPOTHESIS 14:** Creemos que si destacamos las características clave de la aplicación, como la guía de cultivo basada en el terreno, el clima y la temporada, entonces proporcionaremos a los usuarios información valiosa para el éxito de su producción.
+15.  **Diseño y Funcionamiento del Producto:**
+    
+    -   **HYPOTHESIS 15:** Creemos que si diseñamos la aplicación de manera moderna y simplista, con disponibilidad las 24/7 y resolvemos los errores en un plazo máximo de 24 horas, entonces garantizaremos una experiencia de usuario satisfactoria y confiable.
  
   - 1.2.2.4. Lean UX Canvas.
   ![Lean UX Canvas](https://media.discordapp.net/attachments/912089666939916348/1149059139457261700/Flowchart_1.jpg?width=1328&height=669)
@@ -152,7 +184,7 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 - Agricultores: Son nuestro principal segmento objetivo, son aquellos que quieren tener su propio cultivo y recibir recomendaciones en cuanto al mismo. Por lo general tendrán entre 20 y 55 años.
 - Asesores: Son aquellos que estan dispuestos a ayudar a los agricultores, brindandoles algunos tips y servicios si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2ODkzNSwxNTE4ODU1MTU3LDExMDUyMj
-Q4MjMsLTEwMDE4Mzk4MTEsMjE0NzI1MDYzLDE5MDM0ODg4NjIs
-LTIwODM2NjgzMDBdfQ==
+eyJoaXN0b3J5IjpbLTE1MjAyMjAwODcsNzI2ODkzNSwxNTE4OD
+U1MTU3LDExMDUyMjQ4MjMsLTEwMDE4Mzk4MTEsMjE0NzI1MDYz
+LDE5MDM0ODg4NjIsLTIwODM2NjgzMDBdfQ==
 -->
