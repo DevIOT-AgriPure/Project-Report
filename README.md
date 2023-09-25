@@ -3,6 +3,8 @@ New Version of the Project Report
 ## Capítulo IV: Solution Software Design 
 - 4.1. Strategic-Level Domain-Driven Design. 
 	- 4.1.1. EventStorming. 
+	- **Unstructured exploration:** El siguiente gráfico representa la lluvia de eventos que el equipo realizó.
+	![Unstructured exploration] 
 	- **Timelines:** Este gráfico de timelines representa la secuencia temporal de eventos y acciones clave relacionados con la gestión de cultivos, monitoreo, búsqueda de especialista en nuestra aplicación. Cada línea de tiempo corresponde a un aspecto específico de la gestión de cultivos y muestra cómo se desarrollan los eventos con el tiempo. Este diagrama nos ayuda a comprender la lógica temporal de la aplicación y cómo los eventos se relacionan entre sí para proporcionar una visión general de la gestión de cultivos.	
 	![Timelines](https://cdn.discordapp.com/attachments/1149587894416183327/1149588737613889566/Eventstorming_2.jpg)
 	- **Pivotal Points:** Este gráfico representa los Pivotal Points en el flujo de eventos de nuestro sistema de gestión de cultivos. Los Pivotal Points son momentos críticos en los cuales se producen cambios significativos o se toman decisiones clave que afectan la lógica y el comportamiento del sistema. Identificar y comprender estos puntos pivote es esencial para garantizar que nuestro software capture adecuadamente la complejidad y los requisitos críticos del negocio.	
