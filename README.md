@@ -95,10 +95,10 @@
 		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679440093843517/image.png?width=477&height=547)
 ![texto](https://media.discordapp.net/attachments/912089666939916348/1155679508930756679/image.png?width=481&height=471)
 	Desktop:
-		![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582004579012730/image.png)
-		![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582004579012730/image.png)
-		![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582004579012730/image.png)
-![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582004579012730/image.png)
+		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679584906395738/image.png?width=688&height=669)
+		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679669224472576/image.png?width=898&height=635)
+		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679748769456208/image.png?width=901&height=466)
+
   - 5.3.2. Landing Page Mock-up.
 - 5.4. Applications UX/UI Design.
   - 5.4.1. Applications Wireframes.
@@ -138,5 +138,5 @@
 - 5.5. Applications Prototyping.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2NTg4NzM3XX0=
+eyJoaXN0b3J5IjpbMTY5MjE5NTk4NF19
 -->
