@@ -89,7 +89,7 @@
 	Mobile:
 	![texto](https://media.discordapp.net/attachments/912089666939916348/1155679042515779644/image.png?width=195&height=669)
 	![texto](https://media.discordapp.net/attachments/912089666939916348/1155679133519593522/image.png?width=144&height=668)
-	![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582004579012730/image.png)	
+	![texto](https://media.discordapp.net/attachments/912089666939916348/1155679191258366103/image.png?width=182&height=669)	
 	Tablet:
 		![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582004579012730/image.png)
 		Desktop:
@@ -133,5 +133,5 @@
 - 5.5. Applications Prototyping.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTkyMzY2Nl19
+eyJoaXN0b3J5IjpbNzU1NzQ5ODg1XX0=
 -->
