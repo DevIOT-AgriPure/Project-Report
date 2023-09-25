@@ -90,10 +90,12 @@
 	![texto](https://media.discordapp.net/attachments/912089666939916348/1155679042515779644/image.png?width=195&height=669)
 	![texto](https://media.discordapp.net/attachments/912089666939916348/1155679133519593522/image.png?width=144&height=668)
 	![texto](https://media.discordapp.net/attachments/912089666939916348/1155679191258366103/image.png?width=182&height=669)	
+	
 	Tablet:
 		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679343851352115/image.png?width=381&height=669)
 		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679440093843517/image.png?width=477&height=547)
 ![texto](https://media.discordapp.net/attachments/912089666939916348/1155679508930756679/image.png?width=481&height=471)
+	
 	Desktop:
 		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679584906395738/image.png?width=688&height=669)
 		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679669224472576/image.png?width=898&height=635)
@@ -138,5 +140,5 @@
 - 5.5. Applications Prototyping.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjE5NTk4NF19
+eyJoaXN0b3J5IjpbNDE4MzEzNDI0XX0=
 -->
