@@ -134,13 +134,16 @@
         |------------|--------|-----------|----------------|---------------------|---------------|
         |            |        |           |                |                     |               |
     - **6.2.1.4. Testing Suite Evidence for Sprint Review**
-    
+
         | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
         |------------|--------|-----------|----------------|---------------------|---------------|
         |            |        |           |                |                     |               |
     
     - **6.2.1.5. Execution Evidence for Sprint Review**
 
+        Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue. 
+        Enlace a la Landing Page: ![urlLanding](https://deviot-agripure.github.io/AgriPure-Landing-Page/)
+        
 
     - **6.2.1.6. Services Documentation Evidence for Sprint Review**
 
