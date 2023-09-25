@@ -85,6 +85,15 @@
   
     Para esta sección mostraremos el desarrollo visual de nuestro Landing Page. Para ello, utilizamos una herramienta de diseño web como Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin limitaciones. Asimismo, se evidenciará el uso de los Style Guidelines e Information Architecture.
   - 5.3.1. Landing Page Wireframe.
+
+	Mobile:
+	![texto](https://media.discordapp.net/attachments/912089666939916348/1155679042515779644/image.png?width=195&height=669)
+	![texto](https://media.discordapp.net/attachments/912089666939916348/1155679133519593522/image.png?width=144&height=668)
+	![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582004579012730/image.png)	
+	Tablet:
+		![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582004579012730/image.png)
+		Desktop:
+		![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582004579012730/image.png)
   - 5.3.2. Landing Page Mock-up.
 - 5.4. Applications UX/UI Design.
   - 5.4.1. Applications Wireframes.
@@ -124,5 +133,5 @@
 - 5.5. Applications Prototyping.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1ODY4Nzk3XX0=
+eyJoaXN0b3J5IjpbMjA1MTkyMzY2Nl19
 -->
