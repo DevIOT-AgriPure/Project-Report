@@ -142,10 +142,12 @@
     - **6.2.1.5. Execution Evidence for Sprint Review**
 
         Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue. 
-        Enlace a la Landing Page: ![urlLanding](https://deviot-agripure.github.io/AgriPure-Landing-Page/)
-        
+        Enlace a la Landing Page: [https://deviot-agripure.github.io/AgriPure-Landing-Page/](https://deviot-agripure.github.io/AgriPure-Landing-Page/)
+        ![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+
 
     - **6.2.1.6. Services Documentation Evidence for Sprint Review**
+        Para esta entrega no se han implementado los servicios Back-end, por lo que en posteriores sprints completaremos esta sección.
 
 
     - **6.2.1.7. Software Deployment Evidence for Sprint Review**
