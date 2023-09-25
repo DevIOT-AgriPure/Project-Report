@@ -119,7 +119,14 @@
         - Sprint #: 1
             | US Id | US Title | Task Id | Task Description | Task Estimation | Assigned To | Status |
             |-------|----------|---------|------------------|-----------------|-------------|--------|
-            |       |          |         |                  |                 |             |        |
+            |US011  |Botón Call to action|    ST001     |      Diseño e implementación del Botón Call to action            |    4 horas     | Andrés Reynoso            |   Done  |
+            |US012|Visualización de redes sociales|ST002| Diseño e implementación se la sección de redes sociales en la landing page| 8 horas | Diego Talledo|Done|
+            |US013|Visualizar características de la aplicación|ST003|Diseño e implementación de la sección de características en la landing page| 8 horas| Franchesco Soto|Done|
+            |US004|Selección de planta a sembrar|ST004|Diseño e implementación visual de la selección de planta a sembrar en front-end| 8 horas|Diego Talledo|In process|
+            |US005|Guía de elección de tierra de sembrado|ST005|Diseño e implementación visual de la sección de guía de elección de tierra|8 horas|Franchesco Soto|In process|
+            |US006|Distancia de siembra entre las plantas|ST006|Diseño e implementación visual de la sección de distancia de siembra|8 horas|Bruno Palomino|In process|
+            |US007|Distancia de profundidad de siembra| ST007|Diseño e implementación visual de la sección de profundidad de siembra| 8 horas | Frank| In process|
+            |US010|Contacto a especialista|ST008|Diseño e implementación visual de la sección de contacto a especialista| 8 horas| Bruno| In process|
         
     - **6.2.1.3. Development Evidence for Sprint Review**
 
@@ -127,9 +134,11 @@
         |------------|--------|-----------|----------------|---------------------|---------------|
         |            |        |           |                |                     |               |
     - **6.2.1.4. Testing Suite Evidence for Sprint Review**
-
     
-
+        | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
+        |------------|--------|-----------|----------------|---------------------|---------------|
+        |            |        |           |                |                     |               |
+    
     - **6.2.1.5. Execution Evidence for Sprint Review**
 
 
