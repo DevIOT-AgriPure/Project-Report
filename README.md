@@ -87,9 +87,9 @@
    
   - 5.3.1. Landing Page Wireframe.
 
+Los wireframes de una landing page son esquemas o representaciones visuales básicas de la página de inicio de un sitio web. Estos wireframes se crean generalmente en las etapas iniciales del proceso de diseño web y sirven como una guía para la disposición y estructura de la página. 
 
-
-	Mobile:
+Mobile:
 	![texto](https://media.discordapp.net/attachments/912089666939916348/1155679042515779644/image.png?width=195&height=669)
 	![texto](https://media.discordapp.net/attachments/912089666939916348/1155679133519593522/image.png?width=144&height=668)
 	![texto](https://media.discordapp.net/attachments/912089666939916348/1155679191258366103/image.png?width=182&height=669)	
@@ -143,5 +143,5 @@
 - 5.5. Applications Prototyping.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTYyMzMwMCw0MTgzMTM0MjRdfQ==
+eyJoaXN0b3J5IjpbMjEzMzM3MDIyOCw0MTgzMTM0MjRdfQ==
 -->
