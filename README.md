@@ -91,19 +91,25 @@ Los wireframes de una landing page son esquemas o representaciones visuales bás
 
 Mobile:
 
-En esta seccion, se muestra como se ve la landing  page en dispositivos moviles
+En esta seccion, se muestra como se ve la landing  page en dispositivos moviles.
 
 ![texto](https://media.discordapp.net/attachments/912089666939916348/1155679042515779644/image.png?width=195&height=669)
 	![texto](https://media.discordapp.net/attachments/912089666939916348/1155679133519593522/image.png?width=144&height=668)
 	![texto](https://media.discordapp.net/attachments/912089666939916348/1155679191258366103/image.png?width=182&height=669)	
 	
-	Tablet:
-		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679343851352115/image.png?width=381&height=669)
+Tablet:
+		
+En esta seccion, se muestra como se ve la landing  page en dispositivos de tablet.	
+		
+![texto](https://media.discordapp.net/attachments/912089666939916348/1155679343851352115/image.png?width=381&height=669)
 		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679440093843517/image.png?width=477&height=547)
 ![texto](https://media.discordapp.net/attachments/912089666939916348/1155679508930756679/image.png?width=481&height=471)
 	
-	Desktop:
-		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679584906395738/image.png?width=688&height=669)
+Desktop:
+	
+En esta seccion, se muestra como se ve la landing  page en los navegadores web.
+	
+![texto](https://media.discordapp.net/attachments/912089666939916348/1155679584906395738/image.png?width=688&height=669)
 		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679669224472576/image.png?width=898&height=635)
 		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679748769456208/image.png?width=901&height=466)
 
@@ -146,5 +152,5 @@ En esta seccion, se muestra como se ve la landing  page en dispositivos moviles
 - 5.5. Applications Prototyping.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjk1Mjg5Nyw0MTgzMTM0MjRdfQ==
+eyJoaXN0b3J5IjpbMTE3MTU1Nzc1OV19
 -->
