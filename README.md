@@ -148,13 +148,20 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 
   | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
   |------------|--------|-----------|----------------|---------------------|---------------|
-  |            |        |           |                |                     |               |
+  | Agripure-Landing-Page|main| 20b77b8dd8623a1e07229f741926404efe09806a|first scenario|| 25/09/2023|
+  |Agripure-Landing-Page|main|7ff27918981f92c6ed9717d5a03cc22849865d83|add: 2 ,3 ,4 scenarios|26/09/2023|
     
 ####  6.2.1.5. Execution Evidence for Sprint Review
 
   Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue. 
   Enlace a la Landing Page: [https://deviot-agripure.github.io/AgriPure-Landing-Page/](https://deviot-agripure.github.io/AgriPure-Landing-Page/)
   ![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+
+  Web Application:
+
+  ![https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/frontdeployed1.PNG?raw=true](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/frontdeployed1.PNG?raw=true)
+
+  ![https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/frontdeployed2.PNG?raw=true](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/frontdeployed2.PNG?raw=true)
 
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
