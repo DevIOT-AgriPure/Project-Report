@@ -182,74 +182,6 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
 	|----------|--------------|-------------|-----------------------------------|
 	| LogIn.command | void         | public      | Constructor          	|
-	| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
-	|-----------|--------------|-------------|----------------------------------------------|
-	| id        | int          | private     | Id de identidad                              |
-	|email|string|private|Correo electrónico del usuario|
-	|password|string|private|Contraseña de la cuenta
-
-- Métodos:
-	| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
-	|--------------|--------------|-------------|-----------------------------------------------|
-	| User         | void         | public      | Constructor de la identidad                   |
-	| getEmail  | string       | public      | Obtiene el correo del usuario        |
-	| comparePassword     | string       | public      | Compara la contraseña                    |
-
-- Nombre: UserType
-- Categorìa: Enum
-- Propòsito: Proveer los tipos de usuario
-- Atributos: 
-	| Nombre       | Tipo de dato | Visibilidad |
-	|--------------|--------------|-------------|
-	| FARMER       | string       | public      |
-	| SPECIALIST   | string       | public      |
-	| ADM          | string       | public      |
-- Nombre: IUserRepository
-- Categoorìa: Repository
-- Propòsito: Persistir usuarios
-## **4.2.1.2 Interface layer**
-- Nombre: Users.controller
-- Categorìa: Controller
-- Propòsito: Controlar registro de usuarios
-- Mètodos:
-	| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
-	|------------|--------------|-------------|-----------------------------------------|
-	| Register   | Promise      | public      | Registra un usuario nuevo               |
-	| Log In     | Promise      | public      | Permite iniciar sesiòn al usuario       |
-	| ModifyUser | Promise      | public      | Permite modificar los datos del usuario |
-	| DeleteUser | Promise      | public      | Permite eliminar un usuario             |
-## **4.2.1.3 Application Layer**
-- Nombre: CreateUser.handler
-- Categorìa: Event Handler
-- Propòsito: Handler para registrar un usuario
-- Mètodos: 
-	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-	|----------|--------------|-------------|-----------------------------------|
-	| CreateUser.handler | void         | public      | Constructor             |
-	| execute  | void         | public      | Permite registrar al usuario 
-- Nombre: CreateUser.command
-- Categorìa: Command Handler
-- Propòsito: Command para registrar un usuario
-- Mètodos: 
-	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-	|----------|--------------|-------------|-----------------------------------|
-	| CreateUser.command | void         | public      | Constructor          
-- Nombre: LogIn.handler
-- Categorìa: Handler
-- Propòsito: Handler para logear un usuario
-- Mètodos: 
-	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-	|----------|--------------|-------------|-----------------------------------|
-	| LogIn.handler | void         | public      | Constructor             |
-	| execute  | void         | public      | Permite iniciar sesiòn al usuario 
-- Nombre: LogIn.command
-- Categorìa: Command
-- Propòsito: Command para logear un usuario
-- Mètodos: 
-	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-	|----------|--------------|-------------|-----------------------------------|
-	| LogIn.command | void         | public      | Constructor          	|
-
 
 - Nombre: DeleteUser.handler
 - Categorìa: Handler
@@ -281,7 +213,7 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 	| delete  | void               | public      | Elimina un objeto                             |
 ## **4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**
 
-El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://cdn.discordapp.com/attachments/1143666758042013890/1152020288670814288/image.png)
+El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_user.PNG?raw=true)
 
 ## **4.2.1.6 Bounded Context Software Architecture Code Level Diagrams**
 
