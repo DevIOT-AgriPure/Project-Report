@@ -25,6 +25,8 @@
 | EP002 | Opciones relacionadas a la cuenta del usuario | Como usuario deseo poder realizar acciones de creación, actualización y otras relacionadas a una cuenta para poder guardar las configuraciones y utilizarlas desde distintos dispositivos |
 | EP003 | Definición de estructura del landing page | Como usuario deseo disponer de un landing page con información pertinente para conocer mejor acerca de la aplicación |
 | EP004 | Definición de requisitos no funcionales | Como usuario deseo que la aplicación cumpla con estándares de rendimiento y optimización para utilizarla sin inconvenientes |
+| EP005 | Integración de Dispositivos IoT | Como usuario deseo que la aplicación integre los dispositivos IoT en la Aplicación de Monitoreo de Plantas. |
+| EP006 | Gestión de Datos y Comunicación Backend | Como usuario, deseo que la aplicación mejore la gestión de datos y la comunicación con el backend. |
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Relacionado con |
 |-----------|-----------|-----------|-----------|-----------|
