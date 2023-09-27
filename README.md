@@ -76,13 +76,15 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 	![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
 
 
-   **Web application**
+ -  **Web application**
 
 	Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
 	- Iniciamos sesión en netlify:
 		![Sesion netlify](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/logInNetlify.PNG?raw=true)
 	- Generamos un archivo dist ingresando el siguiente comando en la carpeta de nuestro proyecto:
 		![npm](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/npmrunbuild.PNG?raw=true)
+	- Subimos el archivo dist y esperamos que termine de subir el proyecto:
+		![front](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/FrontDeployed.jpeg?raw=true)
 
 
 
@@ -128,10 +130,20 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
         
 #### 6.2.1.3. Development Evidence for Sprint Review
 
-  | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
-  |------------|--------|-----------|----------------|---------------------|---------------|
-  |https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     8fce68724ed2a3777e3f471a4493aa5085a1ee5d|Create README.md|                     |24/08/2023|
-  |https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     8fce68724ed2a3777e3f471a4493aa5085a1ee5d|Create README.md|                     |24/08/2023|
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
+|------------|--------|-----------|----------------|---------------------|---------------|
+|Agripure-Web-Application| main |8fce68724ed2a3777e3f471a4493aa5085a1ee5d|Create README.md||24/08/2023|
+|Agripure-Web-Application| main |8fce68724ed2a3777e3f471a4493aa5085a1ee5d|Create README.md||24/08/2023|
+|Agripure-Web-Application|feat/crop|da4abc775ccddfbcc49669050c4ebb42ab7bc7ba|adding contacts||26/09/2023|
+|Agripure-Web-Application|feat/crop|5596c0c1673b8cf4ad00c4d368d98d8c1697beed|add:crop services||26/09/2023|
+|Agripure-Web-Application|feat/crop|130fce201034d34aacd0c778660cf483b93177ac|fix: styles in crop css||26/09/2023|
+|Agripure-Web-Application|feat/crop|9feea890b82ff80a87af3351d428df7bc716d662|adding contact details||26/09/2023|
+|Agripure-Web-Application|feat/crop|84bf770ded7d79052747c14c6d0287c7a522a87d|chat interface done||26/09/2023|
+|Agripure-Web-Application|feat/specialist|bff698f04cb203757c5f805eaf34293abe6fb23e|feat: fixed styles and colors||26/09/2023|
+|Agripure-Web-Application|feat/specialist|bff698f04cb203757c5f805eaf34293abe6fb23e|Feat: added specialist info||26/09/2023|
+|Agripure-Web-Application|feat/specialist|be374a51a19973cbc2b51f2f926c73469e6b290c|add: cards specialists||26/09/2023|
+
+
 ####  6.2.1.4. Testing Suite Evidence for Sprint Review
 
   | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
