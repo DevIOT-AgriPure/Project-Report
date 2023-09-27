@@ -160,19 +160,19 @@ Mobile:
 
 En esta seccion, se muestra como se ve la landing  page en dispositivos moviles.
 
-![texto](https://media.discordapp.net/attachments/912089666939916348/1155679042515779644/image.png?width=195&height=669)
+![texto](https://media.discordapp.net/attachments/912089666939916348/1156442108987723878/image.png?ex=6514fc24&is=6513aaa4&hm=6dcc71d5183034dffe54e5af81defedf04e12c7f829015c67e28864f84cd8f55&=&width=171&height=668)
 
 
-![texto](https://media.discordapp.net/attachments/912089666939916348/1155679133519593522/image.png?width=144&height=668)
+![texto](https://media.discordapp.net/attachments/912089666939916348/1156442170962739240/image.png?ex=6514fc33&is=6513aab3&hm=12ffea54bb6c41779b41d32396365519bdaa260b532eb2c39bbff2b42ffc89d9&=&width=142&height=669)
 
 
-![texto](https://media.discordapp.net/attachments/912089666939916348/1155679191258366103/image.png?width=182&height=669)	
+![texto](https://media.discordapp.net/attachments/912089666939916348/1156442237845114901/image.png?ex=6514fc43&is=6513aac3&hm=4d59d56bcbb56884f14b051127e89ccc358a8c8d227b276ea029f38c33b82b60&=&width=177&height=669)	
 	
 Tablet:
 		
 En esta seccion, se muestra como se ve la landing  page en dispositivos de tablet.	
 		
-![texto](https://media.discordapp.net/attachments/912089666939916348/1155679343851352115/image.png?width=381&height=669)
+![texto](https://media.discordapp.net/attachments/912089666939916348/1156442296980615208/image.png?ex=6514fc51&is=6513aad1&hm=d3aa552a848b1fe2c73e80cb164bfa370ba2d78692d7aba95791470230274fc4&=&width=432&height=669)
 
 		
 ![texto](https://media.discordapp.net/attachments/912089666939916348/1156442353289142323/image.png?ex=6514fc5e&is=6513aade&hm=121c79df3e3d6891b4f50b93960b2f736466bf3a33d159533cbfa569100a3162&=&width=439&height=669)
@@ -231,5 +231,6 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 ##- 5.5. Applications Prototyping.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzg3ODAzODIsMjkwNzQ1MTg5XX0=
+eyJoaXN0b3J5IjpbLTc2NjU2MDAyOCwtMTc3ODc4MDM4MiwyOT
+A3NDUxODldfQ==
 -->
