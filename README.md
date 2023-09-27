@@ -66,19 +66,15 @@ New Version of the Project Report
 				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
 				|-----------|--------------|-------------|----------------------------------------------|
 				| id        | int          | private     | Id de identidad                              |
-				| suscripcionId        | int          | private     | Id del la suscripcion             |
-				| firstName | string       | private     | Almacena el nombre del usuario               |
-				| lastName  | string       | private     | Almacena el apellido del usuario             |
-				| cellphone  | string       | private     | Almacena el número telefónico del usuario        |
-				| email     | string       | private     | Almacena el email del usuario                |
-				| password  | string       | private     | Almacena la contraseña de acceso del usuario |
-				| userType  | UserType     | private     | Almacena el tipo de usuario                  |
+				|email|string|private|Correo electrónico del usuario|
+				|password|string|private|Contraseña de la cuenta
+
 			- Métodos:
 				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
 				|--------------|--------------|-------------|-----------------------------------------------|
 				| User         | void         | public      | Constructor de la identidad                   |
-				| getFullName  | string       | public      | Obtiene el nombre completo del usuario        |
-				| getType      | string       | public      | Retorna el tipo de usuario                    |
+				| getEmail  | string       | public      | Obtiene el correo del usuario        |
+				| comparePassword     | string       | public      | Compara la contraseña                    |
 
 			- Nombre: UserType
 			- Categorìa: Enum
@@ -105,7 +101,7 @@ New Version of the Project Report
 				| DeleteUser | Promise      | public      | Permite eliminar un usuario             |
 		- **4.2.1.3 Application Layer**
 			- Nombre: CreateUser.handler
-			- Categorìa: Handler
+			- Categorìa: Event Handler
 			- Propòsito: Handler para registrar un usuario
 			- Mètodos: 
 				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
@@ -114,7 +110,7 @@ New Version of the Project Report
 				| execute  | void         | public      | Permite registrar al usuario |	
 
 			- Nombre: CreateUser.command
-			- Categorìa: Command
+			- Categorìa: Command Handler
 			- Propòsito: Command para registrar un usuario
 			- Mètodos: 
 				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
@@ -138,22 +134,6 @@ New Version of the Project Report
 				|----------|--------------|-------------|-----------------------------------|
 				| LogIn.command | void         | public      | Constructor          	|
 			
-			- Nombre: ModifyUser.handler
-			- Categorìa: Handler
-			- Propòsito: Handler para modificar un usuario
-			- Mètodos: 
-				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-				|----------|--------------|-------------|-----------------------------------|
-				| ModifyUser.handler | void         | public      | Constructor             |
-				| execute  | void         | public      | Permite modificar datos del usuario |	
-
-			- Nombre: ModifiUser.command
-			- Categorìa: Command
-			- Propòsito: Command para modificar un usuario
-			- Mètodos: 
-				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-				|----------|--------------|-------------|-----------------------------------|
-				| ModifyUser.command | void         | public      | Constructor          	|
 			
 			- Nombre: DeleteUser.handler
 			- Categorìa: Handler
@@ -193,6 +173,267 @@ New Version of the Project Report
 				![Diagrama clases User](https://cdn.discordapp.com/attachments/1143666758042013890/1152420088914391070/image.png)
 			- **4.2.1.6.2 Bounded Context Database Diagrams**
 				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
+	
+	- **4.2.2. Bounded Context: Suscriptions and Payments**
+		- **4.2.1.1. Domain Layer.** 
+			- Nombre: Suscription
+			- Categoria: Entity
+			- Propósito: Almacenar datos de las suscripciones de los usuarios
+			- Atributos :
+
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				| id        | int          | private     | Id de identidad                              |
+				|planType|PlanType|private|Tipo de plan|
+				|profileId|int|private|Id del perfil|
+				|payDate|Datetime|private|Fecha del siguiente pago|
+				|status|string|private|Estado de la suscripción|
+				|cost|float|private|Costo de la suscripción
+				
+			- Métodos:
+				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+				|--------------|--------------|-------------|-----------------------------------------------|
+				| getPayDate  |Datetime      | public      | Obtiene la fecha de pago      |
+				| getPlanType     | string       | public      | Obtiene el tipo de plan                    |
+				| updatePlan|string|public|Actualiza el tipo de plan
+			
+
+			- Nombre: PlanType
+			- Categorìa: Enum
+			- Propòsito: Proveer los tipos de plan
+			- Atributos: 
+				| Nombre       | Tipo de dato | Visibilidad |
+				|--------------|--------------|-------------|
+				| MONTHLY       | string       | public      |
+				| YEAR   | string       | public      |
+
+			- Nombre: Order
+			- Categoría: Entity
+			- Propósito: Almancear información de las órdenes de pago
+			- Atributos:
+				|Nombre|Tipo de dato|Visibilidad|Descripción|
+				|------|------------|-----------|-----------|
+				|id|int|private|Id de la identidad|
+				|amount|float|private|Monto a pagar|
+				|status|OrderStatus|private|Estado del pago|
+				|profileId|int|private|Id del perfil|
+
+			- Nombre: OrderStatus
+			- Categorìa: Enum
+			- Propòsito: Proveer los estados de una orden de pago
+			- Atributos: 
+				| Nombre       | Tipo de dato | Visibilidad |
+				|--------------|--------------|-------------|
+				| CANCELED       | string       | public      |
+				| IN_WAIT   | string       | public      |
+		- **4.2.1.2 Interface layer**
+			- Nombre: Suscription.controller
+			- Categorìa: Controller
+			- Propòsito: Controlar registro de suscripciones
+			- Mètodos:
+				| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
+				|------------|--------------|-------------|-----------------------------------------|
+				| Register   | Promise      | public      | Registra una suscripciones nueva              |
+				| ModifySuscription| Promise      | public      | Permite modificar los datos de una suscripción |
+				| DeleteSuscription | Promise      | public      | Permite eliminar una suscripción    |
+		- **4.2.1.3 Application Layer**
+			- Nombre: AssignProfileCommandHandler
+			- Categoría: COmmandHandler
+			- Propósito: Handler para la asignación de una suscripción
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<Suscription>|public|Método de ejecución del comando|
+			
+			- Nombre: UpdateSuscriptionCOmmandHandler
+			- Categoría: Command Handler
+			- Propósito: Handler para la actualización de una suscripción
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<Suscription>|public|Método de ejecución del comando|
+			
+			- Nombre: SuscriptionAssignedEventHandler
+			- Categoría: Event Handler
+			- Propósito: Gestionar la asignación de una suscripción
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<Suscription>|public|Método de ejecución del evento|
+
+			- Nombre: SuscriptionUpdatedEventHandler
+			- Categoría: Event Handler
+			- Propósito: Gestionar la actualización de una suscripción
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<Suscription>|public|Método de ejecución del comando|
+
+			- Nombre: CreatePayOrderCommandHandler
+			- Categoría: Command Handler
+			- Propósito: Handler para la creación de una orden de pago
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<Order>|public|Método de ejecución del comando|
+
+			- Nombre: PayOrderCOmmandHandler
+			- Categoría: Command Handler
+			- Propósito: Handler para el pago de órdenes
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<Order>|public|Método de ejecución del comando|
+
+			- Nombre: PayOrderCreatedEventHandler
+			- Categoría: Event Handler
+			- Propósito: Gestionarla creación de una orden de pago
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<Order>|public|Método de ejecución del evento|
+
+			- Nombre: OrderPayedEventHandler
+			- Categoría: Event Handler
+			- Propósito: Gestionar el p
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<Order>|public|Método de ejecución del evento|
+			
+		- **4.2.1.4 Infrastructure Layer**
+			- Nombre: SuscriptionRepository
+			- Categorìa: Repository
+			- Propòsito: Obtener datos de las suscripciones
+			- Mètodos: 
+				| Nombre  | Tipo de dato       | Visibilidad | Descripción                                   |
+				|---------|--------------------|-------------|-----------------------------------------------|
+				| getById | getSuscriptionResource    | public      | Devuelve una suscripción por su Id   |
+				|getByProfileId|getSuscriptionResource|public|Devuelve una suscripción el id del perfil
+				| getAll  | array              | public      | Devuelve todas las suscriciones      |
+				| create  | createSuscriptionResource | public      | Crea una suscripción                          |
+				| update  | updateSuscriptionResource | public      | Actualiza una suscripción |
+				| delete  | void               | public      | Elimina una suscripción                          |
+		- **4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**
+			El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://cdn.discordapp.com/attachments/1143666758042013890/1152020288670814288/image.png)
+		- **4.2.1.6 Bounded Context Software Architecture Code Level Diagrams**
+			Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
+			- **4.2.1.6.1 Bounded Context Domain Layer Class Diagrams**
+				Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
+				![Diagrama clases User](https://cdn.discordapp.com/attachments/1143666758042013890/1152420088914391070/image.png)
+			- **4.2.1.6.2 Bounded Context Database Diagrams**
+				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
+
+	- **4.2.2. Bounded Context: Profile Management**
+		- **4.2.2.1. Domain Layer.** 
+			- Nombre: Profile
+			- Categoria: Entity
+			- Propósito: Almacenar datos de los perfiles de usuarios
+			- Atributos :
+
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				| id | int       | private     | Id de identidad               |
+				|userId|int|private|Id del usuario|
+				| suscripcionId        | int          | private     | Id del la suscripcion             |
+				| firstName | string       | private     | Almacena el nombre del usuario               |
+				| lastName  | string       | private     | Almacena el apellido del usuario             |
+				| cellphone  | string       | private     | Almacena el número telefónico del usuario        |
+				| rol  | UserRol     | private     | Almacena el tipo de usuario                  |
+
+			- Métodos:
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				| constructor | Profile       | public     | Constructor de la clase              |
+				|getFullname|string|public|devuelve el nombre completo del perfil|
+				|setSuscription|void|public|Permite editar la suscripción del usuario|
+
+			- Nombre: IProfileRepository
+			- Categoría: Repository
+			- Propósito: Persistir los perfiles
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				|getByUserId|ProfileResource|public|Devuelve el perfil según el id de usuario|
+				|add|void|public|Añade un perfil|
+				|update|void|public|Modifica un perfil|
+				|delete|void|public|Elimina un perfil|
+			
+		- **4.2.2.2 Interface layer**
+			- Nombre: Profile.controller
+			- Categorìa: Controller
+			- Propòsito: Controlar registro de perfiles
+			- Mètodos:
+				| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
+				|------------|--------------|-------------|-----------------------------------------|
+				| Post   | Promise      | public      | Registra un nuevo perfil              |
+				| GetAll | Promise      | public      | Devuelve todos los perfiles |
+				|FindByUserId|Promise|public|Devuelve un érfil por el id del usuario|
+				|Put|Promise|public|Modifica un perfil|
+				|Delete|Promise|Elimina un perfil|
+
+		- **4.2.2.3 Application Layer**
+			- Nombre: 
+			- Categoría: 
+			- Propósito:
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<Profile>|public|Método de ejecución del comando|
+			
+			- Nombre: CreateUserProfileCommandHandler
+			- Categoría: Command Handler
+			- Propósito: Handler para la creación de un perfil de usuario
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handle|Promise<Profile>|public|Método de ejecución del comando|
+			
+			- Nombre: ModifyUserProfileCommandHandler
+			- Categoría: Command Handler
+			- Propósito: Handler para la modificación de un perfil de usuario
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<Profile>|public|Método de ejecución del comando|
+			
+			- Nombre: DeleteUserProfileCommandHandler
+			- Categoría: Command Handler
+			- Propósito: Handler para la eliminación de un perfil de usuario
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<Profile>|public|Método de ejecución del comando|
+
+			- Nombre: UserProfileModifiedEventHandler
+			- Categoría: Event Handler
+			- Propósito: Gestionar la modificación de un perfil
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<Profile>|public|Método de ejecución del evento|
+
+			- Nombre: UserProfileDeletedEventHandler
+			- Categoría: Event Handler
+			- Propósito: Gestionar la eliminación de un perfil
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<Profile>|public|Método de ejecución del evento|
+
+			- Nombre: UserProfileCreatedEventHandler
+			- Categoría: Event Handler
+			- Propósito: Gestionar la creación de un perfil
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<Profile>|public|Método de ejecución del evento|
+			
+		- **4.2.2.4 Infrastructure layer**
+			- Nombre: ProfileRepository
+			- Categoría: Repository
+			- Propósito: Persistir los perfiles
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				|getByUserId|ProfileResource|public|Devuelve el perfil según el id de usuario|
+				|add|void|public|Añade un perfil|
+				|update|void|public|Modifica un perfil|
+				|delete|void|public|Elimina un perfil|
+		
+		- **4.2.2.5. Bounded Context Software Architecture Component Level Diagrams**
+			El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes plantas]([https://cdn.discordapp.com/attachments/1143666758042013890/1152477663966011422/image.png](https://cdn.discordapp.com/attachments/1149587894416183327/1153883194555371632/image.png))
+		- **4.2.2.6 Bounded Context Software Architecture Code Level Diagrams**
+			Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
+			- **4.2.2.6.1 Bounded Context Domain Layer Class Diagrams**
+				Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
+				![Diagrama clases PLantas](https://cdn.discordapp.com/attachments/1143666758042013890/1153884913712509080/image.png)
+			- **4.2.2.6.2 Bounded Context Database Diagrams**
+				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
+
 	- **4.2.2. Bounded Context: Plant Management**
 		- **4.2.2.1. Domain Layer.** 
 			- Nombre: Plant
@@ -320,94 +561,96 @@ New Version of the Project Report
 			- **4.2.2.6.2 Bounded Context Database Diagrams**
 				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
 
-	- **4.2.3. Bounded Context: Suscription Management**
-		- **4.2.2.1. Plan.** 
-			- Nombre: Plan
-			- Categoria: Value Object
-			- Propósito: Almacenar datos de los planes del servicio
-			- Atributos :
-
-				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
-				|-----------|--------------|-------------|----------------------------------------------|
-				| planType | PlanType       | private     | Almacena el tipo de plan               |
-				| costoMes        | double          | private     | Costo del plan                          |
-
-			- Métodos:
-				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
-				|--------------|--------------|-------------|-----------------------------------------------|
-				| Plan       | void         | public      | Constructor de la identidad                   |
-				| getType  | string       | public      | Obtiene el tipo de plan       |
-				| getCosto      | double       | public      | Retorna el costo del plan                 |
-
-			- Nombre: PlanType
-			- Categorìa: Enum
-			- Propòsito: Proveer los tipos de planes
-			- Atributos: 
-				| Nombre       | Tipo de dato | Visibilidad |
-				|--------------|--------------|-------------|
-				| FREE       | string       | public      |
-				| MONTHLY   | string       | public      |
-				| ANUAL          | string       | public      |
-			
-			- Nombre: Suscription
+	- **4.2.3. Bounded Context: IoT Asset Management**
+		- **4.2.2.1. Domain Layer.** 
+			- Nombre: IoTDevice
 			- Categoría: Entity
-			- Proósito: Almacenar los datos de la suscripción del usuario
+			- Propósito: Almacenar datos de los dispositivos IoT
+			- Atributos:
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				| Id | int       | private     | Id de identidad               |
+				| deviceName        | string          | private     | Nombre del dispositivo  |
+				|status|Status|private|Estado del dispositivo|
+				|registerAt|date|private|Fecha de creación|
+			- Nombre: Status
+			- Categoría: Enum
+			- Propósito: Almacenar los estados de un dispositivo IoT
 			- Atributos: 
-				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
-				|-----------|--------------|-------------|----------------------------------------------|
-				| id        | int          | private     | Id de identidad                              |
-				| planId | int       | private     | Almacena el Id del plan               |
-				| dayPay      | date        | private     |    Día de pago                       |
-			- Métodos:
-				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
-				|-----------|--------------|-------------|----------------------------------------------|
-				| Suscription       | Suscription       | public     | Constructor de clase                   |
-				| getPlanId | int       | public     | Devuelve el tipo de plan               |
-				| getDayPay      | date        | public     |    Devuelve el dia de pago                      |
-			- Métodos:
-			- Nombre: ISuscriptionRepository
-			- Categoría: Repository
-			- Propósito: Persistir las suscripciones
-			- Métodos: 
-				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
-				|--------------|--------------|-------------|-----------------------------------------------|
-				| ISuscriptionRepository       | ISuscriptionRepository         | public      | Constructor de la identidad                   |
-				| add  | void       | public      | Crear una suscripción      |
-				| updateDayPay      | void       | public      | Permite actualizar la fecha de pago de la suscripción                |
-				| updatePlan|Plan|public|Permite actualizar el tipo de plan de la suscripción|
-				|	deletePlan|void|public|Permite eliminar planes|
+				| Nombre    | Tipo de dato | Visibilidad |
+				|-----------|--------------|-------------|
+				| ON | string       | public    |
+				| OFF  | string          | public     |
 		
 
 		- **4.2.1.2 Interface layer**
-			- Nombre: Suscription.controller
+			- Nombre: IoT.controller
 			- Categorìa: Controller
-			- Propòsito: Controlar registro de suscripciones
+			- Propòsito: Controlar registro de dispositivos IoT
 			- Mètodos:
 				| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
 				|------------|--------------|-------------|-----------------------------------------|
-				| Register   | Promise      | public      | Registra un nuevo plan               |
-				| ModifyPayDay | Promise      | public      | Permite modificar los datos del usuario |
-				|ModifyPlan|Promise|public|Permite modificar el plan|
-				| DeleteSuscription | Promise      | public      | Permite eliminar una suscripción             |
+				| Register   | Promise      | public      | Registra un nuevo dispositivo IoT               |
+				| Modify | Promise      | public      | Permite modificar dispositivo IoT |
+				| GetIoTByOd|Promise|public|Permite obtener un dispositivo IoT|
+				| GetIoTByUserId|Promise|public|Permite obtener una lista de los dispositivos de un usuario|
+				| DeleteIoT | Promise      | public      | Permite eliminar un dispositivo  |
 		- **4.2.1.3 Application Layer**
-			- Nombre: AssignSuscription.handler
-			- Categorìa: Handler
-			- Propòsito: Handler para asignar una suscripcion
-			- Mètodos: 
-				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-				|----------|--------------|-------------|-----------------------------------|
-				| AssignSuscription.handler | void         | public      | Constructor             |
-				| execute  | void         | public      | Permite registrar al usuario |	
-
-			- Nombre: AssignSuscription.command
-			- Categorìa: Command
-			- Propòsito: Command para asignar una suscripción
-			- Mètodos: 
-				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-				|----------|--------------|-------------|-----------------------------------|
-				| AssignSuscriptionr.command | void         | public      | Constructor          	|
-
+			- Nombre: RegisterIoTDeviceCommandHandler
+			- Categoría: Command Handler
+			- Propósito: Handler de registro de dispositivos IoT
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<IoTDevice>|public|Método de ejecución del comando|
 			
+			- Nombre: DeleteIoTDeviceCOmmandHandler
+			- Categoría: Command Handler
+			- Propósito: Handler para la eliminación de un dispositivo IoT
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<IoTDevice>|public|Método de ejecución del comando|
+
+			- Nombre: AssignCroptoaIoTDeviceCommandHandler
+			- Categoría: Command Handler
+			- Propósito:
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<IoTDevice>|public|Método de ejecución del comando|
+			
+			- Nombre: ActivateMonitoringCropCommandHandler
+			- Categoría: Command Handler
+			- Propósito: Handler para la activación de monitoreo de cultivo
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<IoT>|public|Método de ejecución del comando|
+
+			- Nombre: IoTDeviceRegisteredEventHandler
+			- Categoría: Event Handler
+			- Propósito: Gestionar registro de dispositivos IoT
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<IoTDevice>|public|Método de ejecución del comando|
+			
+			- Nombre: IoTDeviceDeletedEventHandler
+			- Categoría: Event Handler
+			- Propósito: Gestionar la eliminación de un dispositivo IoT
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<IoTDevice>|public|Método de ejecución del comando|
+
+			- Nombre: CroptoaIoTDeviceAssignedEventHandler
+			- Categoría: Command Handler
+			- Propósito: Gestionar la asignación de un dispositivo IoT a un cultivo
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<IoTDevice>|public|Método de ejecución del comando|
+			
+			- Nombre: MonitoringCropActivatedEventHandler
+			- Categoría: Event Handler
+			- Propósito: Gestionar para la activación de monitoreo de cultivo
+				|Nombre|Tipo de retorno|Visibilidad|Descripción|
+				|------|---------------|-----------|-----------|
+				|Handler|Promise<IoT>|public|Método de ejecución del comando|
 			
 		- **4.2.1.4 Infrastructure Layer**
 			- Nombre: SuscriptionRepository
@@ -475,24 +718,7 @@ New Version of the Project Report
 				| createAt|date|private|Fecha de creacion|
 				| imageSrc|string|private|Enlace a la imagen del cultivo al momento de crear el reporte|
 				|Description|string|private|Descripción de como se encuentra el cultivo al momento de generar el reporte|
-			- Nombre: IoTDevice
-			- Categoría: Entity
-			- Propósito: Almacenar datos de los dispositivos IoT
-			- Atributos:
-				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
-				|-----------|--------------|-------------|----------------------------------------------|
-				| Id | int       | private     | Id de identidad               |
-				| deviceName        | string          | private     | Nombre del dispositivo  |
-				|status|Status|private|Estado del dispositivo|
-				|registerAt|date|private|Fecha de creación|
-			- Nombre: Status
-			- Categoría: Enum
-			- Propósito: Almacenar los estados de un dispositivo IoT
-			- Atributos: 
-				| Nombre    | Tipo de dato | Visibilidad |
-				|-----------|--------------|-------------|
-				| ON | string       | public    |
-				| OFF  | string          | public     |
+			
 
 
 		- **4.2.4.2 Interface layer**
@@ -507,17 +733,7 @@ New Version of the Project Report
 				| GetCropById|Promise|public|Permite obtener un cultivo|
 				| GetCropsByUserId|Promise|public|Permite obtener una lista de los cultivos de un usuario|
 				| DeleteCrop | Promise      | public      | Permite eliminar un cultivo  |
-			- Nombre: IoT.controller
-			- Categorìa: Controller
-			- Propòsito: Controlar registro de dispositivos IoT
-			- Mètodos:
-				| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
-				|------------|--------------|-------------|-----------------------------------------|
-				| Register   | Promise      | public      | Registra un nuevo dispositivo IoT               |
-				| Modify | Promise      | public      | Permite modificar dispositivo IoT |
-				| GetIoTByOd|Promise|public|Permite obtener un dispositivo IoT|
-				| GetIoTByUserId|Promise|public|Permite obtener una lista de los dispositivos de un usuario|
-				| DeleteIoT | Promise      | public      | Permite eliminar un dispositivo  |
+			
 		- **4.2.4.3 Application Layer**
 			- Nombre: RegisterCrop.handler
 			- Categorìa: Handler
@@ -554,39 +770,7 @@ New Version of the Project Report
 				|----------|--------------|-------------|-----------------------------------|
 				| AddReport.command | void         | public      | Constructor          	|
 
-			- Nombre: ActivateMonitoring.handler
-			- Categorìa: Handler
-			- Propòsito: Handler para activar el monitoreo de un cultivo
-			- Mètodos: 
-				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-				|----------|--------------|-------------|-----------------------------------|
-				| ActivateMonitoring.handler | void         | public      | Constructor     |
-				| execute  | void         | public      | Permite activar el monitoreo |	
-
-			- Nombre: ActivateMonitoring.command
-			- Categorìa: Command
-			- Propòsito: Command para activar el monitoreo de un cultivo
-			- Mètodos: 
-				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-				|----------|--------------|-------------|-----------------------------------|
-				| ActivateMonitoring.command | void         | public      | Constructor      |
 			
-			- Nombre: DisplayInformation.handler
-			- Categorìa: Handler
-			- Propòsito: Handler para mostrar la información del cultivo en tiempo real
-			- Mètodos: 
-				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-				|----------|--------------|-------------|-----------------------------------|
-				| DisplayInformation.handler | void         | public      | Constructor     |
-				| execute  | void         | public      | Permite mostrar información en tiempo real |	
-
-			- Nombre: DisplayInformation.command
-			- Categorìa: Command
-			- Propòsito: Command para mostrar la información del cultivo en tiempo real
-			- Mètodos: 
-				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-				|----------|--------------|-------------|-----------------------------------|
-				| DisplayInformation.command | void         | public      | Constructor      |
 			
 			- Nombre: DeleteCrop.handler
 			- Categorìa: Handler
@@ -640,7 +824,7 @@ New Version of the Project Report
 			- **4.2.4.6.2 Bounded Context Database Diagrams**
 				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
 
-	- **4.2.4. Bounded Context: Project Management**
+	- **4.2.4. Bounded Context: Advisory Management**
 		- **4.2.4.1. Domain Layer.** 
 			- Nombre: Project
 			- Categoria: Entity
