@@ -801,7 +801,10 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| delete | void |public|Eliminar un plan|
 				
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
-El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes sUSCRIPTION](https://cdn.discordapp.com/attachments/1143666758042013890/1152477663966011422/image.png)
+
+El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. 
+![Diagrama de componentes sUSCRIPTION](https://cdn.discordapp.com/attachments/1143666758042013890/1152477663966011422/image.png)
+
 #### 4.2.3.6 Bounded Context Software Architecture Code Level Diagrams
 Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
 ##### 4.2.3.6.1 Bounded Context Domain Layer Class Diagrams
