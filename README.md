@@ -59,7 +59,7 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
   - Landing-Page: HTML, CSS y Javascript
   - Base de datos: MySQL
   - Convenciones de idioma: Se empleará el idioma inglpara desarrollar el código, sea en nuestra landipage, front end services o back end services. Tambilos títulos de los commits se encontrarán en el misidioma.
-  - Convenciones de tecnología: Cada nombre de una taben nuestra base de datos iniciará con mayúscula, y esta se compone de dos o más palabras, se separará cauna con un "_" y seguirá una mayúscula.
+  - Convenciones de tecnología: Cada nombre de una tabla nuestra base de datos iniciará con minúscula, y esta se compone de dos o más palabras, se separará cauna con un "_" y seguirá una mayúscula.
   - Cada Unit Test deberá ser escrito en lenguaje Gherky sus convenciones. Podremos revisarlos en el siguienenlace: [https://specflow.org/gherkgherkin-conventions-for-readable-specification](https://specflow.org/gherkgherkin-conventions-for-readable-specifications/)
   - Para escribir el título de los commits, utilizaremoConventional Commits. Podemos revisar la documentacien el siguiente enlace: [https://wconventionalcommits.org/en/v1.0.0/](https://wconventionalcommits.org/en/v1.0.0/)
   - Para trabajar con JavaScript, se utilizarán lconvenciones "Google Javascript Style Guide". Podemacceder a estas a través del siguiente enlace: [httpsgoogle.github.io/styleguide/jsguide.html](httpsgoogle.github.io/styleguide/jsguide.html)
@@ -111,8 +111,8 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 - Sprint Goal & User Stories
     | Sprint Goal 1                   | Implementar y desplegar la landing page. A su vez, desarrollar la primera    versión del front-end |
     |---------------------------------| ------------------------------------------------------------------------------------------------|
-    | Sprint 1  Velocity               |                                                                                                    |
-    | Sum of story  points             |                                                                                                    |
+    | Sprint 1  Velocity               |     21                                                                  |
+    | Sum of story  points             |      27                                                                   |
 
 #### 6.2.1.2 Sprint Backlog 1
         
@@ -122,11 +122,11 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
     |US011  |Botón Call to action|    ST001     |      Diseño e implementación del Botón Call to action            |    4 horas     | Andrés Reynoso            |   Done  |
     |US012|Visualización de redes sociales|ST002| Diseño e implementación se la sección de redes sociales en la landing page| 8 horas | Diego Talledo|Done|
     |US013|Visualizar características de la aplicación|ST003|Diseño e implementación de la sección de características en la landing page| 8 horas| Franchesco Soto|Done|
-    |US004|Selección de planta a sembrar|ST004|Diseño e implementación visual de la selección de planta a sembrar en front-end| 8 horas|Diego Talledo|In process|
+    |US004|Selección de planta a sembrar|ST004|Diseño e implementación visual de la selección de planta a sembrar en front-end| 8 horas|Diego Talledo|Done|
     |US005|Guía de elección de tierra de sembrado|ST005|Diseño e implementación visual de la sección de guía de elección de tierra|8 horas|Franchesco Soto|In process|
-    |US006|Distancia de siembra entre las plantas|ST006|Diseño e implementación visual de la sección de distancia de siembra|8 horas|Bruno Palomino|In process|
-    |US007|Distancia de profundidad de siembra| ST007|Diseño e implementación visual de la sección de profundidad de siembra| 8 horas | Frank| In process|
-    |US010|Contacto a especialista|ST008|Diseño e implementación visual de la sección de contacto a especialista| 8 horas| Bruno| In process|
+    |US006|Distancia de siembra entre las plantas|ST006|Diseño e implementación visual de la sección de distancia de siembra|8 horas|Bruno Palomino|Done|
+    |US007|Distancia de profundidad de siembra| ST007|Diseño e implementación visual de la sección de profundidad de siembra| 8 horas | Frank| Done|
+    |US010|Contacto a especialista|ST008|Diseño e implementación visual de la sección de contacto a especialista| 8 horas| Bruno| Done|
         
 #### 6.2.1.3. Development Evidence for Sprint Review
 
