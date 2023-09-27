@@ -68,3 +68,24 @@ Para este entregable, nuestro equipo se ha dividido cada uno las correcciones de
 |-----------|-----------|-----------|
 | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.   | Andres Reynoso (TB1): Para este entregable hemos definido en equipo el desarrollo de nuestra startup utilizando multiples metodos aprendidos como entrevistas, lean ux, etc. Frank Alva (TB1): Para esta primera entrega definimos como equipo que secciones vamos a desarrollar dentro del proyecto, ademas aplicamos diversas metodologias para una eficacia y eficiencia dentro del proyecto. Diego Talledo (TB1): En nuestra primera entrega, realizamos las distribuciones y planificaciones de las sesiones en las trabajamos en equipo principalmente en el eventStorming. Franchesco Soto (TB1): Se definió al equipo y se distribuyeron las tareas. Andres Reynoso (TP): Para este entregable hemos desarrollado en equipo nuestro primer avance de la Landing Page, al igual que de nuestra Web Application, para esto hemos utilizado multiples metodos aprendidos como wireframes y mockups, y el desarrollo de nuestro primer sprint. | TB1: En resumen, en esta primera etapa de desarrollo de la startup, el equipo liderado por Diego Talledo ha empleado una variedad de métodos, incluyendo entrevistas y Lean UX, para planificar y definir las secciones clave del proyecto. Han aplicado metodologías con el objetivo de lograr eficacia y eficiencia, y se han distribuido las tareas entre los miembros del equipo. Este enfoque multifacético refleja un esfuerzo integral para establecer una base sólida para el proyecto y garantizar una planificación efectiva. TP: Hemos logrado avances significativos en el desarrollo de la Landing Page y la Web Application, al igual que aplicar una serie de métodos y técnicas aprendidas, incluyendo la creación de wireframes y mockups.    |
 | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.    | Andres Reynoso (TB1): Con la ayuda de las entrevistas, pudimos entender como trabajan nuestros segmentos objetivos, siendo capaces de ponernos en sus zapatos y analizar sus metas y preocupaciones. Frank Alva (TB1): Al analizar nuestros segmentos objetivos, entrevistas y desarrollando nuestros user persona pudimos conocer mejor el ambito empresarial del transporte. Diego Talledo (TB1):  Al realizar las entrevistas logramos identificar a nuestros usuarios, analizar sus requerimientos y sus espectativas. Franchesco Soto (TB1): Se pudo conocer más sobre los segmentos objetivos al realizar las entrevistas. Andres Reynoso (TP): Con el desarrollo delos wireframes y mockups, hemos entendido y pensado como es quee nustros segmentos objetivo se sentirian al usar nuestra aplicacion. | TB1: A través de este proceso, hemos adquirido un conocimiento más profundo del ámbito empresarial y hemos identificado las expectativas de sus usuarios, sentando así una base sólida para el desarrollo de su proyecto. TP: En el proceso de desarrollo de los wireframes y mockups, hemos logrado una comprensión más profunda de cómo nuestros segmentos objetivo se sentirían al utilizar nuestra aplicación. Esta etapa nos ha permitido poner en práctica no solo nuestras habilidades técnicas, sino también nuestra empatía hacia los usuarios.|
+
+
+## Conclusiones
+
+- La creación de repositorios en GitHub y su alojamiento en la nube permite que todos los miembros del equipo interactúen directamente con los avances desarrollados, lo que facilita la identificación de avances y futuras incorporaciones de programacion.
+- Las entrevistas de validación son esenciales para que el equipo de desarrollo pueda identificar errores que solo son perceptibles para personas externas al proceso de desarrollo, como los posibles usuarios.
+- Mejorar la comunicación es una de las ventajas de utilizar herramientas colaborativas, ya que facilitan la interacción efectiva y fluida entre los integrantes del equipo, lo que simplifica la discusión de ideas, la resolución de problemas y la toma de decisiones.
+
+
+## Anexos
+
+**ANEXO A: Product Backlog**
+
+![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
+Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
+
+
+**ANEXO B: Video de exposiciones**
+| Vídeo exposición TB1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 | 
+|-----------|-----------|
+| Vídeo exposición TP |  | 
