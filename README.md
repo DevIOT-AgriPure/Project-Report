@@ -37,23 +37,29 @@
 	El siguiente logo combina bien con la propuesta de nuestra aplicación. El logo tiene un parecido a una planta, y los colores son los correctos.
 	![https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-5/images/AgripureBrand.jpeg?raw=true](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-5/images/AgripureBrand.jpeg?raw=true)
 
+	- **Color primario**
+  
+      HEX:  ![PrimeryColor](https://media.discordapp.net/attachments/1063259243727306824/1155576290246660096/image.png) 008000
+
+      El color verde contiene la representación de la vegetación y los cultivos, con el tono degradé, incluyendo todo tipo de cultivos.
+   - **Color secundario**
+     
+      HEX: ![SecondaryColor](https://media.discordapp.net/attachments/1063259243727306824/1155576306969362483/image.png) E49E43
+
+      El color ámbar representa la juventud y la calidez que resaltan los cultivos a plena luz.
+
   
   ###  5.1.2. Web, Mobile and IoT Style Guidelines.
   
   En el presente apartado, demostraremos las decisiones que fueron tomadas en base a los estándares visuales y los diferentes tipos de interacción con respecto al responsive web interfaz.
 
-  - **Colores:
-** 
-    - **Color primario**
-  
-      HEX:  ![PrimeryColor](https://media.discordapp.net/attachments/1063259243727306824/1155576290246660096/image.png) 008000
 
-      El color verde contiene la representación de la vegetación y los cultivos, con el tono degradé, incluyendo todo tipo de cultivos.
-  -  - **Color secundario**
-     
-      HEX: ![SecondaryColor](https://media.discordapp.net/attachments/1063259243727306824/1155576306969362483/image.png) E49E43
 
-      El color ámbar representa la juventud y la calidez que resaltan los cultivos a plena luz.
+  - **Navegación:**
+	- Navigation Options: 
+		![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-5/images/NavigationImage.PNG?raw=true)
+
+    
   - **Espaciado o Spacing:**
   -  - **Ilustraciones:**
       Proponemos cuadros de imágenes simples/minimalistas, con el propósito de enviar la información de manera directa como se planeaba.
