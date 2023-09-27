@@ -121,15 +121,23 @@ Mobile:
 En esta seccion, se muestra como se ve la landing  page en dispositivos moviles.
 
 ![texto](https://media.discordapp.net/attachments/912089666939916348/1155679042515779644/image.png?width=195&height=669)
-	![texto](https://media.discordapp.net/attachments/912089666939916348/1155679133519593522/image.png?width=144&height=668)
-	![texto](https://media.discordapp.net/attachments/912089666939916348/1155679191258366103/image.png?width=182&height=669)	
+
+
+![texto](https://media.discordapp.net/attachments/912089666939916348/1155679133519593522/image.png?width=144&height=668)
+
+
+![texto](https://media.discordapp.net/attachments/912089666939916348/1155679191258366103/image.png?width=182&height=669)	
 	
 Tablet:
 		
 En esta seccion, se muestra como se ve la landing  page en dispositivos de tablet.	
 		
 ![texto](https://media.discordapp.net/attachments/912089666939916348/1155679343851352115/image.png?width=381&height=669)
-		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679440093843517/image.png?width=477&height=547)
+
+		
+![texto](https://media.discordapp.net/attachments/912089666939916348/1155679440093843517/image.png?width=477&height=547)
+
+
 ![texto](https://media.discordapp.net/attachments/912089666939916348/1155679508930756679/image.png?width=481&height=471)
 	
 Desktop:
@@ -189,5 +197,5 @@ Habiendo desarrollado el Wireframe, proseguimos con los MockUp, en donde utiliza
 ##- 5.5. Applications Prototyping.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjE3MDY3XX0=
+eyJoaXN0b3J5IjpbMjkwNzQ1MTg5XX0=
 -->
