@@ -69,7 +69,7 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
   **Landing Page:
   Para el despliegue de nuestra landing page se utiliza"GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Pallevarlo a cabo, seguiremos los siguientes paso
   - **Accedemos al repositorio de nuestra landing page:![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
-  - **Nos vamos a configuración, a la sección de page*[Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
+  - **Nos vamos a configuración, a la sección de page** ![Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
   - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
   - **Esperamos unos instantes y la landing page estadesplegada** 
 
