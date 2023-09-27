@@ -118,10 +118,23 @@ Identificar candidatos de contexto implica descubrir áreas potenciales deenfoqu
 El Context Mapping es una metodología empleada en el desarrollo de software para comprender y representar gráficamente las conexiones entre los usuarios, los conceptos y los equipos que forman parte de un proyecto.
 
 ### 4.1.3. Software Architecture. 
-#### 4.1.3.1. Software Architecture System Landscape Diagram. ![Landscape Diagram](https://media.discordapp.net/attachments/1143666758042013892/1149092447788486677/landscape.drawio.png?width=1025&height=405) 
-#### 4.1.3.2. Software Architecture Context Level Diagrams. ![Context diagram](https://media.discordapp.net/attachments/1143666758042013892/1149089602737537094/Context.drawio.png?width=954&height=473)
-#### 4.1.3.2. Software Architecture Container Level Diagrams. ![Container DIagram](https://media.discordapp.net/attachments/1143666758042013892/1149106586892111892/container.drawio.png?width=454&height=473)
-#### 4.1.3.3. Software Architecture Deployment Diagrams. ![Deployment Diagram](https://media.discordapp.net/attachments/1149587894416183327/1149594351039684608/C4-Deployme.drawio_1.png?width=702&height=473) 
+#### 4.1.3.1. Software Architecture System Landscape Diagram. 
+
+Los diagramas de paisaje del sistema son una herramienta de representación que se emplea para representar la organización fundamental de un sistema de software y su contexto de operación. Estos gráficos revelan los componentes del sistema, sus interacciones con servicios y sistemas externos, y su configuración en ambientes de producción y desarrollo. Su propósito principal es ofrecer una visión global de la arquitectura y su contexto.
+![Landscape Diagram](https://media.discordapp.net/attachments/1143666758042013892/1149092447788486677/landscape.drawio.png?width=1025&height=405) 
+
+#### 4.1.3.2. Software Architecture Context Level Diagrams. 
+
+Los diagramas de nivel de contexto son una herramienta de representación que se emplea para ilustrar la organización fundamental de un sistema de software y su entorno circundante. Estos gráficos exhiben los elementos clave del sistema y sus conexiones con otros sistemas o usuarios externos. Su objetivo principal es simplificar la comprensión global de la arquitectura del sistema y su contexto de aplicación.
+![Context diagram](https://media.discordapp.net/attachments/1143666758042013892/1149089602737537094/Context.drawio.png?width=954&height=473)
+#### 4.1.3.2. Software Architecture Container Level Diagrams. 
+
+Los diagramas de nivel de contenedor son una técnica de modelado empleada para representar la organización de los contenedores que conforman un sistema de software y sus interconexiones. Los contenedores suelen ser componentes principales como aplicaciones web, servicios y bases de datos.
+![Container DIagram](https://media.discordapp.net/attachments/1143666758042013892/1149106586892111892/container.drawio.png?width=454&height=473)
+#### 4.1.3.3. Software Architecture Deployment Diagrams. 
+
+Un diagrama de implementación de la arquitectura de software detalla cómo un sistema de software se instala y fusiona con el hardware y la infraestructura del sistema. Este gráfico identifica los componentes, servidores y nodos del sistema, junto con sus interacciones, para visualizar la distribución del software a través de la red.
+![Deployment Diagram](https://media.discordapp.net/attachments/1149587894416183327/1149594351039684608/C4-Deployme.drawio_1.png?width=702&height=473) 
 
 ## 4.2. Tactical-Level Domain-Driven Design.
 
@@ -230,7 +243,7 @@ Los diagramas de estratificación de dominio facilitan la representación visual
 
 ## **4.2.1.6.2 Bounded Context Database Diagrams**
 
-Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
+Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. 
 ![Diagrama de base de datos](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_user.PNG?raw=true)
 	
 ## **4.2.2. Bounded Context: Suscriptions and Payments**
@@ -370,7 +383,7 @@ Los diagramas de estratificación de dominio facilitan la representación visual
 
 ## **4.2.1.6.2 Bounded Context Database Diagrams**
 
-Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
+Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. 
 ![Database diagram](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_suscription.PNG?raw=true)
 
 ## **4.2.2. Bounded Context: Profile Management**
@@ -629,7 +642,7 @@ Los diagramas de estratificación de dominio facilitan la representación visual
 
 ##### 4.2.2.6.2 Bounded Context Database Diagrams
 
-Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
+Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos.
 
 ## **4.2.3. Bounded Context: IoT Asset Management**
 ## **4.2.2.1. Domain Layer.** 
