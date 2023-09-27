@@ -56,6 +56,11 @@ Desarrollo del equipo durante la TB1:
 
 ![Commits](https://media.discordapp.net/attachments/1149587894416183327/1149608443334885467/image.png?width=1230&height=669)
 
+Desarrollo del equipo durante la TP:
+
+![Commits](https://media.discordapp.net/attachments/912089666939916348/1156422129747775518/image.png?ex=6514e989&is=65139809&hm=c2596e83b06be3b4cf50eb235c4698da63d51a6b8ce620c34be569568ad4cbc0&=&width=1440&height=614)
+
+Para este entregable, nuestro equipo se ha dividido cada uno las correcciones de los capitulos anteriores, corrigiendo todos los puntos indicados por la rubrica, a su vez, hemos iniciado con la documentacion de nuestro TP, dividiendonos los puntos del capitulo 5 entre cada uno de nosotros, al igual que para el desarrollo de la Landing Page y el primer avance de nuestra Aplicacion Web.
 
 # Student Outcome
 
