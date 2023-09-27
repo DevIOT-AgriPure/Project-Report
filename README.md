@@ -1,4 +1,4 @@
-
+![image](https://github.com/DevIOT-AgriPure/Project-Report/assets/85322967/2d93e01c-ddbc-402c-bfa6-4eac3ef34b66)## Capítulo I: Introducción
 ### 1.1. Startup Profile
 - 1.1.1. Descripción de la Startup
 
