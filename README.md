@@ -46,7 +46,7 @@
       - [4.2.4.5. Bounded Context Software Architecture Component Level Diagrams](#4245-bounded-context-software-architecture-component-level-diagrams)
       - [4.2.4.6 Bounded Context Software Architecture Code Level Diagrams](#4246-bounded-context-software-architecture-code-level-diagrams)
         - [4.2.4.6.1 Bounded Context Domain Layer Class Diagrams](#42461-bounded-context-domain-layer-class-diagrams)
-      - [4.2.4.6.2 Bounded Context Database Diagrams](#42462-bounded-context-database-diagrams)
+        - [4.2.4.6.2 Bounded Context Database Diagrams](#42462-bounded-context-database-diagrams)
     - [4.2.5. Bounded Context: Project Management](#425-bounded-context-project-management)
       - [4.2.5.1. Domain Layer.](#4251-domain-layer)
       - [4.2.5.2 Interface layer](#4252-interface-layer)
@@ -675,7 +675,7 @@ Los diagramas de nivel de código en la arquitectura de software son una herrami
 ##### 4.2.4.6.1 Bounded Context Domain Layer Class Diagrams
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
 		![Diagrama clases Suscription](https://cdn.discordapp.com/attachments/1143666758042013890/1152481306656120885/image.png)
-#### 4.2.4.6.2 Bounded Context Database Diagrams
+##### 4.2.4.6.2 Bounded Context Database Diagrams
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
 
 ### 4.2.5. Bounded Context: Project Management
