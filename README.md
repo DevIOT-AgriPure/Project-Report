@@ -63,11 +63,11 @@
 
 ***Segmento 1: Agricultores***
 
-![Impact Map Agricultores](https://media.discordapp.net/attachments/912089666939916348/1149177185303797923/Flowchart.jpg?width=833&height=669)
+![Impact Map Agricultores]([https://media.discordapp.net/attachments/912089666939916348/1149177185303797923/Flowchart.jpg?width=833&height=669](https://media.discordapp.net/attachments/1149587894416183327/1156509445946343434/Imagen_de_WhatsApp_2023-09-27_a_las_03.33.52.jpg?ex=65153ada&is=6513e95a&hm=541e39d91a8e2f6d7858a24e82f981fa7dd5e560c5e46c642d6ee2aab9a96427&=&width=438&height=668))
 
 ***Segmento 2: Especialistas***
 
-![Impact Map Especialistas](https://media.discordapp.net/attachments/912089666939916348/1149181676568719490/Flowchart_1.jpg?width=968&height=669)
+![Impact Map Especialistas]([https://media.discordapp.net/attachments/912089666939916348/1149181676568719490/Flowchart_1.jpg?width=968&height=669](https://media.discordapp.net/attachments/1149587894416183327/1156509445665345546/Imagen_de_WhatsApp_2023-09-27_a_las_03.34.00.jpg?ex=65153ada&is=6513e95a&hm=3f94ce3126290455377e21ffbdcba4216aab95383b9eb473120bb8ea5568c2c9&=&width=465&height=670))
 
 ## 3.4. Product Backlog.
 
