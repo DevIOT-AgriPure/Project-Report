@@ -137,7 +137,7 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
 	|https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     8fce68724ed2a3777e3f471a4493aa5085a1ee5d|Create README.md|                     |24/08/2023|
 	|https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     eded325c2581acc07525266b97fd7514b72f1833|Added First Version of Landing Page|                     |25/09/2023|
 	|https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     4e5f8e253539049e8bba296474ff06759d18054b|Fixed Landing Page structure|                     |26/09/2023|
-	|https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     86b51b2af92f3aa4e574a792b0ab9820e1977485|Fixed Landing Page structure|                     |26/09/2023|
+	|https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     86b51b2af92f3aa4e574a792b0ab9820e1977485|Update index.html|                     |26/09/2023|
 
     - **6.2.1.4. Testing Suite Evidence for Sprint Review**
 
@@ -161,8 +161,13 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
 
     - **6.2.1.8. Team Collaboration Insights During Sprint**
 
+A continuacion, se mostraran los Insights de nuestros repositorios:
+
+- Repositorio Landing Page:
+![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTU1MTY5MCwtMTYxOTU5OTc1NSwyMD
-E2NjMxMDUyLC0xNjIyNjAwOTgzXX0=
+eyJoaXN0b3J5IjpbNjgzNjI2NTU4LC0xNjE5NTk5NzU1LDIwMT
+Y2MzEwNTIsLTE2MjI2MDA5ODNdfQ==
 -->
