@@ -2023,6 +2023,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
   | User Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155583194188480554/image.png) |    
 
 ##- 5.5. Applications Prototyping.
+	Enlace: https://www.figma.com/proto/Mhmi5BLMyg93FsEgdl1Cwx/Mobile-App?type=design&node-id=95-4&t=8icZvZMkEscT3mrz-1&scaling=scale-down&page-id=95%3A3&starting-point-node-id=95%3A4&show-proto-sidebar=1&mode=design 
   
   # Capítulo VI: Product implementation, Validation & Deployment
 ## 6.1 Software Configuration Management
