@@ -484,7 +484,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 		
 ## **4.2.2.5. Bounded Context Software Architecture Component Level Diagrams**
 
-El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes plantas]([https://cdn.discordapp.com/attachments/1143666758042013890/1152477663966011422/image.png](https://cdn.discordapp.com/attachments/1149587894416183327/1153883194555371632/image.png))
+El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes ](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_profile.PNG?raw=true)
 
 ## **4.2.2.6 Bounded Context Software Architecture Code Level Diagrams**
 
