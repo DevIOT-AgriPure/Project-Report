@@ -88,7 +88,7 @@
 #### 4.1.1.1 Candidate Context Discovery.
 
 Identificar candidatos de contexto implica descubrir áreas potenciales deenfoque en un sistema complejo. Esto implica analizar el sistema paraidentificar sus componentes esenciales y sus interacciones, agrupándolos enáreas lógicas para simplificar el proceso de diseño e implementación. Elobjetivo principal es mejorar la escalabilidad, el rendimiento y la facilidadde mantenimiento del sistema.
-	![Candidates context](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/event-storming/boundedcontexts.jpg?raw=true)
+![Candidates context](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/event-storming/boundedcontexts.jpg?raw=true)
 		
 #### 4.1.1.2 Domain Message Flows Modeling. 
 #### 4.1.1.3 Bounded Context Canvases. 
@@ -131,42 +131,26 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 	| Nombre    | Tipo de dato | VisibilidadDescripción                                  |
 	|-----------|--------------|---------------------------------------------------------|
 	| id        | int          | private     | Id identidad                              |
-	| suscripcionId        | int          | private    Id del la suscripcion             |
-	| firstName | string       | private     | Almacena nombre del usuario               |
-	| lastName  | string       | private     | Almacena apellido del usuario             |
-	| cellphone  | string       | private     | Almacena número telefónico del usuario        |
 	| email     | string       | private     | Almacena email del usuario                |
 	| password  | string       | private     | Almacena contraseña de acceso del usuario |
-	| userType  | UserType     | private     | Almacena tipo de usuario                  |
 - Métodos:
 	| Nombre       | Tipo de dato | VisibilidadDescripción                                   |
 	|--------------|--------------|----------------------------------------------------------|
 	| User         | void         | public     Constructor de la identidad                   |
 	| getFullName  | string       | public      | Obtieel nombre completo del usuario        |
 	| getType      | string       | public      | Retorel tipo de usuario                   
-- Nombre: UserType
-- Categorìa: Enum
-- Propòsito: Proveer los tipos de usuario
-- Atributos: 
-	| Nombre       | Tipo de dato | Visibilidad |
-	|--------------|--------------|-------------|
-	| FARMER       | string       | public      |
-	| SPECIALIST   | string       | public      |
-	| ADM          | string       | public      |
-- Nombre: IUserRepository
-- Categoorìa: Repository
-- Propòsito: Persistir usuarios
+
 #### 4.2.1.2 Interface layer
 - Nombre: Users.controller
 - Categorìa: Controller
-	- Propòsito: Controlar registro de usuarios
-	- Mètodos:
-		| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
-		|------------|--------------|-------------|-----------------------------------------|
-		| Register   | Promise      | public      | Registra un usuario nuevo               |
-		| Log In     | Promise      | public      | Permite iniciar sesiòn al usuario       |
-		| ModifyUser | Promise      | public      | Permite modificar los datos del usuario |
-		| DeleteUser | Promise      | public      | Permite eliminar un usuario             |
+- Propòsito: Controlar registro de usuarios
+- Mètodos:
+	| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
+	|------------|--------------|-------------|-----------------------------------------|
+	| Register   | Promise      | public      | Registra un usuario nuevo               |
+	| Log In     | Promise      | public      | Permite iniciar sesiòn al usuario       |
+	| ModifyUser | Promise      | public      | Permite modificar los datos del usuario |
+	| DeleteUser | Promise      | public      | Permite eliminar un usuario             |
 #### 4.2.1.3 Application Layer
 - Nombre: CreateUser.handler
 - Categorìa: Handler
@@ -465,7 +449,18 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| firstName | string       | private     | Almacena el nombre del usuario               |
 	| lastName  | string       | private     | Almacena el apellido del usuario             |
 	| cellphone  | string       | private     | Almacena el número telefónico del usuario        |
-	| rol  | UserRol     | private     | Almacena el tipo de usuario                 
+	| rol  | UserRol     | private     | Almacena el tipo de usuario      |
+
+- Nombre: Rol
+- Categorìa: Enum
+- Propòsito: Proveer los tipos de usuario
+- Atributos: 
+	| Nombre       | Tipo de dato | Visibilidad |
+	|--------------|--------------|-------------|
+	| FARMER       | string       | public      |
+	| SPECIALIST   | string       | public      |
+	| ADM          | string       | public      |
+
 - Métodos:
 	| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
 	|-----------|--------------|-------------|----------------------------------------------|
