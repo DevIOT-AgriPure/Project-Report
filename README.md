@@ -73,7 +73,7 @@
 
         **Landing Page:**
 
-        Para el despliegue de nuestra landing page se utilizará "GitHub Pages" ya que es ideal para sitios web estáticos. ENetlify" debido a que es muy fácil de realizar el despliegue. Para llevarlo a cabo, seguiremos los siguientes pasos:
+        Para el despliegue de nuestra landing page se utilizará "GitHub Pages" ya que es ideal para sitios web estáticos. Es muy fácil de realizar el despliegue. Para llevarlo a cabo, seguiremos los siguientes pasos:
 
 
         - **Accedemos al repositorio de nuestra landing page:** ![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeploy.PNG?raw=true)
@@ -82,15 +82,17 @@
 
         - **Seleccionamos la rama de donde desplegaremos la landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=true)
 
-        - **Esperamos unos instantes y la landing page estará desplegada** ![Landing page deployed]()
+        - **Esperamos unos instantes y la landing page estará desplegada** 
 
-        **Web application**
+![Landing page deployed]()
 
-        Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
+   **Web application**
 
-        **Web Services**
+Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
 
-        Para el despliegue de nuestro back-end service se utilizarà "Railway", es ideal para subir soluciones y crear esquemas
+ **Web Services**
+
+ Para el despliegue de nuestro back-end service se utilizarà "Railway", es ideal para subir soluciones y crear esquemas
 
 - **6.2 Landing Page, Services & Applications Implementation.**
 
@@ -157,5 +159,5 @@
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjI2MDA5ODNdfQ==
+eyJoaXN0b3J5IjpbMjAxNjYzMTA1MiwtMTYyMjYwMDk4M119
 -->
