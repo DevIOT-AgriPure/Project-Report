@@ -227,6 +227,7 @@ Los diagramas de estratificación de dominio facilitan la representación visual
 ## **4.2.1.6.2 Bounded Context Database Diagrams**
 
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
+![Diagrama de base de datos](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_user.PNG?raw=true)
 	
 ## **4.2.2. Bounded Context: Suscriptions and Payments**
 ## **4.2.1.1. Domain Layer.** 
