@@ -19,15 +19,6 @@
 
 - 3.2. User Stories.
 
-| Epic ID | Titulo de Epica | Descripcion de Epica |
-|-----------|-----------|-----------|
-| EP001 | Definición de funcionalidades de la aplicación | Como usuario deseo que la aplicación posea características funcionales variadas para que me sirva de ayuda al momento de la siembra y cosecha |
-| EP002 | Opciones relacionadas a la cuenta del usuario | Como usuario deseo poder realizar acciones de creación, actualización y otras relacionadas a una cuenta para poder guardar las configuraciones y utilizarlas desde distintos dispositivos |
-| EP003 | Definición de estructura del landing page | Como usuario deseo disponer de un landing page con información pertinente para conocer mejor acerca de la aplicación |
-| EP004 | Definición de requisitos no funcionales | Como usuario deseo que la aplicación cumpla con estándares de rendimiento y optimización para utilizarla sin inconvenientes |
-| EP005 | Integración de Dispositivos IoT | Como usuario deseo que la aplicación integre los dispositivos IoT en la Aplicación de Monitoreo de Plantas. |
-| EP006 | Gestión de Datos y Comunicación Backend | Como usuario, deseo que la aplicación mejore la gestión de datos y la comunicación con el backend. |
-
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Relacionado con |
 |-----------|-----------|-----------|-----------|-----------|
 | US001 | Registro de usuario | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios | **Escenario: Registro de cuenta exitoso.** Dado que un usuario tiene una cuenta de correo electrónico Cuando el usuario completa el proceso de registro Entonces, la aplicación confirma el registro exitoso. **Escenario: Registro erróneo de cuenta.** Dado que un usuario tiene una cuenta de correo electrónico Cuando el usuario completa el proceso de registro con información incorrecta o faltante Entonces, la aplicación muestra un mensaje de error relacionado con la información ingresada. **Escenario: Iniciar sesión en cuenta existente.** Dado que un usuario ya ha registrado una cuenta en la aplicación Cuando el usuario inicia sesión en la aplicación Entonces, la aplicación permite el inicio de sesión y redirige al usuario a la pantalla principal | EP002 Opciones relacionadas a la cuenta del usuario | 
