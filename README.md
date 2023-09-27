@@ -73,15 +73,15 @@
 
 | #Orden | Story ID | Titulo | Descripcion | Story Points |
 |-----------|-----------|-----------|-----------|-----------|
+| 8    | US011    | Botón call to action    | Como usuario deseo que el landing page posea un botón call-to-action para poder descargar directamente hacia la aplicación    | 3    |
+| 9    | US012    | Visualización de redes sociales    | Como usuario deseo poder acceder a las redes sociales del startup por medio del landing page para conocer más acerca de este.    | 2    |
+| 10   | US013   | Visualización de características de aplicación  | Como usuario deseo poder visualizar las características que posee la aplicación en el landing page para estar informado de lo que se me ofrece.   | 3   |
 | 1    | US004    | Selección de planta a sembrar    | Como usuario deseo poder ingresar la planta que deseo sembrar para que la aplicación me ayude en su control    | 8    |
 | 2    | US005    | Guía de elección de tierra de sembrado    | Como usuario deseo saber qué tipo de tierra debe usarse por cada tipo de planta para que la siembra sea más eficiente    | 8    |
 | 3    | US006    | Distancia de siembra entre las plantas    | Como usuario deseo saber a qué distancia debo plantar cada planta para optimizar el proceso   | 3    |
 | 4    | US007    | Distancia de profundidad de siembra    | Como usuario deseo saber a qué profundidad debo plantar cada planta para que estas crezcan de la mejor manera    | 3    |
 | 5    | US008    | Fechas de fumigación    | Como usuario deseo saber cuáles son los días que debo fumigar mis plantas para que no se infecten de plagas    | 5    |
 | 6    | US009    | Fechas de fertilización    | Como usuario deseo saber en qué fechas debo fertilizar mis plantas para que crezcan y produzcan más frutos.   | 5    |
-| 8    | US011    | Botón call to action    | Como usuario deseo que el landing page posea un botón call-to-action para poder descargar directamente hacia la aplicación    | 3    |
-| 9    | US012    | Visualización de redes sociales    | Como usuario deseo poder acceder a las redes sociales del startup por medio del landing page para conocer más acerca de este.    | 2    |
-| 10   | US013   | Visualización de características de aplicación  | Como usuario deseo poder visualizar las características que posee la aplicación en el landing page para estar informado de lo que se me ofrece.   | 3   |
 | 11   | US014   | Aplicación tolerante a fallos   | Como usuario deseo que la aplicación sea tolerante a fallos para que pueda resistir el ingreso de múltiples usuarios a la vez   | 5   |
 | 12   | US015   | Aplicación responsive   | Como usuario deseo que la aplicación sea totalmente responsive para poder usarlo desde distintos dispositivos  | 5   |
 | 13   | US016   | Aplicación intuitiva   | Como usuario deseo que la aplicación móvil sea intuitiva y de fácil uso para poder manejarla de manera eficiente   | 5   |
@@ -93,5 +93,11 @@
 | 19   | US022   | Establecer horarios de disponibilidad   | Como especialista me gustaria establecer mis horarios en mi perfil para que los agricultores puedan ver mi disponibilidad  | 8   |
 | 20   | US023   | Modificar mi perfil de especialista   | Como especialista me gustaria modificar mi perfil para que pueda mostrar mas informacion mia, al igual que enlaces a mis otros contactos.   | 8   |
 | 21   | US001   | Registro de usuario   | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios   | 8   |
-| 22   | US002   | Cerrar sesión de usuario   | Como usuario deseo poder cerrar sesión en el dispositivo para que nadie más pueda usar mi cuenta   | 2   |
-| 23   | US003   | Actualización de datos del usuario   | Como usuario deseo poder actualizar mis datos guardados en la aplicación para que la aplicación me funcione correctamente   | 3   |
+| 22   | TS001   | Implementación de Seguridad   | Implementación de Seguridad | Para proteger los datos y recursos del sistema contra accesos no autorizados, el equipo de desarrollo debe implementar medidas de seguridad, incluyendo autenticación de usuarios.   | 2   |
+| 23   | TS002   | Con el objetivo de permitir la comunicación eficiente entre el frontend y el backend, el equipo de desarrollo debe diseñar y crear endpoints API RESTful que sigan las mejores prácticas de diseño de APIs.   | 3   |
+| 24   | TS003   | Integración de Servicios Externos   | Integración de Servicios Externos | Para habilitar características como sistemas de reconocimiento de imagen, el equipo de desarrollo debe integrar servicios externos a través de API o SDK.   | 5   |
+| 25   | TS004   | Programación Asíncrona   | Con el objetivo de gestionar tareas que requieren tiempo y recursos, el equipo de desarrollo debe implementar programación asíncrona utilizando bibliotecas adecuadas.   | 1   |
+| 26   | TS005   | Integración de Dispositivos IoT   | Con el fin de permitir a los usuarios monitorear sus plantas de manera efectiva, el equipo de desarrollo debe implementar la integración de dispositivos IoT. Esto incluye la capacidad de vincular y configurar dispositivos IoT.   | 5   |
+| 27   | TS006   | Gestión de Dispositivos Vinculados   | Para facilitar la administración de dispositivos vinculados, los usuarios deben poder ver una lista de sus dispositivos IoT registrados, editar su configuración y eliminar dispositivos.   | 5   |
+| 28   | TS007   | Visualización de Datos en la Interfaz de Usuario   | Con el objetivo de brindar a los usuarios una experiencia de monitoreo efectiva, la aplicación debe mostrar los datos de los sensores en una interfaz de usuario.   | 3   |
+| 29   | TS008   | Notificaciones y Alertas   | Para mantener a los usuarios informados sobre el estado de sus plantas, la aplicación debe permitir la configuración de notificaciones y alertas basadas en datos de sensores.  | 3   |
