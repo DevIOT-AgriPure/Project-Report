@@ -175,19 +175,19 @@ En esta seccion, se muestra como se ve la landing  page en dispositivos de table
 ![texto](https://media.discordapp.net/attachments/912089666939916348/1155679343851352115/image.png?width=381&height=669)
 
 		
-![texto](https://media.discordapp.net/attachments/912089666939916348/1155679440093843517/image.png?width=477&height=547)
+![texto](https://media.discordapp.net/attachments/912089666939916348/1156442353289142323/image.png?ex=6514fc5e&is=6513aade&hm=121c79df3e3d6891b4f50b93960b2f736466bf3a33d159533cbfa569100a3162&=&width=439&height=669)
 
 
-![texto](https://media.discordapp.net/attachments/912089666939916348/1155679508930756679/image.png?width=481&height=471)
+![texto](https://media.discordapp.net/attachments/912089666939916348/1156442402756763649/image.png?ex=6514fc6a&is=6513aaea&hm=17858df469436f48d532eefd83bde5f0d765dd23dacdc67cf26f25dbb7e11f32&=&width=478&height=393)
 	
 Desktop:
 	
 En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 	
-![texto](https://media.discordapp.net/attachments/912089666939916348/1155679584906395738/image.png?width=688&height=669)
+![texto](https://media.discordapp.net/attachments/912089666939916348/1156442488752574515/image.png?ex=6514fc7e&is=6513aafe&hm=ac750070aaedd56287af35e43faa982e84062a325bc56471c9c71443b3d1ba38&=&width=655&height=669)
 
 		
-![texto](https://media.discordapp.net/attachments/912089666939916348/1155679669224472576/image.png?width=898&height=635)
+![texto](https://media.discordapp.net/attachments/912089666939916348/1156442556452847636/image.png?ex=6514fc8f&is=6513ab0f&hm=2e77e44c1eff37b0905f802ddacf14beb6be7cb945f0c6e924326e657e9417f8&=&width=661&height=669)
 
 
 ![texto](https://media.discordapp.net/attachments/912089666939916348/1156442606868381696/image.png?ex=6514fc9b&is=6513ab1b&hm=03d9bbdd620c128dc240130afa9489dd0bfd78bd6e3c4855e096e1b130b5a6e6&=&width=903&height=426)
@@ -231,5 +231,5 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 ##- 5.5. Applications Prototyping.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzNzI3NzEyLDI5MDc0NTE4OV19
+eyJoaXN0b3J5IjpbLTE3Nzg3ODAzODIsMjkwNzQ1MTg5XX0=
 -->
