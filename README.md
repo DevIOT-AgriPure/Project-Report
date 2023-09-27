@@ -79,8 +79,10 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
    **Web application**
 
 	Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
-	- 
-
+	- Iniciamos sesión en netlify:
+		![Sesion netlify](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/logInNetlify.PNG?raw=true)
+	- Generamos un archivo dist ingresando el siguiente comando en la carpeta de nuestro proyecto:
+		![npm](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/npmrunbuild.PNG?raw=true)
 
 
 
