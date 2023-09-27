@@ -644,6 +644,8 @@ Los diagramas de estratificación de dominio facilitan la representación visual
 
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos.
 
+![Diagrama base datos](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_plant.PNG?raw=true)
+
 ## **4.2.3. Bounded Context: IoT Asset Management**
 ## **4.2.2.1. Domain Layer.** 
 - Nombre: IoTDevice
