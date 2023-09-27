@@ -136,9 +136,9 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 - Métodos:
 	| Nombre       | Tipo de dato | VisibilidadDescripción                                   |
 	|--------------|--------------|----------------------------------------------------------|
-	| User         | void         | public     Constructor de la identidad                   |
+	| User         | void         | public     |Constructor de la identidad                   |
 	| getFullName  | string       | public      | Obtieel nombre completo del usuario        |
-	| getType      | string       | public      | Retorel tipo de usuario                   
+	| validPassword| bool  | public      | Valida la contraseña del usuario   |                
 
 #### 4.2.1.2 Interface layer
 - Nombre: Users.controller
