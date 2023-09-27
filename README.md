@@ -158,16 +158,17 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
 
     - **6.2.1.7. Software Deployment Evidence for Sprint Review**
 
+Como se demostro anteriormente, la Landing Page se ha desplegado usando GitHub Pages, debido a la simplicidad de hacer deploys con paginas estaticas.
 
-    - **6.2.1.8. Team Collaboration Insights During Sprint**
+   - **6.2.1.8. Team Collaboration Insights During Sprint**
 
 A continuacion, se mostraran los Insights de nuestros repositorios:
 
 - Repositorio Landing Page:
-![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+![Landing Deployed](https://media.discordapp.net/attachments/912089666939916348/1156431360861405326/image.png?ex=6514f221&is=6513a0a1&hm=df610bc9291c0471161862396832e94764b6b49128c28eb4d51d785b436ad480&=&width=717&height=289)
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzNjI2NTU4LC0xNjE5NTk5NzU1LDIwMT
+eyJoaXN0b3J5IjpbNTc0Nzk3OTI2LC0xNjE5NTk5NzU1LDIwMT
 Y2MzEwNTIsLTE2MjI2MDA5ODNdfQ==
 -->
