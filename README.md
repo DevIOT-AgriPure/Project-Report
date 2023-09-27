@@ -1,5 +1,11 @@
-## Capítulo III: Requirements Specification
-- 3.1. To-Be Scenario Mapping.
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
+  - [3.2. User Stories.](#32-user-stories)
+  - [3.3. Impact Mapping.](#33-impact-mapping)
+  - [3.4. Product Backlog.](#34-product-backlog)
+
+# Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping.
 
 ***Segmento 1: Agricultores***
 
@@ -17,7 +23,7 @@
 | Thinking | Como sere capaz de apoyar a otros agricultores? | Sera esta mi oportunidad? | Espero que alguien me contacte | Me encanta este servicio, y mucho mas el hecho de ayudar a los demas. | 
 | Feeling | Curiosidad | Emocion y Anticipacion | Entusiasmo | Satisfaccion | 
 
-- 3.2. User Stories.
+## 3.2. User Stories.
 
 | Epic ID | Titulo de Epica | Descripcion de Epica |
 |-----------|-----------|-----------|
@@ -62,7 +68,7 @@
 | TS007 | Visualización de Datos en la Interfaz de Usuario | Con el objetivo de brindar a los usuarios una experiencia de monitoreo efectiva, la aplicación debe mostrar los datos de los sensores en una interfaz de usuario. | **Escenario:  Diseño de la Interfaz de Usuario** Debe crearse un diseño de interfaz de usuario que muestre los datos de los sensores de manera clara y comprensible. **Escenario: Mostrar Datos de Sensores en Tiempo Real** La interfaz de usuario debe ser capaz de mostrar los datos de los sensores en tiempo real, actualizando la información automáticamente a medida que se reciben nuevos datos.|EP005 |
 | TS008 | Notificaciones y Alertas | Para mantener a los usuarios informados sobre el estado de sus plantas, la aplicación debe permitir la configuración de notificaciones y alertas basadas en datos de sensores. | **Escenario: Entrega de Notificaciones** Las notificaciones configuradas deben entregarse de manera efectiva a los usuarios a través de los canales de comunicación seleccionados. **Escenario: Configuración de Notificaciones** Deben estar disponibles opciones para habilitar o deshabilitar notificaciones y ajustar umbrales de activación.| EP005 |
 
-- 3.3. Impact Mapping.
+## 3.3. Impact Mapping.
 
 ***Segmento 1: Agricultores***
 
@@ -72,7 +78,7 @@
 
 ![Impact Map Especialistas](https://media.discordapp.net/attachments/912089666939916348/1149181676568719490/Flowchart_1.jpg?width=968&height=669)
 
-- 3.4. Product Backlog.
+## 3.4. Product Backlog.
 
 | #Orden | Story ID | Titulo | Descripcion | Story Points |
 |-----------|-----------|-----------|-----------|-----------|
