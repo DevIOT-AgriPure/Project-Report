@@ -991,7 +991,7 @@ Los diagramas de estratificación de dominio facilitan la representación visual
 ![Diagrama clases Suscription](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_crop.PNG?raw=true)
 ##### 4.2.5.6.2 Bounded Context Database Diagrams
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos.
-![BD iot](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_iot.PNG?raw=true)
+![BD iot](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_crop.PNG?raw=true)
 #### 4.2.6. Bounded Context: Notification
 #### 4.2.6.1. Domain Layer.
 - Nombre: Notification
