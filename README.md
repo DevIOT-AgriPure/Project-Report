@@ -137,8 +137,12 @@ Desktop:
 En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 	
 ![texto](https://media.discordapp.net/attachments/912089666939916348/1155679584906395738/image.png?width=688&height=669)
-		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679669224472576/image.png?width=898&height=635)
-		![texto](https://media.discordapp.net/attachments/912089666939916348/1155679748769456208/image.png?width=901&height=466)
+
+		
+![texto](https://media.discordapp.net/attachments/912089666939916348/1155679669224472576/image.png?width=898&height=635)
+
+
+![texto](https://media.discordapp.net/attachments/912089666939916348/1155679748769456208/image.png?width=901&height=466)
 
   ###- 5.3.2. Landing Page Mock-up.
 ##  
@@ -185,5 +189,5 @@ Habiendo desarrollado el Wireframe, proseguimos con los MockUp, en donde utiliza
 ##- 5.5. Applications Prototyping.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjg4MDMyNjddfQ==
+eyJoaXN0b3J5IjpbLTI5MjE3MDY3XX0=
 -->
