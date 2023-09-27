@@ -84,7 +84,7 @@
 
         - **Esperamos unos instantes y la landing page estará desplegada** 
 
-![Landing page deployed]()
+![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
 
    **Web application**
 
@@ -172,5 +172,5 @@ A continuacion, se mostraran los Insights de nuestros repositorios:
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDg1MDc0MCw3MjM0Mjc3NDZdfQ==
+eyJoaXN0b3J5IjpbMTE5MDM5ODExNl19
 -->
