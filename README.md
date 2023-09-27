@@ -156,7 +156,41 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 ##  
 Habiendo desarrollado el Wireframe, proseguimos con los MockUp, en donde utilizamos los estilos previamente descritos para hacer que nuestro prototipo cobre mas vida, y de esta forma nuestros usuarios se sentiran mas atraidos por usar la aplicacion.
 
+Mobile:
 
+En esta seccion, se muestra como se ve la landing  page en dispositivos moviles.
+
+![texto](https://media.discordapp.net/attachments/912089666939916348/1155679042515779644/image.png?width=195&height=669)
+
+
+![texto](https://media.discordapp.net/attachments/912089666939916348/1155679133519593522/image.png?width=144&height=668)
+
+
+![texto](https://media.discordapp.net/attachments/912089666939916348/1155679191258366103/image.png?width=182&height=669)	
+	
+Tablet:
+		
+En esta seccion, se muestra como se ve la landing  page en dispositivos de tablet.	
+		
+![texto](https://media.discordapp.net/attachments/912089666939916348/1155679343851352115/image.png?width=381&height=669)
+
+		
+![texto](https://media.discordapp.net/attachments/912089666939916348/1155679440093843517/image.png?width=477&height=547)
+
+
+![texto](https://media.discordapp.net/attachments/912089666939916348/1155679508930756679/image.png?width=481&height=471)
+	
+Desktop:
+	
+En esta seccion, se muestra como se ve la landing  page en los navegadores web.
+	
+![texto](https://media.discordapp.net/attachments/912089666939916348/1155679584906395738/image.png?width=688&height=669)
+
+		
+![texto](https://media.discordapp.net/attachments/912089666939916348/1155679669224472576/image.png?width=898&height=635)
+
+
+![texto](https://media.discordapp.net/attachments/912089666939916348/1156442606868381696/image.png?ex=6514fc9b&is=6513ab1b&hm=03d9bbdd620c128dc240130afa9489dd0bfd78bd6e3c4855e096e1b130b5a6e6&=&width=903&height=426)
 
 
 - 5.4. Applications UX/UI Design.
@@ -197,5 +231,5 @@ Habiendo desarrollado el Wireframe, proseguimos con los MockUp, en donde utiliza
 ##- 5.5. Applications Prototyping.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwNzQ1MTg5XX0=
+eyJoaXN0b3J5IjpbNjAzNzI3NzEyLDI5MDc0NTE4OV19
 -->
