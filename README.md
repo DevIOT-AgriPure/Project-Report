@@ -147,18 +147,21 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
     
     - **6.2.1.5. Execution Evidence for Sprint Review**
 
-        Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue. 
+        Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue. De igu
         Enlace a la Landing Page: [https://deviot-agripure.github.io/AgriPure-Landing-Page/](https://deviot-agripure.github.io/AgriPure-Landing-Page/)
-        ![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+     
+![Landing Deployed](https://media.discordapp.net/attachments/912089666939916348/1156431899456196619/image.png?ex=6514f2a2&is=6513a122&hm=f8715aea5b3230e163c2bda8259f0d5e269e37fb3dc69f77bfa1ef71ac20659b&=&width=778&height=669)
 
-
-    - **6.2.1.6. Services Documentation Evidence for Sprint Review**
+   - **6.2.1.6. Services Documentation Evidence for Sprint Review**
         Para esta entrega no se han implementado los servicios Back-end, por lo que en posteriores sprints completaremos esta sección.
 
+![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
 
-    - **6.2.1.7. Software Deployment Evidence for Sprint Review**
+   - **6.2.1.7. Software Deployment Evidence for Sprint Review**
 
 Como se demostro anteriormente, la Landing Page se ha desplegado usando GitHub Pages, debido a la simplicidad de hacer deploys con paginas estaticas.
+
+![Landing Deployed](https://media.discordapp.net/attachments/912089666939916348/1156431899456196619/image.png?ex=6514f2a2&is=6513a122&hm=f8715aea5b3230e163c2bda8259f0d5e269e37fb3dc69f77bfa1ef71ac20659b&=&width=778&height=669)
 
    - **6.2.1.8. Team Collaboration Insights During Sprint**
 
@@ -169,6 +172,6 @@ A continuacion, se mostraran los Insights de nuestros repositorios:
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0Nzk3OTI2LC0xNjE5NTk5NzU1LDIwMT
-Y2MzEwNTIsLTE2MjI2MDA5ODNdfQ==
+eyJoaXN0b3J5IjpbMTkyNDU3NjM2MCwtMTYxOTU5OTc1NSwyMD
+E2NjMxMDUyLC0xNjIyNjAwOTgzXX0=
 -->
