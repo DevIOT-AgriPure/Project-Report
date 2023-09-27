@@ -120,22 +120,11 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
         
 #### 6.2.1.3. Development Evidence for Sprint Review
 
-<<<<<<< HEAD
   | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
   |------------|--------|-----------|----------------|---------------------|---------------|
   |https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     8fce68724ed2a3777e3f471a4493aa5085a1ee5d|Create README.md|                     |24/08/2023|
   |https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     8fce68724ed2a3777e3f471a4493aa5085a1ee5d|Create README.md|                     |24/08/2023|
 ####  6.2.1.4. Testing Suite Evidence for Sprint Review
-=======
-	| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
-	|------------|--------|-----------|----------------|---------------------|---------------|
-	|https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     8fce68724ed2a3777e3f471a4493aa5085a1ee5d|Create README.md|                     |24/08/2023|
-	|https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     eded325c2581acc07525266b97fd7514b72f1833|Added First Version of Landing Page|                     |25/09/2023|
-	|https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     4e5f8e253539049e8bba296474ff06759d18054b|Fixed Landing Page structure|                     |26/09/2023|
-	|https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     86b51b2af92f3aa4e574a792b0ab9820e1977485|Update index.html|                     |26/09/2023|
-
-    - **6.2.1.4. Testing Suite Evidence for Sprint Review**
->>>>>>> 8f8e80d5fb1110e850d35cea5e2e97577f8f4438
 
   | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
   |------------|--------|-----------|----------------|---------------------|---------------|
@@ -143,7 +132,6 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
     
 ####  6.2.1.5. Execution Evidence for Sprint Review
 
-<<<<<<< HEAD
   Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue. 
   Enlace a la Landing Page: [https://deviot-agripure.github.io/AgriPure-Landing-Page/](https://deviot-agripure.github.io/AgriPure-Landing-Page/)
         ![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
@@ -154,34 +142,10 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
 
 
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
-=======
-        Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue. De igual forma, la Landing Page cumple con el formato responsive.
-        Enlace a la Landing Page: [https://deviot-agripure.github.io/AgriPure-Landing-Page/](https://deviot-agripure.github.io/AgriPure-Landing-Page/)
-     
-![Landing Deployed](https://media.discordapp.net/attachments/912089666939916348/1156431899456196619/image.png?ex=6514f2a2&is=6513a122&hm=f8715aea5b3230e163c2bda8259f0d5e269e37fb3dc69f77bfa1ef71ac20659b&=&width=778&height=669)
-
-   - **6.2.1.6. Services Documentation Evidence for Sprint Review**
-      
-        Para esta entrega no se han implementado los servicios Back-end, por lo que en posteriores sprints completaremos esta sección.
-
-
-   - **6.2.1.7. Software Deployment Evidence for Sprint Review**
->>>>>>> 8f8e80d5fb1110e850d35cea5e2e97577f8f4438
 
 Como se demostro anteriormente, la Landing Page se ha desplegado usando GitHub Pages, debido a la simplicidad de hacer deploys con paginas estaticas.
 
-<<<<<<< HEAD
 #### 6.2.1.8. Team Collaboration Insights During Sprint
-=======
-![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
-
-   - **6.2.1.8. Team Collaboration Insights During Sprint**
-
-A continuacion, se mostraran los Insights de nuestros repositorios:
-
-- Repositorio Landing Page:
-![Landing Deployed](https://media.discordapp.net/attachments/912089666939916348/1156431360861405326/image.png?ex=6514f221&is=6513a0a1&hm=df610bc9291c0471161862396832e94764b6b49128c28eb4d51d785b436ad480&=&width=717&height=289)
->>>>>>> 8f8e80d5fb1110e850d35cea5e2e97577f8f4438
 
     
 <!--stackedit_data:
