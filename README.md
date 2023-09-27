@@ -163,6 +163,8 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 
   ![https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/frontdeployed2.PNG?raw=true](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/frontdeployed2.PNG?raw=true)
 
+  Enlace a nuestro FrontEnd: [https://agripure.netlify.app/](https://agripure.netlify.app/)
+
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
   Para esta entrega no se han implementado los servicios Back-end, por lo que en posteriores sprints completaremos esta sección.
