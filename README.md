@@ -153,6 +153,7 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
 ![Landing Deployed](https://media.discordapp.net/attachments/912089666939916348/1156431899456196619/image.png?ex=6514f2a2&is=6513a122&hm=f8715aea5b3230e163c2bda8259f0d5e269e37fb3dc69f77bfa1ef71ac20659b&=&width=778&height=669)
 
    - **6.2.1.6. Services Documentation Evidence for Sprint Review**
+      
         Para esta entrega no se han implementado los servicios Back-end, por lo que en posteriores sprints completaremos esta sección.
 
 
@@ -171,5 +172,5 @@ A continuacion, se mostraran los Insights de nuestros repositorios:
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzNDI3NzQ2XX0=
+eyJoaXN0b3J5IjpbMTI3NDg1MDc0MCw3MjM0Mjc3NDZdfQ==
 -->
