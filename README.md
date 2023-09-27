@@ -1,20 +1,34 @@
-## Capítulo I: Introducción
-### 1.1. Startup Profile
-- 1.1.1. Descripción de la Startup
+- [Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2 Lean UX Process.](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
 
-	Hoy en día, uno de los pilares fundamentales en nuestra sociedad que adquiere una importancia trascendental es el sector agrícola. En especial en el contexto peruano, los agricultores desempeñan un papel crucial al impulsar la economía del país. Sin embargo, es evidente que a menudo enfrentan obstáculos significativos, careciendo de las oportunidades y herramientas tecnológicas necesarias para maximizar sus ganancias y optimizar la producción.
 
-	Es ante esta coyuntura de carencias que afectan a miles de agricultores que emerge una solución innovadora: la Startup denominada "AGRIPURE". Esta iniciativa surge con el objetivo de cerrar las brechas existentes y ofrecer un apoyo sustancial a la comunidad agrícola.
+# Capítulo I: Introducción
+## 1.1. Startup Profile
+### 1.1.1. Descripción de la Startup
 
-	AGRIPURE se presenta como una solución revolucionaria que se materializa a través de una aplicación móvil. Esta aplicación no solo actúa como una asistencia en línea para los agricultores, sino que también proporciona una serie de alternativas, guías y consejos que apuntan a elevar los estándares de la agricultura y, en consecuencia, incrementar la eficiencia y las ganancias de los agricultores.
+Hoy en día, uno de los pilares fundamentales en nuestra sociedad que adquiere una importancia trascendental es el sector agrícola. En especial en el contexto peruano, los agricultores desempeñan un papel crucial al impulsar la economía del país. Sin embargo, es evidente que a menudo enfrentan obstáculos significativos, careciendo de las oportunidades y herramientas tecnológicas necesarias para maximizar sus ganancias y optimizar la producción.
 
-	Uno de los aspectos destacados de AGRIPURE es su capacidad para unir al agricultor con el mundo exterior, superando las barreras geográficas y facilitando un acceso fluido a información relevante y servicios de alta calidad. A través de su presencia en una Aplicación Móvil, AGRIPURE pone al alcance de los agricultores una plataforma rica en contenido y herramientas que respaldan el desarrollo y el éxito de cada usuario.
+Es ante esta coyuntura de carencias que afectan a miles de agricultores que emerge una solución innovadora: la Startup denominada "AGRIPURE". Esta iniciativa surge con el objetivo de cerrar las brechas existentes y ofrecer un apoyo sustancial a la comunidad agrícola.
 
-	En línea con su misión, AGRIPURE tiene como propósito fundamental asistir a las personas en su empeño por llevar a cabo una siembra eficiente, ya sea en gran escala o incluso en entornos domésticos. Esto se logra a través de una plataforma segura que proporciona recomendaciones y guías adaptadas a las necesidades individuales de cada agricultor.
+AGRIPURE se presenta como una solución revolucionaria que se materializa a través de una aplicación móvil. Esta aplicación no solo actúa como una asistencia en línea para los agricultores, sino que también proporciona una serie de alternativas, guías y consejos que apuntan a elevar los estándares de la agricultura y, en consecuencia, incrementar la eficiencia y las ganancias de los agricultores.
 
-	Mirando hacia el futuro, AGRIPURE persigue una visión audaz: convertirse en una empresa líder que desempeñe un 				papel esencial en la reducción de la prevalencia de alimentos transgénicos. Esta visión se materializa al ofrecer una plataforma fiable y accesible que permite a cualquier persona involucrarse en la creación y el cultivo de su propio alimento. Al mismo tiempo, AGRIPURE busca contribuir al mejoramiento de los cultivos a gran escala, propiciando la producción de alimentos de mayor calidad y valor nutricional.
+Uno de los aspectos destacados de AGRIPURE es su capacidad para unir al agricultor con el mundo exterior, superando las barreras geográficas y facilitando un acceso fluido a información relevante y servicios de alta calidad. A través de su presencia en una Aplicación Móvil, AGRIPURE pone al alcance de los agricultores una plataforma rica en contenido y herramientas que respaldan el desarrollo y el éxito de cada usuario.
+
+En línea con su misión, AGRIPURE tiene como propósito fundamental asistir a las personas en su empeño por llevar a cabo una siembra eficiente, ya sea en gran escala o incluso en entornos domésticos. Esto se logra a través de una plataforma segura que proporciona recomendaciones y guías adaptadas a las necesidades individuales de cada agricultor.
+
+Mirando hacia el futuro, AGRIPURE persigue una visión audaz: convertirse en una empresa líder que desempeñe un 				papel esencial en la reducción de la prevalencia de alimentos transgénicos. Esta visión se materializa al ofrecer una plataforma fiable y accesible que permite a cualquier persona involucrarse en la creación y el cultivo de su propio alimento. Al mismo tiempo, AGRIPURE busca contribuir al mejoramiento de los cultivos a gran escala, propiciando la producción de alimentos de mayor calidad y valor nutricional.
 	
-- 1.1.2. Perfiles de integrantes del equipo
+### 1.1.2. Perfiles de integrantes del equipo
 
 | Nombre| Descripción| Foto |
 |-----------|-----------|-----------
@@ -24,8 +38,8 @@
 |Franchesco Alexis Soto Morales| Mi nombre es Franchesco Soto, tengo 22 años y estudio la carrera de Ingeniería de Software, puedo aportar mis conocimientos en desarrollo web y móvil para alcanzar los objetivos planteados. |![Franchesco Soto](https://cdn.discordapp.com/attachments/881196470844420159/1149556296111112333/WhatsApp_Image_2023-09-07_at_11.06.07_PM.jpeg) |
 |Frank Yamil Alva Cordova| Mi nombre es Frank Alva Cordova, tengo 20 años, estudio la carrera de Ingenieria de Software, soy una persona responsable y entusiasta. Considero que puedo aportar con el grupo con los conocimientos adquiridos en el curso.|![Franchesco Soto](https://cdn.discordapp.com/attachments/1063259243727306824/1149578749671645194/368702993_1380162125911127_1074457933449185880_n.jpg?width=230&height=315) |
 
-### 1.2. Solution Profile
-- 1.2.1 Antecedentes y problemática
+## 1.2. Solution Profile
+### 1.2.1 Antecedentes y problemática
 
 Para este segmento utilizaremos la tecnica de las 5W y 2H
 
@@ -39,8 +53,8 @@ Para este segmento utilizaremos la tecnica de las 5W y 2H
 | How | Mediante las diversas utilidades disponibles en nuestra aplicación, como la medición del pH del suelo, la selección del fertilizante adecuado y la gestión del tiempo de aplicación, así como la visualización de la vegetación en el terreno. |
 | How Much | Este desafío suele surgir en aproximadamente un 60% de las ocasiones en las que el agricultor carece de conocimientos técnicos sobre cómo cultivar una planta específica. Por esta razón, nuestra aplicación incluirá herramientas de apoyo que le asistirán en tomar decisiones más acertadas al seleccionar el lugar adecuado para sembrar el producto. |
 
-- 1.2.2 Lean UX Process.
-  - 1.2.2.1. Lean UX Problem Statements.
+### 1.2.2 Lean UX Process.
+  #### 1.2.2.1. Lean UX Problem Statements.
   
 **Problem Statement 1:**  
 -Los agricultores en nuestras comunidades agrícolas se enfrentan al desafío de la falta de acceso a información actualizada y estrategias para llevar a cabo prácticas agrícolas sostenibles y garantizar la seguridad alimentaria.
@@ -50,7 +64,7 @@ Un desafío crítico radica en la falta de acceso de los agricultores a informac
 
 ¿Cómo podemos empoderar a los agricultores con conocimientos y herramientas que promuevan la agricultura sostenible y mejoren la seguridad alimentaria en nuestras comunidades agrícolas?
 
-  **Problem Statement 2:**
+**Problem Statement 2:**
  
 
 Los asesores agrícolas en nuestro contexto se ven obstaculizados por la falta de acceso a datos precisos sobre la siembra, las condiciones climáticas y el tipo de terreno en el que se pretende llevar a cabo la actividad agrícola.
@@ -59,10 +73,10 @@ La introducción de datos inexactos o no ajustados a los valores correctos relat
 
 ¿Cómo podemos garantizar que el sistema pueda operar con información más precisa para ofrecer resultados favorables al agricultor?  
 
-  - 1.2.2.2. Lean UX Assumptions.
+  #### 1.2.2.2. Lean UX Assumptions.
   
- Business Assumptions:
- **Necesidad del Mercado:**
+Business Assumptions:
+- **Necesidad del Mercado:**
 1. **Los usuarios necesitan** una herramienta que permita mejorar los procesos y tratamientos de agricultura, que a corto o largo plazo genere ganancias económicas durante cada producción.
 
 **Solución Propuesta:**
@@ -120,7 +134,7 @@ Las características más relevantes de la aplicación incluyen la capacidad de 
 
 Nuestro producto debería tener un diseño moderno y simplista, debe presentar un diseño moderno y sencillo, y estar disponible las 24/7. Cualquier error debe resolverse en un plazo máximo de 24 horas.
 
-  - 1.2.2.3. Lean UX Hypothesis Statements.
+  #### 1.2.2.3. Lean UX Hypothesis Statements.
  
 **Necesidad del Mercado:**
 
@@ -186,10 +200,10 @@ Nuestro producto debería tener un diseño moderno y simplista, debe presentar u
 -   **HYPOTHESIS 15:** Creemos que si diseñamos la aplicación de manera moderna y simplista, con disponibilidad las 24/7 y resolvemos los errores en un plazo máximo de 24 horas, entonces garantizaremos una experiencia de usuario satisfactoria y confiable.
 
 
-  - 1.2.2.4. Lean UX Canvas.
+  #### 1.2.2.4. Lean UX Canvas.
   ![Lean UX Canvas](https://media.discordapp.net/attachments/912089666939916348/1149059139457261700/Flowchart_1.jpg?width=1328&height=669)
 
-### 1.3. Segmentos objetivo.
+## 1.3. Segmentos objetivo.
 
 En nuestro proyecto se hacen presente dos segmentos objetivos:
 
