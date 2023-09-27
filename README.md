@@ -231,6 +231,5 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 ##- 5.5. Applications Prototyping.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjU2MDAyOCwtMTc3ODc4MDM4MiwyOT
-A3NDUxODldfQ==
+eyJoaXN0b3J5IjpbLTc2NjU2MDAyOF19
 -->
