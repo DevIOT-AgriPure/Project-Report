@@ -135,7 +135,8 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
         | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
         |------------|--------|-----------|----------------|---------------------|---------------|
         |https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     8fce68724ed2a3777e3f471a4493aa5085a1ee5d|Create README.md|                     |24/08/2023|
-        |https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     8fce68724ed2a3777e3f471a4493aa5085a1ee5d|Create README.md|                     |24/08/2023|
+        |https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     eded325c2581acc07525266b97fd7514b72f1833|Added First Version of Landing Page|                     |25/09/2023|
+              |https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     eded325c2581acc07525266b97fd7514b72f1833|Added First Version of Landing Page|                     |25/09/2023|
     - **6.2.1.4. Testing Suite Evidence for Sprint Review**
 
         | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
@@ -160,6 +161,6 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjE1MTk2MiwyMDE2NjMxMDUyLC0xNj
-IyNjAwOTgzXX0=
+eyJoaXN0b3J5IjpbMTcxODc2MjksMjAxNjYzMTA1MiwtMTYyMj
+YwMDk4M119
 -->
