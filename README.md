@@ -94,18 +94,22 @@ Identificar candidatos de contexto implica descubrir áreas potenciales deenfoqu
 #### 4.1.1.3 Bounded Context Canvases. 
 - El Bounded Context es un patrón de diseño en la arquitectura de software que divide un sistema en áreas de dominio separadas con lenguajes y límites claros. Esto facilita la administración y escalabilidad de sistemas complejos, ya que cada contexto acotado puede desarrollarse y mantenerse de manera independiente. Los Bounded Context Canvases, por otro lado, son herramientas visuales para el diseño de arquitecturas de software basadas en Bounded Contexts. Su objetivo es fomentar la colaboración entre equipos y garantizar la coherencia y la relación adecuada entre los diferentes contextos delimitados en el sistema.
 
-	- **Bounded Context 1: Notification Management**
-	    ![Bounded Context 1](https://media.discordapp.net/attachments/912089666939916348/1149126632427241482/Bounded_Context_Canvas_by_Nick_Tune_6.jpg?width=1351&height=668)
-	- **Bounded Context 2: Project Management**
-	    ![Bounded Context 2](https://media.discordapp.net/attachments/912089666939916348/1149126632745992222/Bounded_Context_Canvas_by_Nick_Tune_7.jpg?width=1301&height=668)
+	- **Bounded Context 1: Comunication Management**
+	    ![Bounded Context 1](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/Canvas_comunication.PNG?raw=true)
+	- **Bounded Context 2: Advisory Management**
+	    ![Bounded Context 2](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/Canvas_advisory.PNG?raw=true)
 	- **Bounded Context 3: Crop Management**
-	    ![Bounded Context 3](https://media.discordapp.net/attachments/912089666939916348/1149126634281123951/Bounded_Context_Canvas_by_Nick_Tune_3.jpg?width=1371&height=669)
-	- **Bounded Context 4: Knowledge Management**
-	![Bounded Context 4](https://media.discordapp.net/attachments/912089666939916348/1149126634012692480/Bounded_Context_Canvas_by_Nick_Tune_2.jpg?width=1345&height=669)
-	- **Bounded Context 5: Specialist Contact**
-        ![Bounded Context 5](https://media.discordapp.net/attachments/912089666939916348/1149126633060585522/Bounded_Context_Canvas_by_Nick_Tune_8.jpg?width=1336&height=669)
-	- **Bounded Context 6: Identity Access**
-        ![Bounded Context 6](https://media.discordapp.net/attachments/912089666939916348/1149126633467428904/Bounded_Context_Canvas_by_Nick_Tune.jpg?width=1326&height=669)
+	    ![Bounded Context 3](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/Canvas_crop.PNG?raw=true)
+	- **Bounded Context 4: Plant Management**
+	![Bounded Context 4](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/Canvas_plant.PNG?raw=true)
+	- **Bounded Context 5: Identify and acces**
+        ![Bounded Context 5](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/Canvas_user.PNG?raw=true)
+	- **Bounded Context 6: Profile**
+        ![Bounded Context 6](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/Canvas_profile.PNG?raw=true)
+	- **Bounded Context 7: IoT Asset Management**
+    ![Bounded Context 6](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/Canvas_Iot.PNG?raw=true)
+	- **Bounded Context 8: IoT Asset Management**
+    ![Bounded Context 6](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/Canvas_suscription.PNG?raw=true)
 
 
 
