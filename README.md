@@ -35,7 +35,7 @@
 
 	**Branding**
 	El siguiente logo combina bien con la propuesta de nuestra aplicación. El logo tiene un parecido a una planta, y los colores son los correctos.
-	![blob:https://web.whatsapp.com/5edb23df-0628-47b2-a1e1-608a7016458f](https://web.whatsapp.com/5edb23df-0628-47b2-a1e1-608a7016458f)
+	![https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-5/images/AgripureBrand.jpeg?raw=true](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-5/images/AgripureBrand.jpeg?raw=true)
 
   
   ###  5.1.2. Web, Mobile and IoT Style Guidelines.
