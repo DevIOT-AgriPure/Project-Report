@@ -24,23 +24,23 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 ### 6.1.1 Software Development EnviromentConfiguration
   En esta sección vamos a definir las líneas base del sistema de la gestión de la configuración. A continuación, se definirán las aplicaciones que serán utilizadas para el desarrollo de nuestro proyecto.
 
-  - **LucidChart:** Aplicación web que se utilizará para creación de diagramas de clases. Podemos accedertravés del siguiente enlace: [https://www.lucidchacom/](https://www.lucidchart.com/
-  - **Structurizr:** Aplicación web que se utilizará pala creación del diagrama c4. Podemos acceder a travdel siguiente enlace: [https://structurizr.co(https://structurizr.com
-  - **UXPressia:** Aplicación web que se utilizará pala creación de artefactos Lean UX como User PersonUser Journey Maps, Empathy Maps, Impact Maps. Podemacceder a través de: [https://uxpressia.com/](httpsuxpressia.com
-  - **Trello:** Aplicación web que se utilizará para seguimiento de las historias de usuario en cada sprinPodemos acceder a través de: [https://trello.co(https://trello.com
-  - **Figma:** Aplicación web que se utilizará para creación de Wireframes y Mockups. También servirá pala creación de prototipos de nuestra aplicación wresponsive. Podemos acceder a través de: [https://figcom/](https://figma.com
-  - **Visual Studio Code:** Entorno de desarrollo (IDLque utilizaremos para trabajar en nuestro front-end nuestra aplicación web. Podemos descargarlo a travde: [https://code.visualstudio.com/](https://covisualstudio.com
-  - **Intellij Idea Ultima:** Entorno de desarrol(IDLE) que utilizaremos para trabajar en nuestback-end de nuestra aplicación web. Podemos descargara través de: [https://www.jetbrains.com/idea/downloasection=windows](https://www.jetbrains.com/iddownload/?section=window
-  - **VueJs:** Framework de javascript que utilizarempara desarrollar nuestro front-end de nuestaplicación web. Requiere instalar previamente NodeJPodemos descargar NodeJs a través de: [https://nodeorg/es/](https://nodejs.org/es/). Luego, podreminstalar VueJs siguiendo las instrucciones instalación dadas en el siguiente enlace: [https://vuejs.org/v2/guide/installation.html](https://es.vueorg/v2/guide/installation.htm
-  - **GitHub:** Aplicación web que utilizaremos para control de versiones de nuestro proyecto. Podemacceder a sus servicios a través de: [https://githcom/](https://github.com
-  - **Android Studio:** Entorno de desarrollo (IDLE) qutilizaremos para desarrollar nuestra aplicación móviPodemos acceder a través de: [https://developer.androcom/studgclid=CjwKCAjwmbqoBhAgEiwACIjzEALGhH7IKxVPgvmi7rUWtPaD-Bw3QZAltOFF2JEIJvrA-ftw-hRoCfvsQAvD_BwE&gclsrc=aw.(https://developer.android.com/studgclid=CjwKCAjwmbqoBhAgEiwACIjzEALGhH7IKxVPgvmi7rUWtPaD-Bw3QZAltOFF2JEIJvrA-ftw-hRoCfvsQAvD_BwE&gclsrc=aw.ds)
+  - **LucidChart:** Aplicación web que se utilizará para creación de diagramas de clases. Podemos accedertravés del siguiente enlace: [https://www.lucidchacom/](https://www.lucidchart.com/)
+  - **Structurizr:** Aplicación web que se utilizará pala creación del diagrama c4. Podemos acceder a travdel siguiente enlace: [https://structurizr.com](https://structurizr.com)
+  - **UXPressia:** Aplicación web que se utilizará pala creación de artefactos Lean UX como User PersonUser Journey Maps, Empathy Maps, Impact Maps. Podemacceder a través de: [https://uxpressia.com/](httpsuxpressia.com)
+  - **Trello:** Aplicación web que se utilizará para seguimiento de las historias de usuario en cada sprinPodemos acceder a través de: [https://trello.com](https://trello.com)
+  - **Figma:** Aplicación web que se utilizará para creación de Wireframes y Mockups. También servirá pala creación de prototipos de nuestra aplicación wresponsive. Podemos acceder a través de: [https://figcom/](https://figma.com)
+  - **Visual Studio Code:** Entorno de desarrollo IDL que utilizaremos para trabajar en nuestro front-end nuestra aplicación web. Podemos descargarlo a travde: [https://code.visualstudio.com/](https://covisualstudio.com)
+  - **Intellij Idea Ultima:** Entorno de desarrol(IDLE) que utilizaremos para trabajar en nuestback-end de nuestra aplicación web. Podemos descargara través de: [https://www.jetbrains.com/idea/downloasection=windows](https://www.jetbrains.com/iddownload/?section=window)
+  - **VueJs:** Framework de javascript que utilizarempara desarrollar nuestro front-end de nuestaplicación web. Requiere instalar previamente NodeJPodemos descargar NodeJs a través de: [https://nodeorg/es/](https://nodejs.org/es/). Luego, podreminstalar VueJs siguiendo las instrucciones instalación dadas en el siguiente enlace: [https://vuejs.org/v2/guide/installation.html](https://es.vueorg/v2/guide/installation.html)
+  - **GitHub:** Aplicación web que utilizaremos para control de versiones de nuestro proyecto. Podemacceder a sus servicios a través de: [https://githcom/](https://github.com)
+  - **Android Studio:** Entorno de desarrollo (IDLE) qutilizaremos para desarrollar nuestra aplicación móviPodemos acceder a través de: [https://developer.androcom/studgclid=CjwKCAjwmbqoBhAgEiwACIjzEALGhH7IKxVPgvmi7rUWtPaD-Bw3QZAltOFF2JEIJvrA-ftw-hRoCfvsQAvD_BwE&gclsrc=aw.ds](https://developer.android.com/studgclid=CjwKCAjwmbqoBhAgEiwACIjzEALGhH7IKxVPgvmi7rUWtPaD-Bw3QZAltOFF2JEIJvrA-ftw-hRoCfvsQAvD_BwE&gclsrc=aw.ds)
 
 ### 6.1.2. Source Code Management
 
   Como se mencionó anteriormente, se utilizará GitHcomo sistema de control de versiones. Se han crearepositorios dentro de nuestra organización de GitHu
-  - Enlace al repositorio de la landing page: [httpsgithub.com/DevIOT-AgriPure/AgriPure-Landing-Pa(https://github.com/DevIOT-AgriPuAgriPure-Landing-Pag
-  - Enlace al repositorio de Front-End: [https://githcom/DevIOT-AgriPure/Agripure-Web-Application](httpsgithub.com/DevIOT-AgriPure/Agripure-Web-Applicatio
-  - Enlace al repositorio de Back-End: [https://githcom/DevIOT-AgriPure/AgriPure-WebServices](httpsgithub.com/DevIOT-AgriPure/AgriPure-WebService
+  - Enlace al repositorio de la landing page: [httpsgithub.com/DevIOT-AgriPure/AgriPure-Landing-Page](https://github.com/DevIOT-AgriPuAgriPure-Landing-Page)
+  - Enlace al repositorio de Front-End: [https://githcom/DevIOT-AgriPure/Agripure-Web-Application](httpsgithub.com/DevIOT-AgriPure/Agripure-Web-Application)
+  - Enlace al repositorio de Back-End: [https://githcom/DevIOT-AgriPure/AgriPure-WebServices](httpsgithub.com/DevIOT-AgriPure/AgriPure-WebService)
   Los repositorios mencionados anteriormente seguirán metodología de Git Flow, que nos permitirá trabajar manera eficiente y ágil en proyectos colaborativos. este enfoque, utilizaremos las siguientes ramas:
   
   - **Main:** Esta rama contiene la versión completa dproyecto, asegurándose de que no haya errores en ejecución. Es la versión que se encuentra en producciy es accesible para los usuarios finale
@@ -60,7 +60,7 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
   - Base de datos: MySQL
   - Convenciones de idioma: Se empleará el idioma inglpara desarrollar el código, sea en nuestra landipage, front end services o back end services. Tambilos títulos de los commits se encontrarán en el misidioma.
   - Convenciones de tecnología: Cada nombre de una taben nuestra base de datos iniciará con mayúscula, y esta se compone de dos o más palabras, se separará cauna con un "_" y seguirá una mayúscula.
-  - Cada Unit Test deberá ser escrito en lenguaje Gherky sus convenciones. Podremos revisarlos en el siguienenlace: [https://specflow.org/gherkgherkin-conventions-for-readable-specification(https://specflow.org/gherkgherkin-conventions-for-readable-specifications/)
+  - Cada Unit Test deberá ser escrito en lenguaje Gherky sus convenciones. Podremos revisarlos en el siguienenlace: [https://specflow.org/gherkgherkin-conventions-for-readable-specification](https://specflow.org/gherkgherkin-conventions-for-readable-specifications/)
   - Para escribir el título de los commits, utilizaremoConventional Commits. Podemos revisar la documentacien el siguiente enlace: [https://wconventionalcommits.org/en/v1.0.0/](https://wconventionalcommits.org/en/v1.0.0/)
   - Para trabajar con JavaScript, se utilizarán lconvenciones "Google Javascript Style Guide". Podemacceder a estas a través del siguiente enlace: [httpsgoogle.github.io/styleguide/jsguide.html](httpsgoogle.github.io/styleguide/jsguide.html)
   - Para trabajar con Java y Spring Boot, se utilizarlas convenciones que el fabricante brinda y por comunidad de desarrollo. Podremos observar estconvenciones en el siguiente enlace: [https://googgithub.io/styleguide/javaguide.html](https://googgithub.io/styleguide/javaguide.html)
@@ -68,20 +68,26 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
   En esta sección observaremos como desplegamos cada ude nuestros servicios en la nub
   **Landing Page:
   Para el despliegue de nuestra landing page se utiliza"GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Pallevarlo a cabo, seguiremos los siguientes paso
-  - **Accedemos al repositorio de nuestra landing page:![Landing page deploy](https://github.cDevIOT-AgriPure/Project-Report/blob/feature/capituloimages/software-deploy-configuration/landingdeploy.Praw=tru
-  - **Nos vamos a configuración, a la sección de page*[Landing page deploy conf](https://github.cDevIOT-AgriPure/Project-Report/blob/feature/capituloimages/software-deploy-configuration/landingdeploycoPNG?raw=tru
-  - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://githcom/DevIOT-AgriPure/Project-Report/blob/featucapitulo-6/images/software-deploy-configuratiladingdeploybranch.PNG?raw=tru
+  - **Accedemos al repositorio de nuestra landing page:![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+  - **Nos vamos a configuración, a la sección de page*[Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
+  - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
   - **Esperamos unos instantes y la landing page estadesplegada** 
 
-![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+	![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+
 
    **Web application**
 
-Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
+	Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
+	- 
 
- **Web Services**
 
- Para el despliegue de nuestro back-end service se utilizarà "Railway", es ideal para subir soluciones y crear esquemas
+
+
+
+ 	**Web Services**
+
+ 	Para el despliegue de nuestro back-end service se utilizarà "Railway", es ideal para subir soluciones y crear esquemas
 
 ## 6.2 Landing Page, Services & Applications Implementation.
 ### 6.2.1. Sprint 1
@@ -134,7 +140,7 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
 
   Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue. 
   Enlace a la Landing Page: [https://deviot-agripure.github.io/AgriPure-Landing-Page/](https://deviot-agripure.github.io/AgriPure-Landing-Page/)
-        ![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+  ![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
 
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
