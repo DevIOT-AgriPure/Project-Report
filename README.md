@@ -132,11 +132,12 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
         
     - **6.2.1.3. Development Evidence for Sprint Review**
 
-        | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
-        |------------|--------|-----------|----------------|---------------------|---------------|
-        |https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     8fce68724ed2a3777e3f471a4493aa5085a1ee5d|Create README.md|                     |24/08/2023|
-        |https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     eded325c2581acc07525266b97fd7514b72f1833|Added First Version of Landing Page|                     |25/09/2023|
-              |https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     eded325c2581acc07525266b97fd7514b72f1833|Added First Version of Landing Page|                     |25/09/2023|
+	| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
+	|------------|--------|-----------|----------------|---------------------|---------------|
+	|https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     8fce68724ed2a3777e3f471a4493aa5085a1ee5d|Create README.md|                     |24/08/2023|
+	|https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     eded325c2581acc07525266b97fd7514b72f1833|Added First Version of Landing Page|                     |25/09/2023|
+	|https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     eded325c2581acc07525266b97fd7514b72f1833|Fixed Landing Page structure|                     |25/09/2023|
+
     - **6.2.1.4. Testing Suite Evidence for Sprint Review**
 
         | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
@@ -161,6 +162,6 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODc2MjksMjAxNjYzMTA1MiwtMTYyMj
-YwMDk4M119
+eyJoaXN0b3J5IjpbLTE2MTk1OTk3NTUsMjAxNjYzMTA1MiwtMT
+YyMjYwMDk4M119
 -->
