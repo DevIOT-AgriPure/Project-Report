@@ -170,9 +170,34 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
 
-Como se demostro anteriormente, la Landing Page se ha desplegado usando GitHub Pages, debido a la simplicidad de hacer deploys con paginas estaticas.
+Para el presente Sprint, se logró desplegar la Landing Page y la primera versión de nuestro FrontEnd.Las vistas que añadimos al frontend son la lista de cultivos, detalle de cultivo, formulario de registro de cultivo, vista de especialistas, detalles de especialista.
+
+**Landing Page:**
+  Para el despliegue de nuestra landing page se utiliza"GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Pallevarlo a cabo, seguiremos los siguientes paso
+  - **Accedemos al repositorio de nuestra landing page:![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+  - **Nos vamos a configuración, a la sección de page*[Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
+  - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
+  - **Esperamos unos instantes y la landing page estadesplegada** 
+
+	![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+
+
+ -  **Web application**
+
+	Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
+	- Iniciamos sesión en netlify:
+		![Sesion netlify](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/logInNetlify.PNG?raw=true)
+	- Generamos un archivo dist ingresando el siguiente comando en la carpeta de nuestro proyecto:
+		![npm](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/npmrunbuild.PNG?raw=true)
+	- Subimos el archivo dist y esperamos que termine de subir el proyecto:
+		![front](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/FrontDeployed.jpeg?raw=true)
+
+
 
 #### 6.2.1.8. Team Collaboration Insights During Sprint
+
+En el presente sprint se delegaron las tareas a los distintos miembros del equipo. Podemos observar la particiapción de cada integrante en el siguiente gráfico
+![Inshights](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/insights1.PNG?raw=true)
 
     
 <!--stackedit_data:
