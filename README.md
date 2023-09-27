@@ -207,8 +207,9 @@ Nuestro producto debería tener un diseño moderno y simplista, debe presentar u
 
 En nuestro proyecto se hacen presente dos segmentos objetivos:
 
-- Agricultores: Son nuestro principal segmento objetivo, son aquellos que quieren tener su propio cultivo y recibir recomendaciones en cuanto al mismo. Por lo general tendrán entre 20 y 55 años.
-- Asesores: Son aquellos que estan dispuestos a ayudar a los agricultores, brindandoles algunos tips y servicios si es necesario.
+-Agricultores: Constituyen nuestro principal público objetivo, siendo individuos interesados en el establecimiento y éxito de sus propios cultivos. Este grupo demográfico generalmente se encuentra en el rango de edades de 20 a 55 años.
+-Asesores: Representan un grupo comprometido en asistir a los agricultores, ofreciendo valiosos consejos y servicios según sea necesario."
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQwNjY3MzIxMCw3MjY4OTM1LDE1MTg4NT
 UxNTcsMTEwNTIyNDgyMywtMTAwMTgzOTgxMSwyMTQ3MjUwNjMs
