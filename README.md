@@ -213,7 +213,7 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 	| delete  | void               | public      | Elimina un objeto                             |
 ## **4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**
 
-El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_user.PNG?raw=true)
+El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_user.PNG?raw=true)
 
 ## **4.2.1.6 Bounded Context Software Architecture Code Level Diagrams**
 
@@ -222,7 +222,7 @@ Los diagramas de nivel de código en la arquitectura de software son una herrami
 ## **4.2.1.6.1 Bounded Context Domain Layer Class Diagrams**
 
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
-![Diagrama clases User](https://cdn.discordapp.com/attachments/1143666758042013890/1152420088914391070/image.png)
+![Diagrama de clases user](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_user.PNG?raw=true)
 
 ## **4.2.1.6.2 Bounded Context Database Diagrams**
 
