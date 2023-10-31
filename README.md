@@ -2209,6 +2209,44 @@ Para el presente Sprint, se logró desplegar la Landing Page y la primera versi�
 En el presente sprint se delegaron las tareas a los distintos miembros del equipo. Podemos observar la particiapción de cada integrante en el siguiente gráfico
 ![Inshights](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/insights1.PNG?raw=true)
 
+#### 6.2.2.2 Sprint Backlog 2
+        
+- Sprint #: 2
+    | US Id | US Title | Task Id | Task Description | Task Estimation | Assigned To | Status |
+    |-------|----------|---------|------------------|-----------------|-------------|--------|
+
+        
+#### 6.2.2.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
+|------------|--------|-----------|----------------|---------------------|---------------|
+
+
+
+####  6.2.2.4. Testing Suite Evidence for Sprint Review
+
+  | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
+  |------------|--------|-----------|----------------|---------------------|---------------|
+
+    
+####  6.2.2.5. Execution Evidence for Sprint Review
+
+
+
+#### 6.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+
+#### 6.2.2.7. Software Deployment Evidence for Sprint Review
+
+
+
+
+
+#### 6.2.1.2. Team Collaboration Insights During Sprint
+
+
+
     
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTczNDk1NjU3NiwxMTkwMzk4MTE2XX0=
