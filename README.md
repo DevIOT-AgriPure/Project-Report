@@ -2273,7 +2273,7 @@ Para el presente Sprint, se logró desplegar la Landing Page y la primera versi�
 En el presente sprint se delegaron las tareas a los distintos miembros del equipo. Podemos observar la particiapción de cada integrante en el siguiente gráfico
 ![Inshights](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/insights1.PNG?raw=true)
 
-### 6.2.2. Sprint 1
+### 6.2.2. Sprint 2
     
   Para este sprint tomamos en cuenta las User Stories que tengan relaciòn con el desarrollo e implementaciòn de los servicios Front-End y Back-end. 
 
@@ -2500,7 +2500,8 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 |-----------|-----------|
 | Vídeo exposición TP |  | 
 | Vídeo exposición TB2 ||
-      ![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+     
+ ![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
 
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
@@ -2515,5 +2516,5 @@ Como se demostro anteriormente, la Landing Page se ha desplegado usando GitHub P
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDA2NTEyOF19
+eyJoaXN0b3J5IjpbMzMwNTg5OTU5LC04OTAwNjUxMjhdfQ==
 -->
