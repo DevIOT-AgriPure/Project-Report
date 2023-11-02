@@ -2499,22 +2499,9 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 | Vídeo exposición TB1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 | 
 |-----------|-----------|
 | Vídeo exposición TP |  | 
-| Vídeo exposición TB2 ||
-     
- ![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
-
-
-#### 6.2.1.6. Services Documentation Evidence for Sprint Review
-  Para esta entrega no se han implementado los servicios Back-end, por lo que en posteriores sprints completaremos esta sección.
-
-
-#### 6.2.1.7. Software Deployment Evidence for Sprint Review
-
-Como se demostro anteriormente, la Landing Page se ha desplegado usando GitHub Pages, debido a la simplicidad de hacer deploys con paginas estaticas.
-
-#### 6.2.1.8. Team Collaboration Insights During Sprint
+| Vídeo exposición TB2 ||   
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNTg5OTU5LC04OTAwNjUxMjhdfQ==
+eyJoaXN0b3J5IjpbMTI5NDMyNTYwLC04OTAwNjUxMjhdfQ==
 -->
