@@ -2288,9 +2288,9 @@ En el presente sprint se delegaron las tareas a los distintos miembros del equip
     | Prepared By                     | Talledo, Diego                                               |
     | Attendees (to planning meeting) | Soto, Franchesco Reynoso, Andrés Palomino, Bruno Alva, Frank |
 - Sprint Goal & User Stories
-    | Sprint Goal 1                   | Implementar mejoras del Front End, implementación del BackEnd |
+    | Sprint Goal 2                  | Implementar mejoras del Front End, implementación del BackEnd |
     |---------------------------------| ------------------------------------------------------------------------------------------------|
-    | Sprint 1  Velocity               |     21                                                                  |
+    | Sprint 2  Velocity               |     21                                                                  |
     | Sum of story  points             |      27                                                                   |
 #### 6.2.2.2 Sprint Backlog 2
         
@@ -2355,6 +2355,11 @@ Para la entrega del presente sprint se logró desarrollar lo acordado, implement
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
 
+Landing Page
+
+FrontEnd
+
+BackEnd
 Se logró implementar la mayoría de endpoints acordados, a continuación se muestra la documentación implementada con la herramienta de Swagger:
 
 
@@ -2500,5 +2505,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDg4NjIxXX0=
+eyJoaXN0b3J5IjpbMTA1Mzg0MjUyNywxMzU0ODg2MjFdfQ==
 -->
