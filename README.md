@@ -2332,6 +2332,9 @@ En el presente sprint se delegaron las tareas a los distintos miembros del equip
 |AgriPure-BackEnd|develop|2b34bb0a325106c0da0b2ddb54be8933ab116355|add new dependencies||28/10/2023|
 |AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
 |AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
+|AgriPure-Landing-Page|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
+|AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
+|AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
 
 
 
@@ -2365,7 +2368,7 @@ Para el presente Sprint, se logró desplegar la Landing Page y la primera versi�
   - **Accedemos al repositorio de nuestra landing page:![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
   - **Nos vamos a configuración, a la sección de page*[Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
   - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
-  - **Esperamos unos instantes y la landing page estadesplegada** 
+  - **Esperamos unos instantes y la landing page esta desplegada** 
 
 	![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
 
@@ -2497,6 +2500,6 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyOTIxNTI1LC04MjkyMTY4OTYsLTg5MD
-A2NTEyOF19
+eyJoaXN0b3J5IjpbMjM1Mzk3MjM3LDY0MjkyMTUyNSwtODI5Mj
+E2ODk2LC04OTAwNjUxMjhdfQ==
 -->
