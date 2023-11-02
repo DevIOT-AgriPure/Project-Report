@@ -660,11 +660,7 @@ El As-Is Scenario Map es una representación visual que describe y documenta de 
 
 ***Segmento 1: Agricultores***
 
-| Steps | Busca informacion sobre agricultura | Encuentra mucha informacion esparcida por internet | Ingresa a un enlace de internet | Obtiene cierta informacion | 
-| -------------- | -------------- | -------------- | -------------- | -------------- | 
-| Doing | Investiga sobre superficies y cultivos e ingresa desde anuncios publicitarios  | La informacion esta desordenada | Prueba lo que leyo en internet | Experimenta con sus cultivos
-| Thinking | Donde puedo dejar crecer mis cultivos? | Es demasiada informacion, por donde empiezo? | Estare haciendo lo correcto? | Ojala mis cultivos permanezcan fructiferos | 
-| Feeling | Dudoso | Frustrado | Inseguro | Ansioso |  
+![As Is Agricultores](https://media.discordapp.net/attachments/1043142986512474153/1169683185337110678/Flowchart.jpg?ex=65564b5b&is=6543d65b&hm=bdeda38ee278a523f827f5912618d1686507991aa015bb1819a4597959e31d14&=&width=1058&height=540)
 
 ***Segmento 2: Especialistas***
 
@@ -2250,5 +2246,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 | Vídeo exposición TP |  | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTczMDk3NV19
+eyJoaXN0b3J5IjpbMjExNzY2MjY4MiwtMTExNzMwOTc1XX0=
 -->
