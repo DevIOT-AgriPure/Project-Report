@@ -2288,9 +2288,9 @@ En el presente sprint se delegaron las tareas a los distintos miembros del equip
     | Prepared By                     | Talledo, Diego                                               |
     | Attendees (to planning meeting) | Soto, Franchesco Reynoso, Andrés Palomino, Bruno Alva, Frank |
 - Sprint Goal & User Stories
-    | Sprint Goal 1                   | Implementar mejoras del Front End, implementación del BackEnd |
+    | Sprint Goal 2                  | Implementar mejoras del Front End, implementación del BackEnd |
     |---------------------------------| ------------------------------------------------------------------------------------------------|
-    | Sprint 1  Velocity               |     21                                                                  |
+    | Sprint 2  Velocity               |     21                                                                  |
     | Sum of story  points             |      27                                                                   |
 #### 6.2.2.2 Sprint Backlog 2
         
@@ -2332,8 +2332,8 @@ En el presente sprint se delegaron las tareas a los distintos miembros del equip
 |AgriPure-BackEnd|develop|2b34bb0a325106c0da0b2ddb54be8933ab116355|add new dependencies||28/10/2023|
 |AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
 |AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
-|AgriPure-Landing-Page|main|132a4b1d162d1b6262ea8fb6c0a10f49d8fe9b59|feat: add cors configuration for all||10/11/2023|
-|AgriPure-Landing-Page|main|7ac50b1163e8a10e09d3701ca46ca9761484f611|feat: ||10/10/2023|
+|AgriPure-Landing-Page|main|132a4b1d162d1b6262ea8fb6c0a10f49d8fe9b59|feat: Added Call to Action||10/10/2023|
+|AgriPure-Landing-Page|main|7ac50b1163e8a10e09d3701ca46ca9761484f611|feat: Update index.html||10/10/2023|
 |AgriPure-Landing-Page|main|55c1a05f0385489384e21aba24c64782f913663a|feat: Added Multilanguage feature, as well as adding spaces for videos|31/10/2023|
 
 
@@ -2355,6 +2355,11 @@ Para la entrega del presente sprint se logró desarrollar lo acordado, implement
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
 
+Landing Page
+
+FrontEnd
+
+BackEnd
 Se logró implementar la mayoría de endpoints acordados, a continuación se muestra la documentación implementada con la herramienta de Swagger:
 
 
@@ -2364,9 +2369,9 @@ Se logró implementar la mayoría de endpoints acordados, a continuación se mue
 Para el presente Sprint, se logró desplegar la Landing Page y la primera versión de nuestro FrontEnd.Las vistas que añadimos al frontend son la lista de cultivos, detalle de cultivo, formulario de registro de cultivo, vista de especialistas, detalles de especialista.
 
 **Landing Page:**
-  Para el despliegue de nuestra landing page se utiliza "GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Pallevarlo a cabo, seguiremos los siguientes paso
-  - **Accedemos al repositorio de nuestra landing page:![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
-  - **Nos vamos a configuración, a la sección de page*[Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
+  Para el despliegue de nuestra landing page se utiliza "GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Para llevarlo a cabo, seguiremos los siguientes paso
+  - **Accedemos al repositorio de nuestra landing page:**![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+  - **Nos vamos a configuración, a la sección de page** [Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
   - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
   - **Esperamos unos instantes y la landing page esta desplegada** 
 
@@ -2382,6 +2387,7 @@ Para el presente Sprint, se logró desplegar la Landing Page y la primera versi�
 		![npm](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/npmrunbuild.PNG?raw=true)
 	- Subimos el archivo dist y esperamos que termine de subir el proyecto:
 		![front](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/FrontDeployed.jpeg?raw=true)
+
  - **BackEnd Services**
 
 	Para el despliegue de nuestro Backend utilizaremos la plataforma de Railway, a continuación se detallan los pasoa a seguir
@@ -2500,6 +2506,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzcwNDM0MTEsNjQyOTIxNTI1LC04Mj
-kyMTY4OTYsLTg5MDA2NTEyOF19
+eyJoaXN0b3J5IjpbLTY2NDc1OTE3OCwtMTE4Mzg4MDE1Nl19
 -->
