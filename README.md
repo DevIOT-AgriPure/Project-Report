@@ -586,7 +586,7 @@ Entrevista #2:
 
 ### 2.2.3. Análisis de entrevistas.
 
-Habiendo realizado nuestras entrevistas, hemos llegado a estas conclusiones, el 100% de nuestros usuarios son peruanos y rondan por las edades entre 20 y 55 años, de igual manera nos demuestran que conocen sobre el uso de redes sociales y cada uno de ellos dispone de un aparto tecnologico, del cual un 80% utiliza dispositivos Android mientras que el 20% usa tecnologias iOS.
+Habiendo realizado nuestras entrevistas, hemos llegado a estas conclusiones, el 100% de nuestros usuarios son peruanos y rondan por las edades entre 20 y 50 años, de igual manera nos demuestran que conocen sobre el uso de redes sociales y cada uno de ellos dispone de un aparto tecnologico, del cual un 80% utiliza dispositivos Android mientras que el 20% usa tecnologias iOS.
 
 En base a los agricultores entrevistados, estos valoran sus conocimientos agrícolas, pero buscan soluciones tecnológicas que les ayuden a optimizar sus procesos y afrontar desafíos como la conectividad irregular, la necesidad de pronósticos climáticos y la falta de conocimientos agrícolas entre los jóvenes. Ven con interés la idea de una aplicación integral que les brinde información precisa y herramientas para mejorar la gestión de sus cultivos, reconociendo su dependencia económica de la agricultura y su deseo de mantenerse a la vanguardia de las prácticas agrícolas.
 
@@ -2248,5 +2248,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 | Vídeo exposición TP |  | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzUwMDk3N119
+eyJoaXN0b3J5IjpbMjk0MjA5MjI2LC04NTc1MDA5NzddfQ==
 -->
