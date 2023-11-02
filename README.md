@@ -2430,10 +2430,10 @@ Entrevista 5:
 **Sección:** SW71
 **Profesor:** Angel Augusto Velasquez Núñez
 **Auditor:** DevIoT Team
-**CLientes:**
+**Clientes:**
 
 **Site o App a evaluar**
-
+AgriPure
 
 **Tareas a evaluar:**
 
@@ -2497,5 +2497,6 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTIxNjg5NiwtODkwMDY1MTI4XX0=
+eyJoaXN0b3J5IjpbNjQyOTIxNTI1LC04MjkyMTY4OTYsLTg5MD
+A2NTEyOF19
 -->
