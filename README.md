@@ -2413,6 +2413,15 @@ Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sp
 
 ### 6.3.2 Registro de entrevistas
 
+Entrevista 1:
+
+Entrevista 2:
+
+Entrevista 3:
+
+Entrevista 4:
+
+Entrevista 5
 
 ### 6.3.3 Evaluación según heurísticas
 
@@ -2462,23 +2471,7 @@ Recomendación:
 
 ## 6.4 Video About-the-Product
 
-
-    
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDk1NjU3NiwxMTkwMzk4MTE2XX0=
--->
-  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTY1NTcwXX0=
--->	
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODYxOTU4M119
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjY3MzIxMCw3MjY4OTM1LDE1MTg4NT
-UxNTcsMTEwNTIyNDgyMywtMTAwMTgzOTgxMSwyMTQ3MjUwNjMs
-MTkwMzQ4ODg2MiwtMjA4MzY2ODMwMF19
--->    
+A continuacion, se hara presente el video sobre el producto desarrollado.
 
 ## Conclusiones
 
@@ -2503,5 +2496,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDMyNTYwLC04OTAwNjUxMjhdfQ==
+eyJoaXN0b3J5IjpbLTQwNTkwNzcwNCwtODkwMDY1MTI4XX0=
 -->
