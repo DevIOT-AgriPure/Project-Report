@@ -1805,12 +1805,53 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	El siguiente logo combina bien con la propuesta de nuestra aplicación. El logo tiene un parecido a una planta, y los colores son los correctos.
 	![https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-5/images/AgripureBrand.jpeg?raw=true](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-5/images/AgripureBrand.jpeg?raw=true)
 
-	- **Color primario**
+	## Content
+
+- [Capítulo V: Solution UI/UX Design](#capítulo-v-solution-uiux-design)
+  
+- [5.1. Style Guidelines.](#51-style-guidelines)
+    - [5.1.1. General Style Guidelines](#511-general-style-guidelines)
+    - [5.1.2. Web, Mobile and IoT Style Guidelines.](#512-web-mobile-and-iot-style-guidelines)
+  - [5.2. Information Architecture.](#52-information-architecture)
+    - [5.2.1. Organization Systems.](#521-organization-systems)
+    - [5.2.2. Labeling Systems.](#522-labeling-systems)
+    - [5.2.3. SEO Tags and Meta Tags.](#523-seo-tags-and-meta-tags)
+    - [5.2.4. Searching Systems.](#524-searching-systems)
+    - [5.2.5. Navigation Systems.](#525-navigation-systems)
+  - [5.3. Landing Page UI Design.](#53-landing-page-ui-design)
+    - [5.3.1. Landing Page Wireframe.](#531-landing-page-wireframe)
+    - [5.3.2. Landing Page Mock-up.](#532-landing-page-mock-up)
+  - [5.4. Applications UX/UI Design.](#54-applications-uxui-design)
+    - [5.4.1. Applications Wireframes.](#541-applications-wireframes)
+    - [5.4.2. Applications Wireflow Diagrams.](#542-applications-wireflow-diagrams)
+    - [5.4.3. Applications Mock-ups.](#543-applications-mock-ups)
+    - [5.4.4. Applications User Flow Diagrams](#544-applications-user-flow-diagrams)
+  - [5.5. Applications Prototyping.](#55-applications-prototyping)
+
+
+# Capítulo V: Solution UI/UX Design
+## 5.1. Style Guidelines.
+  ###
+  - 5.1.1. General Style Guidelines
+  
+  Con el propósito de dar estilo y reconocimiento, nuestra app web posee una gran variedad de ajustes en los temas de colores, las fuentes de tipografía y en el aspecto de diseño estructural. 
+  - **Tipografía:** Avenir Light
+
+    El tipo de letra escogida, sucesor de Avenir, resalta un tono   suave y moderno. Ofreciendo así, una visión amigable y fácil de   leer para nuestra plataforma.
+
+  
+  ###- 5.1.2. Web, Mobile and IoT Style Guidelines.
+  
+  En el presente apartado, demostraremos las decisiones que fueron tomadas en base a los estándares visuales y los diferentes tipos de interacción con respecto al responsive web interfaz.
+
+  - **Colores:
+** 
+    - **Color primario**
   
       HEX:  ![PrimeryColor](https://media.discordapp.net/attachments/1063259243727306824/1155576290246660096/image.png) 008000
 
       El color verde contiene la representación de la vegetación y los cultivos, con el tono degradé, incluyendo todo tipo de cultivos.
-   - **Color secundario**
+  -  - **Color secundario**
      
       HEX: ![SecondaryColor](https://media.discordapp.net/attachments/1063259243727306824/1155576306969362483/image.png) E49E43
 
@@ -1977,7 +2018,10 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 	 - 5.4.1. Applications Wireframes.
 	- 5.4.2. Applications Wireflow Diagrams.
 	- 5.4.3. Applications Mock-ups.
-	- 5.4.4. Applications User Flow Diagrams
+	  ###- 5.4.1. Applications Wireframes.
+  ###- 5.4.2. Applications Wireflow Diagrams.
+  ###- 5.4.3. Applications Mock-ups.
+  ###- 5.4.4. Applications User Flow Diagrams
   
      Es un tipo de diagrama utilizado en el diseño de aplicaciones y sitios web para visualizar cómo los usuarios interactúan con la interfaz y las funcionalidades de una aplicación. Estos diagramas representaran el camino que un usuario típico sigue mientras utiliza la aplicación, desde el inicio hasta la finalización de una tarea o proceso.
   
@@ -2042,3 +2086,6 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 |-----------|-----------|
 | Vídeo exposición TP |  | 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg1MzY5OTQyNV19
+-->
