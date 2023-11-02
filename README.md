@@ -2369,9 +2369,9 @@ Se logró implementar la mayoría de endpoints acordados, a continuación se mue
 Para el presente Sprint, se logró desplegar la Landing Page y la primera versión de nuestro FrontEnd.Las vistas que añadimos al frontend son la lista de cultivos, detalle de cultivo, formulario de registro de cultivo, vista de especialistas, detalles de especialista.
 
 **Landing Page:**
-  Para el despliegue de nuestra landing page se utiliza "GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Pallevarlo a cabo, seguiremos los siguientes paso
-  - **Accedemos al repositorio de nuestra landing page:![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
-  - **Nos vamos a configuración, a la sección de page*[Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
+  Para el despliegue de nuestra landing page se utiliza "GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Para llevarlo a cabo, seguiremos los siguientes paso
+  - **Accedemos al repositorio de nuestra landing page:**![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+  - **Nos vamos a configuración, a la sección de page**[Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
   - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
   - **Esperamos unos instantes y la landing page esta desplegada** 
 
@@ -2505,5 +2505,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Mzg0MjUyNywxMzU0ODg2MjFdfQ==
+eyJoaXN0b3J5IjpbLTE4MDEyNzYzODAsMTM1NDg4NjIxXX0=
 -->
