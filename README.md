@@ -2333,8 +2333,8 @@ En el presente sprint se delegaron las tareas a los distintos miembros del equip
 |AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
 |AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
 |AgriPure-Landing-Page|main|132a4b1d162d1b6262ea8fb6c0a10f49d8fe9b59|feat: add cors configuration for all||10/110/2023|
-|AgriPure-Landing-Page|main|7ac50b1163e8a10e09d3701ca46ca9761484f611|feat: add cors configuration for all||10/10/2023|
-|AgriPure-Landing-Page|main|55c1a05f0385489384e21aba24c64782f913663a|feat: add cors configuration for all||31/10/2023|
+|AgriPure-Landing-Page|main|7ac50b1163e8a10e09d3701ca46ca9761484f611|feat: ||10/10/2023|
+|AgriPure-Landing-Page|main|55c1a05f0385489384e21aba24c64782f913663a|feat: Added Multilanguage feature, as well as adding spaces for videos|31/10/2023|
 
 
 
@@ -2500,6 +2500,6 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1NjQ1Mzc1LDY0MjkyMTUyNSwtODI5Mj
-E2ODk2LC04OTAwNjUxMjhdfQ==
+eyJoaXN0b3J5IjpbLTE2NzcwNDM0MTEsNjQyOTIxNTI1LC04Mj
+kyMTY4OTYsLTg5MDA2NTEyOF19
 -->
