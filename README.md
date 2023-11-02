@@ -123,7 +123,10 @@ Mirando hacia el futuro, AGRIPURE persigue una visión audaz: convertirse en una
 |Franchesco Alexis Soto Morales| Mi nombre es Franchesco Soto, tengo 22 años y estudio la carrera de Ingeniería de Software, puedo aportar mis conocimientos en desarrollo web y móvil para alcanzar los objetivos planteados. |![Franchesco Soto](https://cdn.discordapp.com/attachments/881196470844420159/1149556296111112333/WhatsApp_Image_2023-09-07_at_11.06.07_PM.jpeg) |
 |Frank Yamil Alva Cordova| Mi nombre es Frank Alva Cordova, tengo 20 años, estudio la carrera de Ingenieria de Software, soy una persona responsable y entusiasta. Considero que puedo aportar con el grupo con los conocimientos adquiridos en el curso.|![Franchesco Soto](https://cdn.discordapp.com/attachments/1063259243727306824/1149578749671645194/368702993_1380162125911127_1074457933449185880_n.jpg?width=230&height=315) |
 
-## 1.2. Solution Profile
+## 1.2. Solution Profile# Project-Report
+New Version of the Project Report\
+
+## Capítulo II: Requirements Elicitation & Analysis
 ### 1.2.1 Antecedentes y problemática
 
 Para este segmento utilizaremos la tecnica de las 5W y 2H
@@ -299,7 +302,9 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
 
-### 2.1.1. Análisis competitivo.
+###. Competidores.
+
+- 2.1.1. Análisis competitivo.
 
 Desarrollaremos el Competitive Analysis Landscape:
 
@@ -338,7 +343,7 @@ Desarrollaremos el Competitive Analysis Landscape:
 | Oportunidades | - Pocos competidores en la industria - Creación de experiencias más innovadoras y de diferentes categorías en el apartado de la agricultura | Constantes actualizaciones en su sistema para mejorar y corregir funcionalidades en su sistema | -Integración de su software para diferentes dispositivos móviles - Expansión a mercados emergentes | - Buenas relaciones con nuevos socios e inversionistas - Implementación del software en nuevos proyectos de agricultura |
 | Amenazas | -Competidores más solidos - Malas reseñas por parte de los usuarios - Ciberdelito o bugs en el sistema | - Nuevos competidores - Asuntos legales acerca de los términos y condiciones de la app en algunos países | - Aislamiento en América - Disminución de las inversiones en su app | - Fallas en los sistemas de monitoreo por imágenes espaciales - Malas reseñas por parte de los usuarios |
 
-### 2.1.2. Estrategias y tácticas frente a competidores.
+###- 2.1.2. Estrategias y tácticas frente a competidores.
 
 	- Liderazgo en costes:
 	Contamos con la capacidad de producir y ofrecer nuestro producto de forma totalmente gratuita, sin añadir ninguna limitación a sus características principales. Igualmente, en lo que respecta a las suscripciones de pago, estamos en posición de ofrecer precios que son considerablemente más bajos que los de nuestros competidores, con la clara intención de hacer de nuestra aplicación una opción sumamente atractiva para los usuarios. Nuestra principal meta es satisfacer las necesidades de aquellos clientes que basan su elección en el factor precio.
@@ -351,12 +356,12 @@ Desarrollaremos el Competitive Analysis Landscape:
 
 	- Táctica de expansión:
 		A pesar de que nuestra aplicación opera de manera gratuita, no planeamos saturarla con anuncios en cada acción que realicen los usuarios. Nuestra estrategia de expansión se fundamenta en la obtención de valoraciones positivas por parte de los usuarios y en la promoción efectiva de la aplicación.
-## 2.2. Entrevistas.
-### 2.2.1. Diseño de entrevistas.
+### 2.2. Entrevistas.
+### - 2.2.1. Diseño de entrevistas.
 
-Cuestionario para Entrevistas
+	Cuestionario para Entrevistas
 
-¡Saludos y buen día! Permítame introducirme y compartir un poco sobre mi proyecto. Soy [...], un estudiante de Ingeniería de 		Software.
+	¡Saludos y buen día! Permítame introducirme y compartir un poco sobre mi proyecto. Soy [...], un estudiante de Ingeniería de 		Software.
 
 		1. ¿Podría proporcionarme su nombre, por favor?
 		2. ¿Cuantos años tiene?
@@ -417,7 +422,7 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 		i. ¿Considera que una aplicación móvil que le ayude a asesorar a multiples agricultores resultaria ser beneficiosa?
 		j. ¿Estaria dispuesto a invertir en dispositivos IOT para realizar el asesoramiento?
 					
-### 2.2.2. Registro de entrevistas.
+###- 2.2.2. Registro de entrevistas.
 
 Enlace de Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020026_upc_edu_pe/Eboif-pdR7BPhhGD5VgYv4EBF2RGCildS9Lbnuf7P124Gg?e=edGooy
   
@@ -477,7 +482,7 @@ Entrevista #2:
  -  Tecnologías: Windows, Android. 
  - Resumen: Edery es un ingeniero agrónomo egresado de los últimos años. Ha tenido experiencia trabajando en cultivos a lo largo del país. Cada vez que va a realizar una asesoría, hace visitas al campo para poder analizar el entorno que rodea al cultivo. Él piensa que el cambio climático es uno de los factores que más afectan el desarrollo de las plantas. Edery piensa que un factor importante es revisar la calidad de las semillas al momento de comprarlas. Para finalizar, le parece muy interesante la idea de utilizar dispositivos IoT para el monitoreo de cultivos. 
 
-### 2.2.3. Análisis de entrevistas.
+###- 2.2.3. Análisis de entrevistas.
 
 Habiendo realizado nuestras entrevistas, hemos llegado a estas conclusiones, el 100% de nuestros usuarios son peruanos y rondan por las edades entre 20 y 55 años, de igual manera nos demuestran que conocen sobre el uso de redes sociales y cada uno de ellos dispone de un aparto tecnologico, del cual un 80% utiliza dispositivos Android mientras que el 20% usa tecnologias iOS.
 
@@ -485,8 +490,8 @@ En base a los agricultores entrevistados, estos valoran sus conocimientos agríc
 
 En base a los especialistas entrevistados, ellos valoran y aprecian sus conocimientos en base a la agricultura, pero tienen el deseo de ayudar a otros agricultores con sus cultivos, brindarles tips, etc. Siempre tienen el interes y motivacion de encontrar una aplicacion que le pueda ayudar a buscar agricultores que necesiten ayuda suya.
 
-## 2.3. Needfinding.
-### 2.3.1. User Personas.
+### 2.3. Needfinding.
+###- 2.3.1. User Personas.
 
 El propósito principal del desarrollo de nuestros User Personas es humanizar a los usuarios y proporcionar una comprensión más profunda de sus perspectivas y necesidades. Esto nos ayuda a tomar mejores decisiones y a centrar sus esfuerzos en la creación de soluciones que se ajusten mejor a las expectativas y requerimientos de los usuarios reales. Con ayuda de las entrevistas, hemos podido desarrollar cada uno de estos cuadros.
 
@@ -498,7 +503,7 @@ El propósito principal del desarrollo de nuestros User Personas es humanizar a 
 
 ![User Persona Especialistas](https://media.discordapp.net/attachments/912089666939916348/1154834033767887029/Miguel_Garcia.png?width=462&height=669)
 
-### 2.3.2. User Task Matrix.
+###- 2.3.2. User Task Matrix.
 
 El desarrollo del User Task Matrix se basó en identificar las tareas clave que realizan nuestros dos User Personas identificados: Agricultor y Especialista. Las tareas se seleccionaron cuidadosamente para abarcar un espectro amplio de actividades agrícolas y de apoyo. Se tuvo en cuenta que los agricultores pueden tener diferentes niveles de experiencia y necesidades, lo que se refleja en la frecuencia e importancia asignada a cada tarea. 
 
@@ -513,7 +518,7 @@ El desarrollo del User Task Matrix se basó en identificar las tareas clave que 
 | Participar en eventos agrícolas   | Seguido   | Media    | A Veces    | Media    |
 | Actualizar sus prácticas basadas en investigaciones  | Seguido   | Media    | A Veces    | Alta    |
 
-### 2.3.3. User Journey Mapping.
+###- 2.3.3. User Journey Mapping.
 
 El objetivo del desarrollo del User Journey Map es ponerse en el lugar de nuestros segmentos y obtener una comprensión profunda de sus necesidades, emociones y puntos de dolor durante todo el proceso.
 
@@ -529,7 +534,7 @@ Al igual que con los agricultores, estamos tomando la perspectiva de nuestros es
 
 ![User Journey Map Especialilstas](https://media.discordapp.net/attachments/877599577073647676/1149356844012282037/Customer_journey_map_1.png?width=2218&height=1614)
 
-### 2.3.4. Empathy Mapping.
+###- 2.3.4. Empathy Mapping.
 
 El objetivo del desarrollo de este Empathy Map es de comprender mejor las necesidades, deseos, emociones y perspectivas de nuestros segmentos objetivo. Al ponernos en los zapatos de nuestros usuarios, podemos ver como es que piensa, observa, escucha, dice y cuáles son sus frustraciones y necesidades. Al completar los Empathy Map, podemos tomar decisiones más concretas y crear soluciones que se adapten mejor a las necesidades reales de nuestros usuarios.
 
@@ -545,7 +550,7 @@ Para los especialistas, consideramos de como es que ellos tienen ganas de mostra
 
 ![Empathy Map Especialistas](https://media.discordapp.net/attachments/912089666939916348/1154811283561009274/Empathy_map.png?width=622&height=669)
 
-### 2.3.5. As-is Scenario Mapping.
+###- 2.3.5. As-is Scenario Mapping.
 
 El As-Is Scenario Map es una representación visual que describe y documenta de manera detallada cómo funciona un proceso, sistema o situación en el estado actual, sin cambios o mejoras, usado para comprender y analizar un proceso o situación tal como existe en un momento dado, lo que proporciona una base sólida para identificar áreas de mejora y optimización.
 
@@ -594,3 +599,6 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 |-----------|-----------|
 | Vídeo exposición TP |  | 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NTg0MDI5MzddfQ==
+-->
