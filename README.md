@@ -664,11 +664,7 @@ El As-Is Scenario Map es una representación visual que describe y documenta de 
 
 ***Segmento 2: Especialistas***
 
-| Steps | Descubrimiento e interes | Investiga por internet | Ingresa a un enlace de internet | Obtiene cierta informacion | 
-| -------------- | -------------- | -------------- | -------------- | -------------- | 
-| Doing | El especialista se cuestiona si podria enseñar sus capacidades a otros agricultores | El especialista busca por internet formas de contactarse con otros agricultores | El especialista ingresa a una pagina comun y corriente | El especialista no recibe ningun contacto, ya que la mayoria de los usuarios no estan interesados en agricultura.
-| Thinking | Como sere capaz de apoyar a otros agricultores? | No veo muchas paginas buenas | Supongo que podre registrarme aqui | No hay nadie que me contacte | 
-| Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza |
+![As Is Specialist](https://media.discordapp.net/attachments/1043142986512474153/1169684495193096242/Flowchart_1.jpg?ex=65564c93&is=6543d793&hm=ac70bdf0f68ed4647a6a84117453bc08f2aebac119e77529a7114914e3eb3224&=&width=1193&height=577)
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
@@ -2246,5 +2242,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 | Vídeo exposición TP |  | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzY2MjY4MiwtMTExNzMwOTc1XX0=
+eyJoaXN0b3J5IjpbMjg4OTIwMzMyXX0=
 -->
