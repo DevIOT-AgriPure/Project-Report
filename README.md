@@ -2479,6 +2479,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 - Las entrevistas de validación son esenciales para que el equipo de desarrollo pueda identificar errores que solo son perceptibles para personas externas al proceso de desarrollo, como los posibles usuarios.
 - Mejorar la comunicación es una de las ventajas de utilizar herramientas colaborativas, ya que facilitan la interacción efectiva y fluida entre los integrantes del equipo, lo que simplifica la discusión de ideas, la resolución de problemas y la toma de decisiones.
 
+## Video About the Team
 
 ## Anexos
 
@@ -2496,5 +2497,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjc5NzU4OCwtODkwMDY1MTI4XX0=
+eyJoaXN0b3J5IjpbLTgyOTIxNjg5NiwtODkwMDY1MTI4XX0=
 -->
