@@ -592,7 +592,7 @@ En base a los agricultores entrevistados, estos valoran sus conocimientos agríc
 
 En base a los especialistas entrevistados, ellos valoran y aprecian sus conocimientos en base a la agricultura, pero tienen el deseo de ayudar a otros agricultores con sus cultivos, brindarles tips, etc. Siempre tienen el interes y motivacion de encontrar una aplicacion que le pueda ayudar a buscar agricultores que necesiten ayuda suya.
 
-![User Persona Agricultores](https://media.discordapp.net/attachments/912089666939916348/1154824739110522910/Alejandra_Velasquez.png?width=462&height=669)
+![Grafico](https://media.discordapp.net/attachments/1043142986512474153/1169676871546445924/BCjoOvI5BT30zkZEjiWA2DymZ8eavkdNo3BxLh9Rc2YIchg2hkGVpJgYLeSoB8nATCRYCCHi6yGiyXgq5Bp8SeSRT02PMZLdYJAQq6ThzNZpIACZAACcQ3AQp6fPuXrSMBEiABEtAJAQq6ThzNZpIACZAACcQ3AQp6fPuXrSMBEiABEtAJAQq6ThzNZpIACZAACcQ3AQp6fPuXrSMBEiABEtAJAQq6ThzNZpIACZAACcQ3AQp6fPuXrSMBEiABEtAJAQq6ThzNZpIACZAACcQ3AQp6fPuXrSMBEiABEtAJAQq6ThzNZpIACZAACcQ3AQp6fPuXrSMBEiABEtAJgf8HQnqBu4WZ6gwAAAAASUVORK5CYII.png?ex=65564579&is=6543d079&hm=b04e006d8ede21eeb43d6cbfba27f7a41f680d366eea1d9cd1cde32a0fcca8be&=)
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
@@ -2250,6 +2250,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 | Vídeo exposición TP |  | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDUxMTUxMSwyOTQyMDkyMjYsLTg1Nz
-UwMDk3N119
+eyJoaXN0b3J5IjpbLTExMTczMDk3NV19
 -->
