@@ -2209,17 +2209,66 @@ Para el presente Sprint, se logró desplegar la Landing Page y la primera versi�
 En el presente sprint se delegaron las tareas a los distintos miembros del equipo. Podemos observar la particiapción de cada integrante en el siguiente gráfico
 ![Inshights](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/insights1.PNG?raw=true)
 
+### 6.2.2. Sprint 1
+    
+  Para este sprint tomamos en cuenta las User Stories que tengan relaciòn con el desarrollo e implementaciòn de los servicios Front-End y Back-end. 
+
+#### 6.2.2.1 Sprint Planning 2
+
+- Sprint #: 2
+- Spring Planning Background
+    | Date                            | 23/10/2023                                                   |
+    |---------------------------------|--------------------------------------------------------------|
+    | Time                            | 5pm                                                          |
+    | Location                        | Llamada en discord                                           |
+    | Prepared By                     | Talledo, Diego                                               |
+    | Attendees (to planning meeting) | Soto, Franchesco Reynoso, Andrés Palomino, Bruno Alva, Frank |
+- Sprint Goal & User Stories
+    | Sprint Goal 1                   | Implementar mejoras del Front End, implementación del BackEnd |
+    |---------------------------------| ------------------------------------------------------------------------------------------------|
+    | Sprint 1  Velocity               |     21                                                                  |
+    | Sum of story  points             |      27                                                                   |
 #### 6.2.2.2 Sprint Backlog 2
         
 - Sprint #: 2
     | US Id | US Title | Task Id | Task Description | Task Estimation | Assigned To | Status |
-    |-------|----------|---------|------------------|-----------------|-------------|--------|
+	|-------|----------|---------|------------------|-----------------|-------------|--------|
+    |US017|Aceptar mensajes de otros agricultores|ST009|Diseño e implementación del chat|8 horas|Diego|Done|
+	|US021|Coordinar fechas con especialista|ST010|Diseñar el apartado de creación de pasos de un proyecto fijando fechas consultadas con el agricultor|8 horas|Franchesco|Done|
+	|US001|Registro de usuario|ST011|Diseñar e implementar el registro de usuario|8 horas|Andrés|Done|
+	|TS001|Implementación de seguridad|ST012|Implementación de JWT|8 horas|Bruno|Done|
+	|TS007|Visualización de datos en la interfaz de usuario|ST013|Diseñar e implementar la sección de visualización de datos|8 horas|Frank|Done|
+	|TS008|Notificaciones y alertas|ST014|Diseño e implemetación de las notificaciones|8 horas|Diego|Done|
 
         
+
+
 #### 6.2.2.3. Development Evidence for Sprint Review
 
+
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
-|------------|--------|-----------|----------------|---------------------|---------------|
+|------------|--------|-----------|----------------|----------------------|--------------|
+|AgriPure-BackEnd|feat/account|bbc3414b6bb918c0bd1c052c2fb1602ee61b7aa8|feat(account):add jwt||18/10/2023|
+|AgriPure-BackEnd|feat/notifications|32a5848dd4442e2d32b35e475f638caba877fab4|feat(notification): created NotificationRepository||19/10/2023|
+|AgriPure-BackEnd|feat/profile|e0ab1386a6c8eaa83b6528e3958fd806a494e26c|Fixed estructure||19/10/2023|
+|AgriPure-BackEnd|feat/notification|30d795ad5303eb158c143caf21e5ecad4621fa3a|feat(notification): created NotificationCommand||19/10/2023|
+|AgriPure-BackEnd|feat/crop|82fdf3099974b1e410f42ccac996d0af6784c0b7|feat(crop):add crop entity||20/10/2023|
+|AgriPure-BackEnd|feat/crop|4e691868f5bf5dfe60a458a1a45452a82a41e793|feat(crop):add crop services||20/10/2023|
+|AgriPure-BackEnd|feat/profile|b055848cbf4e5ed4bcffe850a36acad8c5f1a31c|Fixed estructure, has errors||23/10/2023|
+|AgriPure-BackEnd|feat/crop|8ed8f883b21d2506f253ea25e7ae2e16c8a80e7b|Add crop controller||23/10/2023|
+|AgriPure-BackEnd|feat/profile|ef7b0a341a15e918e300b8ce1ee0ae2b62dac137|Service Fixed||24/10/2023|
+|AgriPure-BackEnd|feat/notification|86ad4d63db6ce5907b144ed85f07c225c6da2e10|feat(notification): add queries methods||27/10/2023|
+|AgriPure-BackEnd|feat/advisory|4cbe43be4935876aac97fdbc89b64e7a3e2d0ff6|feat(advisory):add project entity||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|0742cc185fe97221c6d35c3791d7e139adfdf511|feat(advisory):add project activity entitty||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|dd107e9bc50208c1617c9bf3a6fcc21290e59b09|feat(advisory):add commands for project and activity||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|bb6493a5fca47f2f034e054f81bde3f4a1ada743|feat(advisory-management): message comand interfaces created||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|0c031ff3d2d24e75f483d9acc806ca7571d1024f|feat(advisory):add service interfaces for activity and project||28/10/2023|
+|AgriPure-BackEnd|develop|6c7f67f1a8a90d6060d6fbb0e27d8b105e35075a|add dependencies security||28/10/2023|
+|AgriPure-BackEnd|develop|2b34bb0a325106c0da0b2ddb54be8933ab116355|add new dependencies||28/10/2023|
+|AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
+|AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
+
 
 
 
@@ -2231,20 +2280,123 @@ En el presente sprint se delegaron las tareas a los distintos miembros del equip
     
 ####  6.2.2.5. Execution Evidence for Sprint Review
 
+Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue de los servicios del FrontEnd y BackEnd. 
+	**Enlace al FrontEnd:**
+	**Documentacion del BackEnd:**
+	**Enlace al video:**
 
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
+
+Se logró implementar la mayoría de endpoints acordados, a continuación se muestra la documentación implementada con la herramienta de Swagger:
 
 
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
 
+Para el presente Sprint, se logró desplegar la Landing Page y la primera versión de nuestro FrontEnd.Las vistas que añadimos al frontend son la lista de cultivos, detalle de cultivo, formulario de registro de cultivo, vista de especialistas, detalles de especialista.
+
+**Landing Page:**
+  Para el despliegue de nuestra landing page se utiliza "GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Pallevarlo a cabo, seguiremos los siguientes paso
+  - **Accedemos al repositorio de nuestra landing page:![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+  - **Nos vamos a configuración, a la sección de page*[Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
+  - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
+  - **Esperamos unos instantes y la landing page estadesplegada** 
+
+	![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+
+
+ -  **Web application**
+
+	Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
+	- Iniciamos sesión en netlify:
+		![Sesion netlify](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/logInNetlify.PNG?raw=true)
+	- Generamos un archivo dist ingresando el siguiente comando en la carpeta de nuestro proyecto:
+		![npm](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/npmrunbuild.PNG?raw=true)
+	- Subimos el archivo dist y esperamos que termine de subir el proyecto:
+		![front](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/FrontDeployed.jpeg?raw=true)
+ - **BackEnd Services**
+
+	Para el despliegue de nuestro Backend utilizaremos la plataforma de Railway, a continuación se detallan los pasoa a seguir
 
 
 
 
-#### 6.2.1.2. Team Collaboration Insights During Sprint
 
+#### 6.2.2.2. Team Collaboration Insights During Sprint
+
+Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sprint, a continuación se muestra la colaboración utilizando la herramienta de GitHub Insights: 
+
+## 6.3 Validation Interviews
+
+### 6.3.1 Diseño de entrevistas
+
+ - **Sector agricultores**
+	- ¿En general, que te ha parecido la aplicación?
+	- ¿Crees que cumple el propósito para el que fue creada?
+	- ¿Crees que la elección de colores es la correcta?
+	- ¿Qué función crees que debemos mejorar?
+	- ¿Crees que te resultaría más fácil llevar un control sobre tus cultivos?
+	- ¿Qué nuevas funciones agregarías? 
+
+- **Sector especialistas**
+	- ¿En general, que te ha parecido la aplicación?
+	- ¿Crees que cumple el propósito para el que fue creada?
+	- ¿Crees que la elección de colores es la correcta?
+	- ¿Qué función crees que debemos mejorar?
+	- ¿Crees que te resultaría más fácil encontrar y asignar un proyecto a un cultivo?
+	- ¿Qué nuevas funciones agregarías? 
+
+### 6.3.2 Registro de entrevistas
+
+
+### 6.3.3 Evaluación según heurísticas
+
+**Carrera:** Ingenieria de Software
+**Curso:** Desarrollo de soluciones IoT
+**Sección:** SW71
+**Profesor:** Angel Augusto Velasquez Núñez
+**Auditor:** DevIoT Team
+**CLientes:**
+
+**Site o App a evaluar**
+
+
+**Tareas a evaluar:**
+
+
+**Escala de severidad**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Descripción|
+|-----|-----------|
+|1|Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4| Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento|
+
+**Tabla de resumen**
+
+|#|Problema|Escala de severidad|Heurística/Principio Violado|
+|-|--------|-------------------|----------------------------|
+
+
+
+
+**Descripción de problemas:**
+
+Problema #
+
+Severidad: 
+
+Problema:
+
+Recomendación:
+
+
+
+## 6.4 Video About-the-Product
 
 
     
@@ -2283,4 +2435,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 | Vídeo exposición TB1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 | 
 |-----------|-----------|
 | Vídeo exposición TP |  | 
+| Vídeo exposición TB2 ||
 
