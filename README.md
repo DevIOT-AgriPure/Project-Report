@@ -2387,6 +2387,7 @@ Para el presente Sprint, se logró desplegar la Landing Page y la primera versi�
 		![npm](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/npmrunbuild.PNG?raw=true)
 	- Subimos el archivo dist y esperamos que termine de subir el proyecto:
 		![front](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/FrontDeployed.jpeg?raw=true)
+
  - **BackEnd Services**
 
 	Para el despliegue de nuestro Backend utilizaremos la plataforma de Railway, a continuación se detallan los pasoa a seguir
@@ -2505,5 +2506,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM4ODAxNTZdfQ==
+eyJoaXN0b3J5IjpbLTY2NDc1OTE3OCwtMTE4Mzg4MDE1Nl19
 -->
