@@ -2432,6 +2432,8 @@ Para el presente Sprint, se logró desplegar la Landing Page y la primera versi�
 #### 6.2.2.2. Team Collaboration Insights During Sprint
 
 Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sprint, a continuación se muestra la colaboración utilizando la herramienta de GitHub Insights: 
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/InsightBackend.PNG?raw=true)
+
 
 ## 6.3 Validation Interviews
 
@@ -2543,6 +2545,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODYzNDQzOSwtNjY0NzU5MTc4LC0xMT
-gzODgwMTU2XX0=
+eyJoaXN0b3J5IjpbLTY2NDc1OTE3OCwtMTE4Mzg4MDE1Nl19
 -->
