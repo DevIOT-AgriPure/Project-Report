@@ -2363,9 +2363,7 @@ Vista de buscar especialistas:
 
 Vista de proyectos asignados a farmer:
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/projectFarmer.PNG?raw=true)
-
-
-**Enlace al FrontEnd:**[https://agripure-web.netlify.app](https://agripure-web.netlify.app)
+nlace l rontEnd:**[https://agripure-web.netlify.app](https://agripure-web.netlify.app)
 
 **Enlace al video:**
 
@@ -2380,7 +2378,7 @@ Se logró implementar la mayoría de endpoints acordados, a continuación se mue
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger2.PNG?raw=true)
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger3.PNG?raw=true)
 
-**Documentacion del BackEnd:**[https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.html](https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.htmln) 
+**Documentaciondel acEnd:**[ttps://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.html](https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.htmln) 
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -2389,7 +2387,7 @@ Para el presente Sprint, se logró desplegar la Landing Page y la primera versi�
 **Landing Page:**
   Para el despliegue de nuestra landing page se utiliza "GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Para llevarlo a cabo, seguiremos los siguientes paso
   - **Accedemos al repositorio de nuestra landing page:**![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
-  - **Nos vamos a configuración, a la sección de page** [Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
+  - **Nos va a configuración, a la sección de page** [Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
   - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
   - **Esperamos unos instantes y la landing page esta desplegada** 
 
@@ -2408,7 +2406,7 @@ Para el presente Sprint, se logró desplegar la Landing Page y la primera versi�
 
  - **BackEnd Services**
 
-	Para el despliegue de nuestro Backend utilizaremos la plataforma de Google Cloud, a continuación se detallan los pasoa a seguir:
+	Para el despliegue de nuestro Backend utilizaremos la plataforma de Google Cloud, a continuacin se detallanlospasoa a seguir:
 
 	Creamos nuestro proyecto de Base de Datos en nuestra cuenta de Google Cloud:
 	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/createProjectGooggleCloud.jpg?raw=true)
@@ -2545,5 +2543,6 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDc1OTE3OCwtMTE4Mzg4MDE1Nl19
+eyJoaXN0b3J5IjpbNjk2NDgyOTcwLC02NjQ3NTkxNzgsLTExOD
+M4ODAxNTZdfQ==
 -->
