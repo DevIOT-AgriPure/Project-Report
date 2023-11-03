@@ -2422,7 +2422,11 @@ Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sp
 
 ### 6.3.2 Registro de entrevistas
 
-Entrevista 1:
+Agricultores:
+- Entrevista 1: Alejandro Rojas (https://youtu.be/xOu_GHkVzSE)
+  -Edad: 20
+  -Timing:
+  -Resumen: Alejandro nos ha comeentado que le ha gustado la paleta utilizada en la aplicacion, ya que le agradan los colores oscuros. Ademas, nos indica que la aplicacion cumple con el proposito creado, ademas que es muy intuitiva para los usuarios. Nos dice que hay que pulir mejor las funcionalidades que ya eestan implmentadas y que si le parece muy facil el uso de la aplicacion. Por ultimo, nos indica que las funciones agregadas y por agregar son suficientes para la aplicacion.
 
 Entrevista 2:
 
