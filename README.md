@@ -2349,10 +2349,25 @@ En el presente sprint se delegaron las tareas a los distintos miembros del equip
 
 Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue de los servicios del FrontEnd y BackEnd. 
 
+Inicio de sesión:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/AgriPureFrontSignIn.PNG?raw=true)
 
-	**Enlace al FrontEnd:**[https://agripure-web.netlify.app](https://agripure-web.netlify.app)
-	**Documentacion del BackEnd:**[https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.html](https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.htmln) 
-	**Enlace al video:**
+Escoger tipo de usuario:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/chosePlan.PNG?raw=true)
+
+Primera vista de crops:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/dashboardFarmer.PNG?raw=true)
+
+Vista de buscar especialistas:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/findSpecialist.PNG?raw=true)
+
+Vista de proyectos asignados a farmer:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/projectFarmer.PNG?raw=true)
+
+
+**Enlace al FrontEnd:**[https://agripure-web.netlify.app](https://agripure-web.netlify.app)
+
+**Enlace al video:**
 
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
@@ -2362,6 +2377,8 @@ BackEnd
 Se logró implementar la mayoría de endpoints acordados, a continuación se muestra la documentación implementada con la herramienta de Swagger:
 
 
+
+**Documentacion del BackEnd:**[https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.html](https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.htmln) 
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
 
