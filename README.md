@@ -2467,14 +2467,16 @@ Agricultores:
 	- Timing:
 	- Resumen: Alejandro nos ha comeentado que le ha gustado la paleta utilizada en la aplicacion, ya que le agradan los colores oscuros. Ademas, nos indica que la aplicacion cumple con el proposito creado, ademas que es muy intuitiva para los usuarios. Nos dice que hay que pulir mejor las funcionalidades que ya eestan implmentadas y que si le parece muy facil el uso de la aplicacion. Por ultimo, nos indica que las funciones agregadas y por agregar son suficientes para la aplicacion.
 
-Entrevista 2:Edery VIcente
+Entrevista 2: Edery Vicente
 - Edad: 25
 - Timing: 4:21
+- Resumen: Edery nos comenta que cambiaría la paleta de colores ya que siente que es muy oscura en comparación a los cultivos que son verdes y llenos de vida. También nos indica añadir una función de fechas, específicamente una alerta sobre la fecha de cuando terminará un proyecto.
 
 
 Entrevista 3: Kayacza Molero
 - Edad: 25
 - Timing: 8:44
+- Resumen: Kayacza nos comenta que cambiaría la paleta de colores por más verdes y claros. Nos indica que quisiera añadir una función de que al momento de añadir un cultivo, salga una advertencia de cuales son las estaciones que se recomiendan plantar.
 
 Entrevista 4:
 
