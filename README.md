@@ -46,6 +46,7 @@ Ciclo:
 | 2.0 | 19/09/2023 | Andres Christian Reynoso | Se iniciaron a desarrollar las correcciones en relacion al entregable TB1  |
 | 2.1 | 19/09/2023 | Diego Talledo Sanchez| Se agregaron ramas para cada capitulo del TF, mostrando una mejor organizacion en el equipo |
 | 2.2 | 26/09/2023 | Franchesco Alexis Soto Morales | Se completaron los puntos en relacion a la TP, lo cual incluye las correcciones del entregable anterior y los nuevos capitulos 5 y 6 |
+| 3.0 | 01/11/2023 | Andres Reynoso | Se completaron los puntos en relacion a la TB2, lo cual incluye las correcciones del entregable anterior, agregar el Sprint 2 |
 
 
 ## Project Report Collaboration Insights
@@ -66,7 +67,7 @@ Para este entregable, nuestro equipo se ha dividido cada uno las correcciones de
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 |-----------|-----------|-----------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.   | Andres Reynoso (TB1): Para este entregable he definido en equipo el desarrollo de mi startup utilizando múltiples métodos aprendidos como entrevistas, lean UX, etc.Frank Alva (TB1): Para esta primera entrega he definido como equipo qué secciones voy a desarrollar dentro del proyecto, además he aplicado diversas metodologías para una eficacia y eficiencia dentro del proyecto.Diego Talledo (TB1): En nuestra primera entrega, hemos realizado las distribuciones y planificaciones de las sesiones en las que trabajamos en equipo principalmente en el eventStorming.Franchesco Soto (TB1): He definido al equipo y he distribuido las tareas.Andres Reynoso (TP): Para este entregable hemos desarrollado en equipo mi primer avance de la Landing Page, al igual que de nuestra Web Application, para esto hemos utilizado múltiples métodos aprendidos como wireframes y mockups, y el desarrollo de mi primer sprint. Diego Talledo(TP) En estre entregable me encargue de la correcciondel informe, desarrollo de artefactos como lo fueron los mockups y coordinacion de las reuniones y desarrollo de la aplicacion web. Franchesco Soto(TP): Cumplí con las tareas que se me asignaron. A su vez, ayudé al resto de miembros del equipo con sus dudas | TB1: En resumen, en esta primera etapa de desarrollo de la startup, el equipo liderado por Diego Talledo ha empleado una variedad de métodos, incluyendo entrevistas y Lean UX, para planificar y definir las secciones clave del proyecto. Han aplicado metodologías con el objetivo de lograr eficacia y eficiencia, y se han distribuido las tareas entre los miembros del equipo. Este enfoque multifacético refleja un esfuerzo integral para establecer una base sólida para el proyecto y garantizar una planificación efectiva. TP: Hemos logrado avances significativos en el desarrollo de la Landing Page y la Web Application, al igual que aplicar una serie de métodos y técnicas aprendidas, incluyendo la creación de wireframes y mockups.    |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.   | Andres Reynoso (TB1): Para este entregable he definido en equipo el desarrollo de mi startup utilizando múltiples métodos aprendidos como entrevistas, lean UX, etc.Frank Alva (TB1): Para esta primera entrega he definido como equipo qué secciones voy a desarrollar dentro del proyecto, además he aplicado diversas metodologías para una eficacia y eficiencia dentro del proyecto.Diego Talledo (TB1): En nuestra primera entrega, hemos realizado las distribuciones y planificaciones de las sesiones en las que trabajamos en equipo principalmente en el eventStorming.Franchesco Soto (TB1): He definido al equipo y he distribuido las tareas. Andres Reynoso (TP): Para este entregable hemos desarrollado en equipo mi primer avance de la Landing Page, al igual que de nuestra Web Application, para esto hemos utilizado múltiples métodos aprendidos como wireframes y mockups, y el desarrollo de mi primer sprint. Diego Talledo(TP) En estre entregable me encargue de la correcciondel informe, desarrollo de artefactos como lo fueron los mockups y coordinacion de las reuniones y desarrollo de la aplicacion web. Franchesco Soto(TP): Cumplí con las tareas que se me asignaron. A su vez, ayudé al resto de miembros del equipo con sus dudas. Andres Reynoso (TB2): En este entregable me encargue de las correcciones de los entregables anteriores, al igual que ayudar a mi eequipo con el desarrollo de backeend. | TB1: En resumen, en esta primera etapa de desarrollo de la startup, el equipo liderado por Diego Talledo ha empleado una variedad de métodos, incluyendo entrevistas y Lean UX, para planificar y definir las secciones clave del proyecto. Han aplicado metodologías con el objetivo de lograr eficacia y eficiencia, y se han distribuido las tareas entre los miembros del equipo. Este enfoque multifacético refleja un esfuerzo integral para establecer una base sólida para el proyecto y garantizar una planificación efectiva. TP: Hemos logrado avances significativos en el desarrollo de la Landing Page y la Web Application, al igual que aplicar una serie de métodos y técnicas aprendidas, incluyendo la creación de wireframes y mockups.    |
 | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.    |Andres Reynoso (TB1): Con la ayuda de las entrevistas, pude entender cómo trabajan mi segmento objetivo, siendo capaz de ponerme en sus zapatos y analizar sus metas y preocupaciones.Frank Alva (TB1): Al analizar mi segmento objetivo, entrevistas y desarrollando mi user persona pude conocer mejor el ámbito empresarial del transporte.Diego Talledo (TB1): Al realizar la entrevista logré identificar a mi usuario, analizar sus requerimientos y sus expectativas.Franchesco Soto (TB1): Pude conocer más sobre mi segmento objetivo al realizar la entrevista.Andres Reynoso (TP): Con el desarrollo de los wireframes y mockups, he entendido y pensado cómo se sentiría mi segmento objetivo al usar mi aplicación. Franchesco Soto(TP): Las entrevistas me ayudaron a conocer el sector al que nos estamos enfocando, para desarrollar una aplicación de calidad| TB1: A través de este proceso, hemos adquirido un conocimiento más profundo del ámbito empresarial y hemos identificado las expectativas de sus usuarios, sentando así una base sólida para el desarrollo de su proyecto. TP: En el proceso de desarrollo de los wireframes y mockups, hemos logrado una comprensión más profunda de cómo nuestros segmentos objetivo se sentirían al utilizar nuestra aplicación. Esta etapa nos ha permitido poner en práctica no solo nuestras habilidades técnicas, sino también nuestra empatía hacia los usuarios. Diego Talledo (TP): Atraves de la maquetacion de la aplicacion logre entender como nuestros usuarios sentiran la interaccion con nuestra aplicacion|
 
 - [Capítulo I: Introducción](#capítulo-i-introducción)
@@ -2334,7 +2335,7 @@ En el presente sprint se delegaron las tareas a los distintos miembros del equip
 |AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
 |AgriPure-Landing-Page|main|132a4b1d162d1b6262ea8fb6c0a10f49d8fe9b59|feat: Added Call to Action||10/10/2023|
 |AgriPure-Landing-Page|main|7ac50b1163e8a10e09d3701ca46ca9761484f611|feat: Update index.html||10/10/2023|
-|AgriPure-Landing-Page|main|55c1a05f0385489384e21aba24c64782f913663a|feat: Added Multilanguage feature, as well as adding spaces for videos|31/10/2023|
+|AgriPure-Landing-Page|main|55c1a05f0385489384e21aba24c64782f913663a|feat: Added Multilanguage feature, as well as adding spaces for videos||31/10/2023|
 
 
 
@@ -2363,9 +2364,7 @@ Vista de buscar especialistas:
 
 Vista de proyectos asignados a farmer:
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/projectFarmer.PNG?raw=true)
-
-
-**Enlace al FrontEnd:**[https://agripure-web.netlify.app](https://agripure-web.netlify.app)
+nlace l rontEnd:**[https://agripure-web.netlify.app](https://agripure-web.netlify.app)
 
 **Enlace al video:**
 
@@ -2380,20 +2379,20 @@ Se logró implementar la mayoría de endpoints acordados, a continuación se mue
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger2.PNG?raw=true)
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger3.PNG?raw=true)
 
-**Documentacion del BackEnd:**[https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.html](https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.htmln) 
+**Documentacion del BackEnd:**[ttps://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.html](https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.htmln) 
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
 
-Para el presente Sprint, se logró desplegar la Landing Page y la primera versión de nuestro FrontEnd.Las vistas que añadimos al frontend son la lista de cultivos, detalle de cultivo, formulario de registro de cultivo, vista de especialistas, detalles de especialista.
+Para el presente Sprint, se logró desplegar la segunda version de nuestra Landing Page y de nuestro FrontEnd. 
 
 **Landing Page:**
   Para el despliegue de nuestra landing page se utiliza "GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Para llevarlo a cabo, seguiremos los siguientes paso
   - **Accedemos al repositorio de nuestra landing page:**![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
-  - **Nos vamos a configuración, a la sección de page** [Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
+  - **Nos va a configuración, a la sección de page** [Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
   - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
   - **Esperamos unos instantes y la landing page esta desplegada** 
 
-	![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+	![Landing Deployed](https://media.discordapp.net/attachments/973358848159133696/1170135535868706916/image.png?ex=6557f0a3&is=65457ba3&hm=00be33f22838a7beebabd467a28da4e035ca8a3a676257b651b204606d1d2d38&=&width=1254&height=669)
 
 
  -  **Web application**
@@ -2408,7 +2407,7 @@ Para el presente Sprint, se logró desplegar la Landing Page y la primera versi�
 
  - **BackEnd Services**
 
-	Para el despliegue de nuestro Backend utilizaremos la plataforma de Google Cloud, a continuación se detallan los pasoa a seguir:
+	Para el despliegue de nuestro Backend utilizaremos la plataforma de Google Cloud, a continuacin se detallanlospasoa a seguir:
 
 	Creamos nuestro proyecto de Base de Datos en nuestra cuenta de Google Cloud:
 	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/createProjectGooggleCloud.jpg?raw=true)
@@ -2462,6 +2461,11 @@ Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sp
   -Edad: 20
   -Timing:0:00
   -Resumen: Alejandro nos ha comeentado que le ha gustado la paleta utilizada en la aplicacion, ya que le agradan los colores oscuros. Ademas, nos indica que la aplicacion cumple con el proposito creado, ademas que es muy intuitiva para los usuarios. Nos dice que hay que pulir mejor las funcionalidades que ya eestan implmentadas y que si le parece muy facil el uso de la aplicacion. Por ultimo, nos indica que las funciones agregadas y por agregar son suficientes para la aplicacion.
+Agricultores:
+- Entrevista 1: Alejandro Rojas
+	- Edad: 20
+	- Timing:
+	- Resumen: Alejandro nos ha comeentado que le ha gustado la paleta utilizada en la aplicacion, ya que le agradan los colores oscuros. Ademas, nos indica que la aplicacion cumple con el proposito creado, ademas que es muy intuitiva para los usuarios. Nos dice que hay que pulir mejor las funcionalidades que ya eestan implmentadas y que si le parece muy facil el uso de la aplicacion. Por ultimo, nos indica que las funciones agregadas y por agregar son suficientes para la aplicacion.
 
 Entrevista 2:Edery VIcente
 - Edad: 25
@@ -2550,5 +2554,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDc1OTE3OCwtMTE4Mzg4MDE1Nl19
+eyJoaXN0b3J5IjpbMTY5NTQ5NTI4MSwxNzI4NjExNjg3XX0=
 -->
