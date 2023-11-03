@@ -2494,7 +2494,9 @@ Entrevista 5:
 AgriPure
 
 **Tareas a evaluar:**
-
+- Vista de cultivos
+- Vista de especialistas
+- Chat
 
 **Escala de severidad**
 
