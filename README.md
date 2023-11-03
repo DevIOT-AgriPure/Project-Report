@@ -2392,7 +2392,7 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
   - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
   - **Esperamos unos instantes y la landing page esta desplegada** 
 
-	![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+	![Landing Deployed](https://media.discordapp.net/attachments/973358848159133696/1170135535868706916/image.png?ex=6557f0a3&is=65457ba3&hm=00be33f22838a7beebabd467a28da4e035ca8a3a676257b651b204606d1d2d38&=&width=1254&height=669)
 
 
  -  **Web application**
@@ -2544,5 +2544,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTIxNTk5MSwxMzE4NTg3MDI3XX0=
+eyJoaXN0b3J5IjpbMTcyODYxMTY4N119
 -->
