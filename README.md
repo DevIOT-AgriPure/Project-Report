@@ -2387,7 +2387,7 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 
 **Landing Page:**
   Para el despliegue de nuestra landing page se utiliza "GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Para llevarlo a cabo, seguiremos los siguientes paso
-  - **Accedemos al repositorio de nuestra landing page:**![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+  - **Accedemos al repositorio de nuestra landing page:**![Landing page deploy](https://media.discordapp.net/attachments/973358848159133696/1170136724509302906/image.png?ex=6557f1bf&is=65457cbf&hm=7ed72ed084022f3a05d6bc5956b535f8e65bfc54441f1dab5f2b8a8fa5c38ed5&=&width=1357&height=669)
   - **Nos va a configuración, a la sección de page** [Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
   - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
   - **Esperamos unos instantes y la landing page esta desplegada** 
@@ -2552,5 +2552,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2NTE4MjMxXX0=
+eyJoaXN0b3J5IjpbOTYwMjE2NTc3XX0=
 -->
