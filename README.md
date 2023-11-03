@@ -46,6 +46,7 @@ Ciclo:
 | 2.0 | 19/09/2023 | Andres Christian Reynoso | Se iniciaron a desarrollar las correcciones en relacion al entregable TB1  |
 | 2.1 | 19/09/2023 | Diego Talledo Sanchez| Se agregaron ramas para cada capitulo del TF, mostrando una mejor organizacion en el equipo |
 | 2.2 | 26/09/2023 | Franchesco Alexis Soto Morales | Se completaron los puntos en relacion a la TP, lo cual incluye las correcciones del entregable anterior y los nuevos capitulos 5 y 6 |
+| 3.0 | 01/11/2023 | Andres Reynoso | Se completaron los puntos en relacion a la TB2, lo cual incluye las correcciones del entregable anterior, agregar el Sprint 2 |
 
 
 ## Project Report Collaboration Insights
@@ -2543,6 +2544,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2NDgyOTcwLC02NjQ3NTkxNzgsLTExOD
-M4ODAxNTZdfQ==
+eyJoaXN0b3J5IjpbMTQ1ODkyODY4Ml19
 -->
