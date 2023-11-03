@@ -2376,7 +2376,9 @@ Vista de proyectos asignados a farmer:
 BackEnd
 Se logró implementar la mayoría de endpoints acordados, a continuación se muestra la documentación implementada con la herramienta de Swagger:
 
-
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger1.PNG?raw=true)
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger2.PNG?raw=true)
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger3.PNG?raw=true)
 
 **Documentacion del BackEnd:**[https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.html](https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.htmln) 
 
