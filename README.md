@@ -2511,20 +2511,21 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 |#|Problema|Escala de severidad|Heurística/Principio Violado|
 |-|--------|-------------------|----------------------------|
+|1|Colores muy oscuros|2|Cambio de paleta de colores|
 
 
 
 
 **Descripción de problemas:**
 
-Problema #
+## Problema #1
 
-Severidad: 
+## Severidad:  2
 
-Problema:
-
-Recomendación:
-
+## Problema:
+Colores muy oscuros, no tiene nada que ver con cultivos o gente que se relaciona con estas actividades
+## Recomendación:
+Hacer un cambio en la paleta de colores, de modo que se sientas colores más vivos e intensos
 
 
 ## 6.4 Video About-the-Product
