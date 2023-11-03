@@ -2408,10 +2408,25 @@ Para el presente Sprint, se logró desplegar la Landing Page y la primera versi�
 
  - **BackEnd Services**
 
-	Para el despliegue de nuestro Backend utilizaremos la plataforma de Railway, a continuación se detallan los pasoa a seguir
+	Para el despliegue de nuestro Backend utilizaremos la plataforma de Google Cloud, a continuación se detallan los pasoa a seguir:
 
+	Creamos nuestro proyecto de Base de Datos en nuestra cuenta de Google Cloud:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/createProjectGooggleCloud.jpg?raw=true)
 
+	Creamos una instancia MySql:
+	![](hhttps://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CreateSchemab.jpg?raw=true)
 
+	Esperamos a que se cree la instancia:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CreatingSchema.jpg?raw=true)
+
+	Creamos nuestra base de datos:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CrearBaseDatos.jpg?raw=true)
+
+	Hacemos una conexión desde nuestro MySql para ver si la base de datos fue creada:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/ConexionConMySql.jpg?raw=true)
+
+	Ejecutamos nuestra API para ver si se conecta y genera las tablas:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/EjecutamoslaApi.jpg?raw=true)
 
 
 #### 6.2.2.2. Team Collaboration Insights During Sprint
