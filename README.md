@@ -2348,16 +2348,15 @@ En el presente sprint se delegaron las tareas a los distintos miembros del equip
 ####  6.2.2.5. Execution Evidence for Sprint Review
 
 Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue de los servicios del FrontEnd y BackEnd. 
-	**Enlace al FrontEnd:**
-	**Documentacion del BackEnd:**
+
+
+	**Enlace al FrontEnd:**[https://agripure-web.netlify.app](https://agripure-web.netlify.app)
+	**Documentacion del BackEnd:**[https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.html](https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.htmln) 
 	**Enlace al video:**
 
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
 
-Landing Page
-
-FrontEnd
 
 BackEnd
 Se logró implementar la mayoría de endpoints acordados, a continuación se muestra la documentación implementada con la herramienta de Swagger:
