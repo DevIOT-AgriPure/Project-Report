@@ -2290,8 +2290,8 @@ En el presente sprint se delegaron las tareas a los distintos miembros del equip
 - Sprint Goal & User Stories
     | Sprint Goal 2                  | Implementar mejoras del Front End, implementación del BackEnd |
     |---------------------------------| ------------------------------------------------------------------------------------------------|
-    | Sprint 2  Velocity               |     21                                                                  |
-    | Sum of story  points             |      27                                                                   |
+    | Sprint 2  Velocity               |     45                                                                  |
+    | Sum of story  points             |      41                                                                   |
 #### 6.2.2.2 Sprint Backlog 2
         
 - Sprint #: 2
