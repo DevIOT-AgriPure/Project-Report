@@ -2458,18 +2458,21 @@ Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sp
 
 Agricultores:
 - Entrevista 1: Alejandro Rojas
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/heuristicas/AlejandroRojas.PNG?raw=true)
 	- Edad: 20
 	- Timing:
 	- Resumen: Alejandro nos ha comeentado que le ha gustado la paleta utilizada en la aplicacion, ya que le agradan los colores oscuros. Ademas, nos indica que la aplicacion cumple con el proposito creado, ademas que es muy intuitiva para los usuarios. Nos dice que hay que pulir mejor las funcionalidades que ya eestan implmentadas y que si le parece muy facil el uso de la aplicacion. Por ultimo, nos indica que las funciones agregadas y por agregar son suficientes para la aplicacion.
 
 
 Entrevista 2: Edery Vicente
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/heuristicas/EderyEspecialista.PNG?raw=true)
 - Edad: 25
 - Timing: 4:21
 - Resumen: Edery nos comenta que cambiaría la paleta de colores ya que siente que es muy oscura en comparación a los cultivos que son verdes y llenos de vida. También nos indica añadir una función de fechas, específicamente una alerta sobre la fecha de cuando terminará un proyecto.
 
 
 Entrevista 3: Kayacza Molero
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/heuristicas/kayaczaAgricultora.PNG?raw=true)
 - Edad: 25
 - Timing: 8:44
 - Resumen: Kayacza nos comenta que cambiaría la paleta de colores por más verdes y claros. Nos indica que quisiera añadir una función de que al momento de añadir un cultivo, salga una advertencia de cuales son las estaciones que se recomiendan plantar.
