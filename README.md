@@ -46,6 +46,9 @@ Ciclo:
 | 2.0 | 19/09/2023 | Andres Christian Reynoso | Se iniciaron a desarrollar las correcciones en relacion al entregable TB1  |
 | 2.1 | 19/09/2023 | Diego Talledo Sanchez| Se agregaron ramas para cada capitulo del TF, mostrando una mejor organizacion en el equipo |
 | 2.2 | 26/09/2023 | Franchesco Alexis Soto Morales | Se completaron los puntos en relacion a la TP, lo cual incluye las correcciones del entregable anterior y los nuevos capitulos 5 y 6 |
+|3.0|20/10/2023|Andres Reynoso| Se crearon los títulos base y se añadió el Sprint 2
+|3.1|25/10/2023|Franchesco Soto| Se añadió los commits iniciales para la evidencia|
+| 3.2 | 01/11/2023 | Andres Reynoso | Se completaron los puntos en relacion a la TB2, lo cual incluye las correcciones del entregable anterior, agregar el Sprint 2 |
 
 
 ## Project Report Collaboration Insights
@@ -60,14 +63,18 @@ Desarrollo del equipo durante la TP:
 
 ![Commits](https://media.discordapp.net/attachments/912089666939916348/1156422129747775518/image.png?ex=6514e989&is=65139809&hm=c2596e83b06be3b4cf50eb235c4698da63d51a6b8ce620c34be569568ad4cbc0&=&width=1440&height=614)
 
-Para este entregable, nuestro equipo se ha dividido cada uno las correcciones de los capitulos anteriores, corrigiendo todos los puntos indicados por la rubrica, a su vez, hemos iniciado con la documentacion de nuestro TP, dividiendonos los puntos del capitulo 5 entre cada uno de nosotros, al igual que para el desarrollo de la Landing Page y el primer avance de nuestra Aplicacion Web.
+Desarrollo del equipo durante la TB2:
+![Commits](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/commitsTB2.PNG?raw=true)
+
+En este entregable nos enfocamos en el desarrollo del Frontend y Backend. A su vez, también se inició un proyecto en Wokwi para la futura integración de dispositivos IoT con nuestra plataforma
 
 # Student Outcome
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 |-----------|-----------|-----------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.   | Andres Reynoso (TB1): Para este entregable he definido en equipo el desarrollo de mi startup utilizando múltiples métodos aprendidos como entrevistas, lean UX, etc.Frank Alva (TB1): Para esta primera entrega he definido como equipo qué secciones voy a desarrollar dentro del proyecto, además he aplicado diversas metodologías para una eficacia y eficiencia dentro del proyecto.Diego Talledo (TB1): En nuestra primera entrega, hemos realizado las distribuciones y planificaciones de las sesiones en las que trabajamos en equipo principalmente en el eventStorming.Franchesco Soto (TB1): He definido al equipo y he distribuido las tareas.Andres Reynoso (TP): Para este entregable hemos desarrollado en equipo mi primer avance de la Landing Page, al igual que de nuestra Web Application, para esto hemos utilizado múltiples métodos aprendidos como wireframes y mockups, y el desarrollo de mi primer sprint. Diego Talledo(TP) En estre entregable me encargue de la correcciondel informe, desarrollo de artefactos como lo fueron los mockups y coordinacion de las reuniones y desarrollo de la aplicacion web. Franchesco Soto(TP): Cumplí con las tareas que se me asignaron. A su vez, ayudé al resto de miembros del equipo con sus dudas | TB1: En resumen, en esta primera etapa de desarrollo de la startup, el equipo liderado por Diego Talledo ha empleado una variedad de métodos, incluyendo entrevistas y Lean UX, para planificar y definir las secciones clave del proyecto. Han aplicado metodologías con el objetivo de lograr eficacia y eficiencia, y se han distribuido las tareas entre los miembros del equipo. Este enfoque multifacético refleja un esfuerzo integral para establecer una base sólida para el proyecto y garantizar una planificación efectiva. TP: Hemos logrado avances significativos en el desarrollo de la Landing Page y la Web Application, al igual que aplicar una serie de métodos y técnicas aprendidas, incluyendo la creación de wireframes y mockups.    |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.    |Andres Reynoso (TB1): Con la ayuda de las entrevistas, pude entender cómo trabajan mi segmento objetivo, siendo capaz de ponerme en sus zapatos y analizar sus metas y preocupaciones.Frank Alva (TB1): Al analizar mi segmento objetivo, entrevistas y desarrollando mi user persona pude conocer mejor el ámbito empresarial del transporte.Diego Talledo (TB1): Al realizar la entrevista logré identificar a mi usuario, analizar sus requerimientos y sus expectativas.Franchesco Soto (TB1): Pude conocer más sobre mi segmento objetivo al realizar la entrevista.Andres Reynoso (TP): Con el desarrollo de los wireframes y mockups, he entendido y pensado cómo se sentiría mi segmento objetivo al usar mi aplicación. Franchesco Soto(TP): Las entrevistas me ayudaron a conocer el sector al que nos estamos enfocando, para desarrollar una aplicación de calidad Diego Talledo (TP): Atraves de la maquetacion de la aplicacion logre entender como nuestros usuarios sentiran la interaccion con nuestra aplicacion| TB1: A través de este proceso, hemos adquirido un conocimiento más profundo del ámbito empresarial y hemos identificado las expectativas de sus usuarios, sentando así una base sólida para el desarrollo de su proyecto. TP: En el proceso de desarrollo de los wireframes y mockups, hemos logrado una comprensión más profunda de cómo nuestros segmentos objetivo se sentirían al utilizar nuestra aplicación. Esta etapa nos ha permitido poner en práctica no solo nuestras habilidades técnicas, sino también nuestra empatía hacia los usuarios. |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.   | Andres Reynoso (TB1): Para este entregable he definido en equipo el desarrollo de mi startup utilizando múltiples métodos aprendidos como entrevistas, lean UX, etc.Frank Alva (TB1): Para esta primera entrega he definido como equipo qué secciones voy a desarrollar dentro del proyecto, además he aplicado diversas metodologías para una eficacia y eficiencia dentro del proyecto.Diego Talledo (TB1): En nuestra primera entrega, hemos realizado las distribuciones y planificaciones de las sesiones en las que trabajamos en equipo principalmente en el eventStorming.Franchesco Soto (TB1): He definido al equipo y he distribuido las tareas. Andres Reynoso (TP): Para este entregable hemos desarrollado en equipo mi primer avance de la Landing Page, al igual que de nuestra Web Application, para esto hemos utilizado múltiples métodos aprendidos como wireframes y mockups, y el desarrollo de mi primer sprint. Diego Talledo(TP) En estre entregable me encargue de la correcciondel informe, desarrollo de artefactos como lo fueron los mockups y coordinacion de las reuniones y desarrollo de la aplicacion web. Franchesco Soto(TP): Cumplí con las tareas que se me asignaron. A su vez, ayudé al resto de miembros del equipo con sus dudas. Andres Reynoso (TB2): En este entregable me encargue de las correcciones de los entregables anteriores, al igual que ayudar a mi eequipo con el desarrollo de backeend. Franchesco Soto(TB2): Comuniqué mis avances y ayudé en la delegación de tareas a cada integrante del equipo. Diego Talledo(TB2): Organicé la delegación de tareas y comuniqué cualquier actualización sobre el proyecto con el resto del equipo | TB1: En resumen, en esta primera etapa de desarrollo de la startup, el equipo liderado por Diego Talledo ha empleado una variedad de métodos, incluyendo entrevistas y Lean UX, para planificar y definir las secciones clave del proyecto. Han aplicado metodologías con el objetivo de lograr eficacia y eficiencia, y se han distribuido las tareas entre los miembros del equipo. Este enfoque multifacético refleja un esfuerzo integral para establecer una base sólida para el proyecto y garantizar una planificación efectiva. TP: Hemos logrado avances significativos en el desarrollo de la Landing Page y la Web Application, al igual que aplicar una serie de métodos y técnicas aprendidas, incluyendo la creación de wireframes y mockups. TB2: Logramos avances en el FrontEnd y Backend para un primer despliegue. También hemos hecho un avance inicial sobre el dispositivo IoT con el que se comunicará nuestra aplicación    |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.    |Andres Reynoso (TB1): Con la ayuda de las entrevistas, pude entender cómo trabajan mi segmento objetivo, siendo capaz de ponerme en sus zapatos y analizar sus metas y preocupaciones.Frank Alva (TB1): Al analizar mi segmento objetivo, entrevistas y desarrollando mi user persona pude conocer mejor el ámbito empresarial del transporte.Diego Talledo (TB1): Al realizar la entrevista logré identificar a mi usuario, analizar sus requerimientos y sus expectativas.Franchesco Soto (TB1): Pude conocer más sobre mi segmento objetivo al realizar la entrevista.Andres Reynoso (TP): Con el desarrollo de los wireframes y mockups, he entendido y pensado cómo se sentiría mi segmento objetivo al usar mi aplicación. Franchesco Soto(TP): Las entrevistas me ayudaron a conocer el sector al que nos estamos enfocando, para desarrollar una aplicación de calidad. Diego Talledo (TP): Atraves de la maquetacion de la aplicacion logre entender como nuestros usuarios sentiran la interaccion con nuestra aplicacion. Andres Reynoso (TB2): Gracias a la coordinacion y trabajo en equipo pudimos llevar a cabo el desarrollo de nuestro segundo sprint. Franchesco Soto(TB2): Realicé las entrevistas a distintos sectores a los cuales nuestra aplicación está dirigida y pude conocer más sobre sus preferencias. Diego Talledo(TB2): Desarrollé las heurísticas y pude aprender más sobre los sectores a quienes estamos dirigidos| TB1: A través de este proceso, hemos adquirido un conocimiento más profundo del ámbito empresarial y hemos identificado las expectativas de sus usuarios, sentando así una base sólida para el desarrollo de su proyecto. TP: En el proceso de desarrollo de los wireframes y mockups, hemos logrado una comprensión más profunda de cómo nuestros segmentos objetivo se sentirían al utilizar nuestra aplicación. Esta etapa nos ha permitido poner en práctica no solo nuestras habilidades técnicas, sino también nuestra empatía hacia los usuarios. TB2: Al desarrollar las entrevistas de validación hemos podido entender de mejor manera como nuestros usuarios quieren el diseño de nuestra aplicación, para que esta sea más amigable con ellos|
+
 
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
@@ -202,7 +209,16 @@ Para este entregable, nuestro equipo se ha dividido cada uno las correcciones de
           - [6.2.1.6. Services Documentation Evidence for Sprint Review](#6216-services-documentation-evidence-for-sprint-review)
           - [6.2.1.7. Software Deployment Evidence for Sprint Review](#6217-software-deployment-evidence-for-sprint-review)
           - [6.2.1.8. Team Collaboration Insights During Sprint](#6218-team-collaboration-insights-during-sprint)
-
+		- [6.2.2. Sprint 2](#621-sprint-2)
+		  - [6.2.2.1 Sprint Planning 1](#6221-sprint-planning-2)
+          - [6.2.2.2 Sprint Backlog 1](#6222-sprint-backlog-2)
+          - [6.2.2.3. Development Evidence for Sprint Review](#6223-development-evidence-for-sprint-review)
+          - [6.2.2.4. Testing Suite Evidence for Sprint Review](#6224-testing-suite-evidence-for-sprint-review)
+          - [6.2.2.5. Execution Evidence for Sprint Review](#6225-execution-evidence-for-sprint-review)
+          - [6.2.2.6. Services Documentation Evidence for Sprint Review](#6226-services-documentation-evidence-for-sprint-review)
+          - [6.2.2.7. Software Deployment Evidence for Sprint Review](#6227-software-deployment-evidence-for-sprint-review)
+          - [6.2.2.8. Team Collaboration Insights During Sprint](#6228-team-collaboration-insights-during-sprint)
+	 - [6.3 Validation Interviews](#63-validation-interviews)
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -2047,7 +2063,49 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
   Como se mencionó anteriormente, se utilizará GitHcomo sistema de control de versiones. Se han crearepositorios dentro de nuestra organización de GitHu
   - Enlace al repositorio de la landing page: [httpsgithub.com/DevIOT-AgriPure/AgriPure-Landing-Page](https://github.com/DevIOT-AgriPuAgriPure-Landing-Page)
   - Enlace al repositorio de Front-End: [https://githcom/DevIOT-AgriPure/Agripure-Web-Application](httpsgithub.com/DevIOT-AgriPure/Agripure-Web-Application)
-  - Enlace al repositorio de Back-End: [https://githcom/DevIOT-AgriPure/AgriPure-WebServices](httpsgithub.com/DevIOT-AgriPure/AgriPure-WebService)
+  - Enlace al repositorio de Back-End: [https://githcom/DevIOT-AgriPure/AgriPure-WebServices](httpsgithub.com/DevIOT-AgriPure/AgriPure-WebService)- [Capítulo VI: Product implementation, Validation \& Deployment](#capítulo-vi-product-implementation-validation--deployment)
+  - [6.1 Software Configuration Management](#61-software-configuration-management)
+    - [6.1.1 Software Development EnviromentConfiguration](#611-software-development-enviromentconfiguration)
+    - [6.1.2. Source Code Management](#612-source-code-management)
+    - [6.1.3. Source Code Style Guide \& Conventions](#613-source-code-style-guide--conventions)
+    - [6.1.4. Software Deployment Configuration](#614-software-deployment-configuration)
+  - [6.2 Landing Page, Services \& Applications Implementation.](#62-landing-page-services--applications-implementation)
+    - [6.2.1. Sprint 1](#621-sprint-1)
+      - [6.2.1.1 Sprint Planning 1](#6211-sprint-planning-1)
+      - [6.2.1.2 Sprint Backlog 1](#6212-sprint-backlog-1)
+      - [6.2.1.3. Development Evidence for Sprint Review](#6213-development-evidence-for-sprint-review)
+      - [6.2.1.4. Testing Suite Evidence for Sprint Review](#6214-testing-suite-evidence-for-sprint-review)
+      - [6.2.1.5. Execution Evidence for Sprint Review](#6215-execution-evidence-for-sprint-review)
+      - [6.2.1.6. Services Documentation Evidence for Sprint Review](#6216-services-documentation-evidence-for-sprint-review)
+      - [6.2.1.7. Software Deployment Evidence for Sprint Review](#6217-software-deployment-evidence-for-sprint-review)
+      - [6.2.1.8. Team Collaboration Insights During Sprint](#6218-team-collaboration-insights-during-sprint)
+
+
+# Capítulo VI: Product implementation, Validation & Deployment
+## 6.1 Software Configuration Management
+
+Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo y colaboración que nos permitirá llevarlo a cabo de mejor manera.
+    
+### 6.1.1 Software Development EnviromentConfiguration
+  En esta sección vamos a definir las líneas base del sistema de la gestión de la configuración. A continuación, se definirán las aplicaciones que serán utilizadas para el desarrollo de nuestro proyecto.
+
+  - **LucidChart:** Aplicación web que se utilizará para creación de diagramas de clases. Podemos accedertravés del siguiente enlace: [https://www.lucidchacom/](https://www.lucidchart.com/
+  - **Structurizr:** Aplicación web que se utilizará pala creación del diagrama c4. Podemos acceder a travdel siguiente enlace: [https://structurizr.co(https://structurizr.com
+  - **UXPressia:** Aplicación web que se utilizará pala creación de artefactos Lean UX como User PersonUser Journey Maps, Empathy Maps, Impact Maps. Podemacceder a través de: [https://uxpressia.com/](httpsuxpressia.com
+  - **Trello:** Aplicación web que se utilizará para seguimiento de las historias de usuario en cada sprinPodemos acceder a través de: [https://trello.co(https://trello.com
+  - **Figma:** Aplicación web que se utilizará para creación de Wireframes y Mockups. También servirá pala creación de prototipos de nuestra aplicación wresponsive. Podemos acceder a través de: [https://figcom/](https://figma.com
+  - **Visual Studio Code:** Entorno de desarrollo (IDLque utilizaremos para trabajar en nuestro front-end nuestra aplicación web. Podemos descargarlo a travde: [https://code.visualstudio.com/](https://covisualstudio.com
+  - **Intellij Idea Ultima:** Entorno de desarrol(IDLE) que utilizaremos para trabajar en nuestback-end de nuestra aplicación web. Podemos descargara través de: [https://www.jetbrains.com/idea/downloasection=windows](https://www.jetbrains.com/iddownload/?section=window
+  - **VueJs:** Framework de javascript que utilizarempara desarrollar nuestro front-end de nuestaplicación web. Requiere instalar previamente NodeJPodemos descargar NodeJs a través de: [https://nodeorg/es/](https://nodejs.org/es/). Luego, podreminstalar VueJs siguiendo las instrucciones instalación dadas en el siguiente enlace: [https://vuejs.org/v2/guide/installation.html](https://es.vueorg/v2/guide/installation.htm
+  - **GitHub:** Aplicación web que utilizaremos para control de versiones de nuestro proyecto. Podemacceder a sus servicios a través de: [https://githcom/](https://github.com
+  - **Android Studio:** Entorno de desarrollo (IDLE) qutilizaremos para desarrollar nuestra aplicación móviPodemos acceder a través de: [https://developer.androcom/studgclid=CjwKCAjwmbqoBhAgEiwACIjzEALGhH7IKxVPgvmi7rUWtPaD-Bw3QZAltOFF2JEIJvrA-ftw-hRoCfvsQAvD_BwE&gclsrc=aw.(https://developer.android.com/studgclid=CjwKCAjwmbqoBhAgEiwACIjzEALGhH7IKxVPgvmi7rUWtPaD-Bw3QZAltOFF2JEIJvrA-ftw-hRoCfvsQAvD_BwE&gclsrc=aw.ds)
+
+### 6.1.2. Source Code Management
+
+  Como se mencionó anteriormente, se utilizará GitHcomo sistema de control de versiones. Se han crearepositorios dentro de nuestra organización de GitHu
+  - Enlace al repositorio de la landing page: [httpsgithub.com/DevIOT-AgriPure/AgriPure-Landing-Pa(https://github.com/DevIOT-AgriPuAgriPure-Landing-Pag
+  - Enlace al repositorio de Front-End: [https://githcom/DevIOT-AgriPure/Agripure-Web-Application](httpsgithub.com/DevIOT-AgriPure/Agripure-Web-Applicatio
+  - Enlace al repositorio de Back-End: [https://githcom/DevIOT-AgriPure/AgriPure-WebServices](httpsgithub.com/DevIOT-AgriPure/AgriPure-WebService
   Los repositorios mencionados anteriormente seguirán metodología de Git Flow, que nos permitirá trabajar manera eficiente y ágil en proyectos colaborativos. este enfoque, utilizaremos las siguientes ramas:
   
   - **Main:** Esta rama contiene la versión completa dproyecto, asegurándose de que no haya errores en ejecución. Es la versión que se encuentra en producciy es accesible para los usuarios finale
@@ -2066,7 +2124,7 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
   - Landing-Page: HTML, CSS y Javascript
   - Base de datos: MySQL
   - Convenciones de idioma: Se empleará el idioma inglpara desarrollar el código, sea en nuestra landipage, front end services o back end services. Tambilos títulos de los commits se encontrarán en el misidioma.
-  - Convenciones de tecnología: Cada nombre de una tabla nuestra base de datos iniciará con minúscula, y esta se compone de dos o más palabras, se separará cauna con un "_" y seguirá una mayúscula.
+  - Convenciones de tecnología: Cada nombre de una tablaen nuestra base de datos iniciará con minayúscula, y esta se compone de dos o más palabras, se separará cauna con un "_" y seguirá una mayúscula.
   - Cada Unit Test deberá ser escrito en lenguaje Gherky sus convenciones. Podremos revisarlos en el siguienenlace: [https://specflow.org/gherkgherkin-conventions-for-readable-specification](https://specflow.org/gherkgherkin-conventions-for-readable-specifications/)
   - Para escribir el título de los commits, utilizaremoConventional Commits. Podemos revisar la documentacien el siguiente enlace: [https://wconventionalcommits.org/en/v1.0.0/](https://wconventionalcommits.org/en/v1.0.0/)
   - Para trabajar con JavaScript, se utilizarán lconvenciones "Google Javascript Style Guide". Podemacceder a estas a través del siguiente enlace: [httpsgoogle.github.io/styleguide/jsguide.html](httpsgoogle.github.io/styleguide/jsguide.html)
@@ -2098,7 +2156,20 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 
  	**Web Services**
 
- 	Para el despliegue de nuestro back-end service se utilizarà "Railway", es ideal para subir soluciones y crear esquemas
+ 	DevIOT-AgriPure/Project-Report/blob/feature/capituloimages/software-deploy-configuration/landingdeploy.Praw=tru
+  - **Nos vamos a configuración, a la sección de page*[Landing page deploy conf](https://github.cDevIOT-AgriPure/Project-Report/blob/feature/capituloimages/software-deploy-configuration/landingdeploycoPNG?raw=tru
+  - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://githcom/DevIOT-AgriPure/Project-Report/blob/featucapitulo-6/images/software-deploy-configuratiladingdeploybranch.PNG?raw=tru
+  - **Esperamos unos instantes y la landing page estadesplegada** 
+
+![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+
+   **Web application**
+
+Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
+
+ **Web Services**
+
+ Para el despliegue de nuestro back-end service se utilizarà "Railway", es ideal para subir soluciones y crear esquemas
 
 ## 6.2 Landing Page, Services & Applications Implementation.
 ### 6.2.1. Sprint 1
@@ -2118,8 +2189,8 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 - Sprint Goal & User Stories
     | Sprint Goal 1                   | Implementar y desplegar la landing page. A su vez, desarrollar la primera    versión del front-end |
     |---------------------------------| ------------------------------------------------------------------------------------------------|
-    | Sprint 1  Velocity               |     21                                                                  |
-    | Sum of story  points             |      27                                                                   |
+    | Sprint 1  Velocity               |     21                                                                                               |
+    | Sum of story  points             |      27                                                                                              |
 
 #### 6.2.1.2 Sprint Backlog 1
         
@@ -2129,7 +2200,7 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
     |US011  |Botón Call to action|    ST001     |      Diseño e implementación del Botón Call to action            |    4 horas     | Andrés Reynoso            |   Done  |
     |US012|Visualización de redes sociales|ST002| Diseño e implementación se la sección de redes sociales en la landing page| 8 horas | Diego Talledo|Done|
     |US013|Visualizar características de la aplicación|ST003|Diseño e implementación de la sección de características en la landing page| 8 horas| Franchesco Soto|Done|
-    |US004|Selección de planta a sembrar|ST004|Diseño e implementación visual de la selección de planta a sembrar en front-end| 8 horas|Diego Talledo|Done|
+    |US004|Selección de planta a sembrar|ST004|Diseño e implementación visual de la selección de planta a sembrar en front-end| 8 horas|Diego Talledo|DoneIn process|
     |US005|Guía de elección de tierra de sembrado|ST005|Diseño e implementación visual de la sección de guía de elección de tierra|8 horas|Franchesco Soto|In process|
     |US006|Distancia de siembra entre las plantas|ST006|Diseño e implementación visual de la sección de distancia de siembra|8 horas|Bruno Palomino|Done|
     |US007|Distancia de profundidad de siembra| ST007|Diseño e implementación visual de la sección de profundidad de siembra| 8 horas | Frank| Done|
@@ -2150,13 +2221,22 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 |Agripure-Web-Application|feat/specialist|bff698f04cb203757c5f805eaf34293abe6fb23e|Feat: added specialist info||26/09/2023|
 |Agripure-Web-Application|feat/specialist|be374a51a19973cbc2b51f2f926c73469e6b290c|add: cards specialists||26/09/2023|
 
+In process|
+    |US007|Distancia de profundidad de siembra| ST007|Diseño e implementación visual de la sección de profundidad de siembra| 8 horas | Frank| In process|
+    |US010|Contacto a especialista|ST008|Diseño e implementación visual de la sección de contacto a especialista| 8 horas| Bruno| In process|
+        
+#### 6.2.1.3. Development Evidence for Sprint Review
 
+  | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
+  |------------|--------|-----------|----------------|---------------------|---------------|
+  |https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     8fce68724ed2a3777e3f471a4493aa5085a1ee5d|Create README.md|                     |24/08/2023|
+  |https://github.com/DevIOT-AgriPure/AgriPure-Landing-Page.git  | main |     8fce68724ed2a3777e3f471a4493aa5085a1ee5d|Create README.md|                     |24/08/2023|
 ####  6.2.1.4. Testing Suite Evidence for Sprint Review
 
   | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
   |------------|--------|-----------|----------------|---------------------|---------------|
   | Agripure-Landing-Page|main| 20b77b8dd8623a1e07229f741926404efe09806a|first scenario|| 25/09/2023|
-  |Agripure-Landing-Page|main|7ff27918981f92c6ed9717d5a03cc22849865d83|add: 2 ,3 ,4 scenarios|26/09/2023|
+  |Agripure-Landing-Page|main|7ff27918981f92c6ed9717d5a03cc22849865d83|add: 2 ,3 ,4 scenarios|26/09/2023           |        |           |                |                     |               |
     
 ####  6.2.1.5. Execution Evidence for Sprint Review
 
@@ -2208,29 +2288,305 @@ Para el presente Sprint, se logró desplegar la Landing Page y la primera versi�
 En el presente sprint se delegaron las tareas a los distintos miembros del equipo. Podemos observar la particiapción de cada integrante en el siguiente gráfico
 ![Inshights](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/insights1.PNG?raw=true)
 
+### 6.2.2. Sprint 2
     
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDk1NjU3NiwxMTkwMzk4MTE2XX0=
--->
-  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTY1NTcwXX0=
--->	
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODYxOTU4M119
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjY3MzIxMCw3MjY4OTM1LDE1MTg4NT
-UxNTcsMTEwNTIyNDgyMywtMTAwMTgzOTgxMSwyMTQ3MjUwNjMs
-MTkwMzQ4ODg2MiwtMjA4MzY2ODMwMF19
--->    
+  Para este sprint tomamos en cuenta las User Stories que tengan relaciòn con el desarrollo e implementaciòn de los servicios Front-End y Back-end. 
+
+#### 6.2.2.1 Sprint Planning 2
+
+- Sprint #: 2
+- Spring Planning Background
+    | Date                            | 23/10/2023                                                   |
+    |---------------------------------|--------------------------------------------------------------|
+    | Time                            | 5pm                                                          |
+    | Location                        | Llamada en discord                                           |
+    | Prepared By                     | Talledo, Diego                                               |
+    | Attendees (to planning meeting) | Soto, Franchesco Reynoso, Andrés Palomino, Bruno Alva, Frank |
+- Sprint Goal & User Stories
+    | Sprint Goal 2                  | Implementar mejoras del Front End, implementación del BackEnd |
+    |---------------------------------| ------------------------------------------------------------------------------------------------|
+    | Sprint 2  Velocity               |     42                                                                  |
+    | Sum of story  points             |      42                                                                   |
+#### 6.2.2.2 Sprint Backlog 2
+        
+- Sprint #: 2
+    | US Id | US Title | Task Id | Task Description | Task Estimation | Assigned To | Status |
+	|-------|----------|---------|------------------|-----------------|-------------|--------|
+    |US017|Aceptar mensajes de otros agricultores|ST009|Diseño e implementación del chat|8 horas|Diego|Done|
+	|US021|Coordinar fechas con especialista|ST010|Diseñar el apartado de creación de pasos de un proyecto fijando fechas consultadas con el agricultor|8 horas|Franchesco|Done|
+	|US001|Registro de usuario|ST011|Diseñar e implementar el registro de usuario|8 horas|Andrés|Done|
+	|TS001|Implementación de seguridad|ST012|Implementación de JWT|8 horas|Bruno|Done|
+	|TS007|Visualización de datos en la interfaz de usuario|ST013|Diseñar e implementar la sección de visualización de datos|8 horas|Frank|Done|
+	|TS008|Notificaciones y alertas|ST014|Diseño e implemetación de las notificaciones|8 horas|Diego|Done|
+
+        
+
+
+#### 6.2.2.3. Development Evidence for Sprint Review
+
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
+|------------|--------|-----------|----------------|----------------------|--------------|
+|AgriPure-BackEnd|feat/account|bbc3414b6bb918c0bd1c052c2fb1602ee61b7aa8|feat(account):add jwt||18/10/2023|
+|AgriPure-BackEnd|feat/notifications|32a5848dd4442e2d32b35e475f638caba877fab4|feat(notification): created NotificationRepository||19/10/2023|
+|AgriPure-BackEnd|feat/profile|e0ab1386a6c8eaa83b6528e3958fd806a494e26c|Fixed estructure||19/10/2023|
+|AgriPure-BackEnd|feat/notification|30d795ad5303eb158c143caf21e5ecad4621fa3a|feat(notification): created NotificationCommand||19/10/2023|
+|AgriPure-BackEnd|feat/crop|82fdf3099974b1e410f42ccac996d0af6784c0b7|feat(crop):add crop entity||20/10/2023|
+|AgriPure-BackEnd|feat/crop|4e691868f5bf5dfe60a458a1a45452a82a41e793|feat(crop):add crop services||20/10/2023|
+|AgriPure-BackEnd|feat/profile|b055848cbf4e5ed4bcffe850a36acad8c5f1a31c|Fixed estructure, has errors||23/10/2023|
+|AgriPure-BackEnd|feat/crop|8ed8f883b21d2506f253ea25e7ae2e16c8a80e7b|Add crop controller||23/10/2023|
+|AgriPure-BackEnd|feat/profile|ef7b0a341a15e918e300b8ce1ee0ae2b62dac137|Service Fixed||24/10/2023|
+|AgriPure-BackEnd|feat/notification|86ad4d63db6ce5907b144ed85f07c225c6da2e10|feat(notification): add queries methods||27/10/2023|
+|AgriPure-BackEnd|feat/advisory|4cbe43be4935876aac97fdbc89b64e7a3e2d0ff6|feat(advisory):add project entity||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|0742cc185fe97221c6d35c3791d7e139adfdf511|feat(advisory):add project activity entitty||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|dd107e9bc50208c1617c9bf3a6fcc21290e59b09|feat(advisory):add commands for project and activity||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|bb6493a5fca47f2f034e054f81bde3f4a1ada743|feat(advisory-management): message comand interfaces created||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|0c031ff3d2d24e75f483d9acc806ca7571d1024f|feat(advisory):add service interfaces for activity and project||28/10/2023|
+|AgriPure-BackEnd|develop|6c7f67f1a8a90d6060d6fbb0e27d8b105e35075a|add dependencies security||28/10/2023|
+|AgriPure-BackEnd|develop|2b34bb0a325106c0da0b2ddb54be8933ab116355|add new dependencies||28/10/2023|
+|AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
+|AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
+|AgriPure-Landing-Page|main|132a4b1d162d1b6262ea8fb6c0a10f49d8fe9b59|feat: Added Call to Action||10/10/2023|
+|AgriPure-Landing-Page|main|7ac50b1163e8a10e09d3701ca46ca9761484f611|feat: Update index.html||10/10/2023|
+|AgriPure-Landing-Page|main|55c1a05f0385489384e21aba24c64782f913663a|feat: Added Multilanguage feature, as well as adding spaces for videos||31/10/2023|
+
+
+
+
+####  6.2.2.4. Testing Suite Evidence for Sprint Review
+
+  | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
+  |------------|--------|-----------|----------------|---------------------|---------------|
+  | Agripure-Landing-Page|main| 20b77b8dd8623a1e07229f741926404efe09806a|first scenario|| 25/09/2023|
+  |Agripure-Landing-Page|main|7ff27918981f92c6ed9717d5a03cc22849865d83|add: 2 ,3 ,4 scenarios|26/09/2023           |        |           |                |                     |               |
+    
+####  6.2.2.5. Execution Evidence for Sprint Review
+
+Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue de los servicios del FrontEnd y BackEnd. 
+
+Inicio de sesión:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/AgriPureFrontSignIn.PNG?raw=true)
+
+Escoger tipo de usuario:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/chosePlan.PNG?raw=true)
+
+Primera vista de crops:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/dashboardFarmer.PNG?raw=true)
+
+Vista de buscar especialistas:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/findSpecialist.PNG?raw=true)
+
+Vista de proyectos asignados a farmer:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/projectFarmer.PNG?raw=true)
+nlace l rontEnd:**[https://agripure-web.netlify.app](https://agripure-web.netlify.app)
+
+**Enlace al video:** ![https://upcedupe-my.sharepoint.com/personal/u202017388_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202017388%5Fupc%5Fedu%5Fpe%2FDocuments%2FaboutTheProduct%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview](https://upcedupe-my.sharepoint.com/personal/u202017388_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202017388%5Fupc%5Fedu%5Fpe%2FDocuments%2FaboutTheProduct%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+
+#### 6.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+BackEnd
+Se logró implementar la mayoría de endpoints acordados, a continuación se muestra la documentación implementada con la herramienta de Swagger:
+
+|Controlador|Variable que usa|Retorno|
+|-----------|----------------|-------|
+|Account|Un formulario de registro|Mensaje si la cuenta fue creada|
+|Account|Formulario de logeo|Token para la autenticación|
+|Crop|Formulario de creación de un crop|Mensaje si fue creado exitosamente|
+|Crop|Id de un cultivador|Lista de crops de acuerdo al id dado|
+|CropReport|Formulario de creación de crop report|Mensaje de confirmación|
+|CropReport|Id del crop|Retornar una lista de crop reports que pertenecen a un crop|
+|CropReport|Id del crop report|Retornar un crop report de acuerdo al Id dado|
+
+
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger1.PNG?raw=true)
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger2.PNG?raw=true)
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger3.PNG?raw=true)
+
+**Documentacion del BackEnd:**[ttps://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.html](https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.htmln) 
+**Enlace al repositorio del BackEnd:** [https://github.com/DevIOT-AgriPure/AgriPure-BackEnd](https://github.com/DevIOT-AgriPure/AgriPure-BackEnd)
+
+#### 6.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para el presente Sprint, se logró desplegar la segunda version de nuestra Landing Page y de nuestro FrontEnd. 
+
+**Landing Page:**
+  Para el despliegue de nuestra landing page se utiliza "GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Para llevarlo a cabo, seguiremos los siguientes paso
+  - **Accedemos al repositorio de nuestra landing page:**![Landing page deploy](https://media.discordapp.net/attachments/973358848159133696/1170136724509302906/image.png?ex=6557f1bf&is=65457cbf&hm=7ed72ed084022f3a05d6bc5956b535f8e65bfc54441f1dab5f2b8a8fa5c38ed5&=&width=1357&height=669)
+  - **Nos va a configuración, a la sección de page** [Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
+  - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
+  - **Esperamos unos instantes y la landing page esta desplegada** 
+
+	![Landing Deployed](https://media.discordapp.net/attachments/973358848159133696/1170135535868706916/image.png?ex=6557f0a3&is=65457ba3&hm=00be33f22838a7beebabd467a28da4e035ca8a3a676257b651b204606d1d2d38&=&width=1254&height=669)
+
+
+ -  **Web application**
+
+	Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
+	- Iniciamos sesión en netlify:
+		![Sesion netlify](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/logInNetlify.PNG?raw=true)
+	- Generamos un archivo dist ingresando el siguiente comando en la carpeta de nuestro proyecto:
+		![npm](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/npmrunbuild.PNG?raw=true)
+	- Subimos el archivo dist y esperamos que termine de subir el proyecto:
+		![front](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/FrontDeployed.jpeg?raw=true)
+
+ - **BackEnd Services**
+
+	Para el despliegue de nuestro Backend utilizaremos la plataforma de Google Cloud, a continuacin se detallanlospasoa a seguir:
+
+	Creamos nuestro proyecto de Base de Datos en nuestra cuenta de Google Cloud:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/createProjectGooggleCloud.jpg?raw=true)
+
+	Creamos una instancia MySql:
+	![](hhttps://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CreateSchemab.jpg?raw=true)
+
+	Esperamos a que se cree la instancia:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CreatingSchema.jpg?raw=true)
+
+	Creamos nuestra base de datos:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CrearBaseDatos.jpg?raw=true)
+
+	Hacemos una conexión desde nuestro MySql para ver si la base de datos fue creada:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/ConexionConMySql.jpg?raw=true)
+
+	Ejecutamos nuestra API para ver si se conecta y genera las tablas:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/EjecutamoslaApi.jpg?raw=true)
+
+
+#### 6.2.2.8. Team Collaboration Insights During Sprint
+
+Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sprint, a continuación se muestra la colaboración utilizando la herramienta de GitHub Insights: 
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/InsightBackend.PNG?raw=true)
+
+
+## 6.3 Validation Interviews
+
+### 6.3.1 Diseño de entrevistas
+
+ - **Sector agricultores**
+	- ¿En general, que te ha parecido la aplicación?
+	- ¿Crees que cumple el propósito para el que fue creada?
+	- ¿Crees que la elección de colores es la correcta?
+	- ¿Qué función crees que debemos mejorar?
+	- ¿Crees que te resultaría más fácil llevar un control sobre tus cultivos?
+	- ¿Qué nuevas funciones agregarías? 
+
+- **Sector especialistas**
+	- ¿En general, que te ha parecido la aplicación?
+	- ¿Crees que cumple el propósito para el que fue creada?
+	- ¿Crees que la elección de colores es la correcta?
+	- ¿Qué función crees que debemos mejorar?
+	- ¿Crees que te resultaría más fácil encontrar y asignar un proyecto a un cultivo?
+	- ¿Qué nuevas funciones agregarías? 
+
+### 6.3.2 Registro de entrevistas
+
+Agricultores:
+- Entrevista 1: Alejandro Rojas
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/heuristicas/AlejandroRojas.PNG?raw=true)
+	- Edad: 20
+	- Timing: 0:00
+	- Resumen: Alejandro nos ha comeentado que le ha gustado la paleta utilizada en la aplicacion, ya que le agradan los colores oscuros. Ademas, nos indica que la aplicacion cumple con el proposito creado, ademas que es muy intuitiva para los usuarios. Nos dice que hay que pulir mejor las funcionalidades que ya eestan implmentadas y que si le parece muy facil el uso de la aplicacion. Por ultimo, nos indica que las funciones agregadas y por agregar son suficientes para la aplicacion.
+
+
+Entrevista 2: Edery Vicente
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/heuristicas/EderyEspecialista.PNG?raw=true)
+- Edad: 25
+- Timing: 4:21
+- Resumen: Edery nos comenta que cambiaría la paleta de colores ya que siente que es muy oscura en comparación a los cultivos que son verdes y llenos de vida. También nos indica añadir una función de fechas, específicamente una alerta sobre la fecha de cuando terminará un proyecto.
+
+
+Entrevista 3: Kayacza Molero
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/heuristicas/kayaczaAgricultora.PNG?raw=true)
+- Edad: 25
+- Timing: 8:44
+- Resumen: Kayacza nos comenta que cambiaría la paleta de colores por más verdes y claros. Nos indica que quisiera añadir una función de que al momento de añadir un cultivo, salga una advertencia de cuales son las estaciones que se recomiendan plantar.
+
+Entrevista 4:Erick Joaquin
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/entrevistas/erick.PNG?raw=true)
+- Edad: 26
+- Timing: 14:40
+- Resumen: Nuestro entrevistado comenta le gustó las funcionalidades de la aplicación. Erick nos comenta que es posible mejorar el chat y la vista del perfil
+
+Entrevista 5: Richard Romero
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/entrevistas/richard.PNG?raw=true)
+- Edad: 29
+- Timing: 18:12
+- Resumen: Richard nos comenta que la aplicación le parece genial. Lo que más le fascina es poder revisar los proyectos asignados a sus cultivos y saber las fechas en las que debería realizar ciertas actividades. Recomienda que el usuario pueda personalizar los colores de la aplicación.
+
+Entrevista 6: Jhan
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/jhan.PNG?raw=true)
+- Edad: 31
+- Timing: 28:30
+- Resumen: Nos comenta que la aplicación le parece genial, los colores son neutrales y le parecen correctos. Mejorar la bista de proyectos del lado de los agricultores, que sea más entendible y amigable.
+
+
+### 6.3.3 Evaluación según heurísticas
+
+**Carrera:** Ingenieria de Software
+**Curso:** Desarrollo de soluciones IoT
+**Sección:** SW71
+**Profesor:** Angel Augusto Velasquez Núñez
+**Auditor:** DevIoT Team
+**Clientes:**
+
+**Site o App a evaluar**
+AgriPure
+
+**Tareas a evaluar:**
+- Vista de cultivos
+- Vista de especialistas
+- Chat
+
+**Escala de severidad**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Descripción|
+|-----|-----------|
+|1|Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4| Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento|
+
+**Tabla de resumen**
+
+|#|Problema|Escala de severidad|Heurística/Principio Violado|
+|-|--------|-------------------|----------------------------|
+|1|Colores muy oscuros|2|Cambio de paleta de colores|
+
+
+
+
+**Descripción de problemas:**
+
+## Problema #1
+
+## Severidad:  2
+
+## Problema:
+Colores muy oscuros, no tiene nada que ver con cultivos o gente que se relaciona con estas actividades
+## Recomendación:
+Hacer un cambio en la paleta de colores, de modo que se sientas colores más vivos e intensos
+
+
+## 6.4 Video About-the-Product
+
+A continuacion, se hara presente el video sobre el producto desarrollado.
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EZVsfhRYANJPvaYVoukXz7gBXOVAyg3cGCnz3JaWfDRESg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=yhmgl3 ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EZVsfhRYANJPvaYVoukXz7gBXOVAyg3cGCnz3JaWfDRESg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=yhmgl3 )
 
 ## Conclusiones
 
 - La creación de repositorios en GitHub y su alojamiento en la nube permite que todos los miembros del equipo interactúen directamente con los avances desarrollados, lo que facilita la identificación de avances y futuras incorporaciones de programacion.
 - Las entrevistas de validación son esenciales para que el equipo de desarrollo pueda identificar errores que solo son perceptibles para personas externas al proceso de desarrollo, como los posibles usuarios.
 - Mejorar la comunicación es una de las ventajas de utilizar herramientas colaborativas, ya que facilitan la interacción efectiva y fluida entre los integrantes del equipo, lo que simplifica la discusión de ideas, la resolución de problemas y la toma de decisiones.
+- Es bueno dividir la colaboración del código en ramas para evitar futuros conflictos en el desarrollo del proyecto.
 
+## Video About the Team
+
+Enlace al video About the Team: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EcKSOHVbZxZGlaUMmQlyXx8BQ1Bl8ke17cCJJ_PQq1sbMQ?e=g4aaGj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EcKSOHVbZxZGlaUMmQlyXx8BQ1Bl8ke17cCJJ_PQq1sbMQ?e=g4aaGj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ## Anexos
 
@@ -2244,7 +2600,13 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 | Vídeo exposición TB1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 | 
 |-----------|-----------|
 | Vídeo exposición TP |  | 
+| Vídeo exposición TB2 |[https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/ETXu-QHum1NIv9aGwc8z4O8BfGc2yLVotNIQqyGKrPX3Sw?e=Z41cwS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/ETXu-QHum1NIv9aGwc8z4O8BfGc2yLVotNIQqyGKrPX3Sw?e=Z41cwS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) |   
 
+
+**ANEXO C: ENTREVISTAS**
+|Entrevistas de validación|[https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EWgjv263DnNFi8zNEpUPJcQBydZKlJ5WawkpzaUQERZagQ?e=cCY20w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EWgjv263DnNFi8zNEpUPJcQBydZKlJ5WawkpzaUQERZagQ?e=cCY20w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)|
+|-|-|    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzE1NTUxMCwyODg5MjAzMzJdfQ==
+eyJoaXN0b3J5IjpbOTYwMjE2NTc3XX0=
 -->
+
