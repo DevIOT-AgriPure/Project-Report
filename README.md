@@ -208,16 +208,16 @@ En este entregable nos enfocamos en el desarrollo del Frontend y Backend. A su v
           - [6.2.1.6. Services Documentation Evidence for Sprint Review](#6216-services-documentation-evidence-for-sprint-review)
           - [6.2.1.7. Software Deployment Evidence for Sprint Review](#6217-software-deployment-evidence-for-sprint-review)
           - [6.2.1.8. Team Collaboration Insights During Sprint](#6218-team-collaboration-insights-during-sprint)
-		- [6.2.2. Sprint 2]($621-sprint-2)
-		  - [6.2.2.1 Sprint Planning 1](#6211-sprint-planning-1)
-          - [6.2.2.2 Sprint Backlog 1](#6212-sprint-backlog-1)
-          - [6.2.2.3. Development Evidence for Sprint Review](#6213-development-evidence-for-sprint-review)
-          - [6.2.2.4. Testing Suite Evidence for Sprint Review](#6214-testing-suite-evidence-for-sprint-review)
-          - [6.2.2.5. Execution Evidence for Sprint Review](#6215-execution-evidence-for-sprint-review)
-          - [6.2.2.6. Services Documentation Evidence for Sprint Review](#6216-services-documentation-evidence-for-sprint-review)
-          - [6.2.2.7. Software Deployment Evidence for Sprint Review](#6217-software-deployment-evidence-for-sprint-review)
-          - [6.2.2.8. Team Collaboration Insights During Sprint](#6218-team-collaboration-insights-during-sprint)
-
+		- [6.2.2. Sprint 2](#621-sprint-2)
+		  - [6.2.2.1 Sprint Planning 1](#6221-sprint-planning-2)
+          - [6.2.2.2 Sprint Backlog 1](#6222-sprint-backlog-2)
+          - [6.2.2.3. Development Evidence for Sprint Review](#6223-development-evidence-for-sprint-review)
+          - [6.2.2.4. Testing Suite Evidence for Sprint Review](#6224-testing-suite-evidence-for-sprint-review)
+          - [6.2.2.5. Execution Evidence for Sprint Review](#6225-execution-evidence-for-sprint-review)
+          - [6.2.2.6. Services Documentation Evidence for Sprint Review](#6226-services-documentation-evidence-for-sprint-review)
+          - [6.2.2.7. Software Deployment Evidence for Sprint Review](#6227-software-deployment-evidence-for-sprint-review)
+          - [6.2.2.8. Team Collaboration Insights During Sprint](#6228-team-collaboration-insights-during-sprint)
+	 - [6.3 Validation Interviews](#63-validation-interviews)
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -2505,19 +2505,19 @@ Entrevista 3: Kayacza Molero
 - Resumen: Kayacza nos comenta que cambiaría la paleta de colores por más verdes y claros. Nos indica que quisiera añadir una función de que al momento de añadir un cultivo, salga una advertencia de cuales son las estaciones que se recomiendan plantar.
 
 Entrevista 4:Erick Joaquin
-![]()
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/entrevistas/erick.PNG?raw=true)
 - Edad: 26
 - Timing: 14:40
 - Resumen: Nuestro entrevistado comenta le gustó las funcionalidades de la aplicación. Erick nos comenta que es posible mejorar el chat y la vista del perfil
 
 Entrevista 5: Richard Romero
-![]()
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/entrevistas/richard.PNG?raw=true)
 - Edad: 29
 - Timing: 18:12
 - Resumen: Richard nos comenta que la aplicación le parece genial. Lo que más le fascina es poder revisar los proyectos asignados a sus cultivos y saber las fechas en las que debería realizar ciertas actividades. Recomienda que el usuario pueda personalizar los colores de la aplicación.
 
 Entrevista 6: Jhan
-![]()
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/jhan.PNG?raw=true)
 - Edad: 31
 - Timing: 28:30
 - Resumen: Nos comenta que la aplicación le parece genial, los colores son neutrales y le parecen correctos. Mejorar la bista de proyectos del lado de los agricultores, que sea más entendible y amigable.
@@ -2586,6 +2586,8 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 ## Video About the Team
 
+Enlace al video About the Team: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EcKSOHVbZxZGlaUMmQlyXx8BQ1Bl8ke17cCJJ_PQq1sbMQ?e=g4aaGj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EcKSOHVbZxZGlaUMmQlyXx8BQ1Bl8ke17cCJJ_PQq1sbMQ?e=g4aaGj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
 ## Anexos
 
 **ANEXO A: Product Backlog**
@@ -2600,7 +2602,9 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 | Vídeo exposición TP |  | 
 | Vídeo exposición TB2 |[https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/ETXu-QHum1NIv9aGwc8z4O8BfGc2yLVotNIQqyGKrPX3Sw?e=Z41cwS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/ETXu-QHum1NIv9aGwc8z4O8BfGc2yLVotNIQqyGKrPX3Sw?e=Z41cwS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) |   
 
-    
+**ANEXO C: ENTREVISTAS**
+|Entrevistas de validación|[https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EWgjv263DnNFi8zNEpUPJcQBydZKlJ5WawkpzaUQERZagQ?e=cCY20w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EWgjv263DnNFi8zNEpUPJcQBydZKlJ5WawkpzaUQERZagQ?e=cCY20w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)|
+|-|-|    
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTYwMjE2NTc3XX0=
 -->
