@@ -75,6 +75,7 @@ En este entregable nos enfocamos en el desarrollo del Frontend y Backend. A su v
 | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.   | Andres Reynoso (TB1): Para este entregable he definido en equipo el desarrollo de mi startup utilizando múltiples métodos aprendidos como entrevistas, lean UX, etc.Frank Alva (TB1): Para esta primera entrega he definido como equipo qué secciones voy a desarrollar dentro del proyecto, además he aplicado diversas metodologías para una eficacia y eficiencia dentro del proyecto.Diego Talledo (TB1): En nuestra primera entrega, hemos realizado las distribuciones y planificaciones de las sesiones en las que trabajamos en equipo principalmente en el eventStorming.Franchesco Soto (TB1): He definido al equipo y he distribuido las tareas. Andres Reynoso (TP): Para este entregable hemos desarrollado en equipo mi primer avance de la Landing Page, al igual que de nuestra Web Application, para esto hemos utilizado múltiples métodos aprendidos como wireframes y mockups, y el desarrollo de mi primer sprint. Diego Talledo(TP) En estre entregable me encargue de la correcciondel informe, desarrollo de artefactos como lo fueron los mockups y coordinacion de las reuniones y desarrollo de la aplicacion web. Franchesco Soto(TP): Cumplí con las tareas que se me asignaron. A su vez, ayudé al resto de miembros del equipo con sus dudas. Andres Reynoso (TB2): En este entregable me encargue de las correcciones de los entregables anteriores, al igual que ayudar a mi eequipo con el desarrollo de backeend. Franchesco Soto(TB2): Comuniqué mis avances y ayudé en la delegación de tareas a cada integrante del equipo. Diego Talledo(TB2): Organicé la delegación de tareas y comuniqué cualquier actualización sobre el proyecto con el resto del equipo | TB1: En resumen, en esta primera etapa de desarrollo de la startup, el equipo liderado por Diego Talledo ha empleado una variedad de métodos, incluyendo entrevistas y Lean UX, para planificar y definir las secciones clave del proyecto. Han aplicado metodologías con el objetivo de lograr eficacia y eficiencia, y se han distribuido las tareas entre los miembros del equipo. Este enfoque multifacético refleja un esfuerzo integral para establecer una base sólida para el proyecto y garantizar una planificación efectiva. TP: Hemos logrado avances significativos en el desarrollo de la Landing Page y la Web Application, al igual que aplicar una serie de métodos y técnicas aprendidas, incluyendo la creación de wireframes y mockups. TB2: Logramos avances en el FrontEnd y Backend para un primer despliegue. También hemos hecho un avance inicial sobre el dispositivo IoT con el que se comunicará nuestra aplicación    |
 | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.    |Andres Reynoso (TB1): Con la ayuda de las entrevistas, pude entender cómo trabajan mi segmento objetivo, siendo capaz de ponerme en sus zapatos y analizar sus metas y preocupaciones.Frank Alva (TB1): Al analizar mi segmento objetivo, entrevistas y desarrollando mi user persona pude conocer mejor el ámbito empresarial del transporte.Diego Talledo (TB1): Al realizar la entrevista logré identificar a mi usuario, analizar sus requerimientos y sus expectativas.Franchesco Soto (TB1): Pude conocer más sobre mi segmento objetivo al realizar la entrevista.Andres Reynoso (TP): Con el desarrollo de los wireframes y mockups, he entendido y pensado cómo se sentiría mi segmento objetivo al usar mi aplicación. Franchesco Soto(TP): Las entrevistas me ayudaron a conocer el sector al que nos estamos enfocando, para desarrollar una aplicación de calidad. Diego Talledo (TP): Atraves de la maquetacion de la aplicacion logre entender como nuestros usuarios sentiran la interaccion con nuestra aplicacion. Andres Reynoso (TB2): Gracias a la coordinacion y trabajo en equipo pudimos llevar a cabo el desarrollo de nuestro segundo sprint. Franchesco Soto(TB2): Realicé las entrevistas a distintos sectores a los cuales nuestra aplicación está dirigida y pude conocer más sobre sus preferencias. Diego Talledo(TB2): Desarrollé las heurísticas y pude aprender más sobre los sectores a quienes estamos dirigidos| TB1: A través de este proceso, hemos adquirido un conocimiento más profundo del ámbito empresarial y hemos identificado las expectativas de sus usuarios, sentando así una base sólida para el desarrollo de su proyecto. TP: En el proceso de desarrollo de los wireframes y mockups, hemos logrado una comprensión más profunda de cómo nuestros segmentos objetivo se sentirían al utilizar nuestra aplicación. Esta etapa nos ha permitido poner en práctica no solo nuestras habilidades técnicas, sino también nuestra empatía hacia los usuarios. TB2: Al desarrollar las entrevistas de validación hemos podido entender de mejor manera como nuestros usuarios quieren el diseño de nuestra aplicación, para que esta sea más amigable con ellos|
 
+
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -601,11 +602,13 @@ Entrevista #2:
 
 ### 2.2.3. Análisis de entrevistas.
 
-Habiendo realizado nuestras entrevistas, hemos llegado a estas conclusiones, el 100% de nuestros usuarios son peruanos y rondan por las edades entre 20 y 55 años, de igual manera nos demuestran que conocen sobre el uso de redes sociales y cada uno de ellos dispone de un aparto tecnologico, del cual un 80% utiliza dispositivos Android mientras que el 20% usa tecnologias iOS.
+Habiendo realizado nuestras entrevistas, hemos llegado a estas conclusiones, el 100% de nuestros usuarios son peruanos y rondan por las edades entre 20 y 50 años, de igual manera nos demuestran que conocen sobre el uso de redes sociales y cada uno de ellos dispone de un aparto tecnologico, del cual un 80% utiliza dispositivos Android mientras que el 20% usa tecnologias iOS.
 
 En base a los agricultores entrevistados, estos valoran sus conocimientos agrícolas, pero buscan soluciones tecnológicas que les ayuden a optimizar sus procesos y afrontar desafíos como la conectividad irregular, la necesidad de pronósticos climáticos y la falta de conocimientos agrícolas entre los jóvenes. Ven con interés la idea de una aplicación integral que les brinde información precisa y herramientas para mejorar la gestión de sus cultivos, reconociendo su dependencia económica de la agricultura y su deseo de mantenerse a la vanguardia de las prácticas agrícolas.
 
 En base a los especialistas entrevistados, ellos valoran y aprecian sus conocimientos en base a la agricultura, pero tienen el deseo de ayudar a otros agricultores con sus cultivos, brindarles tips, etc. Siempre tienen el interes y motivacion de encontrar una aplicacion que le pueda ayudar a buscar agricultores que necesiten ayuda suya.
+
+![Grafico](https://media.discordapp.net/attachments/1043142986512474153/1169676871546445924/BCjoOvI5BT30zkZEjiWA2DymZ8eavkdNo3BxLh9Rc2YIchg2hkGVpJgYLeSoB8nATCRYCCHi6yGiyXgq5Bp8SeSRT02PMZLdYJAQq6ThzNZpIACZAACcQ3AQp6fPuXrSMBEiABEtAJAQq6ThzNZpIACZAACcQ3AQp6fPuXrSMBEiABEtAJAQq6ThzNZpIACZAACcQ3AQp6fPuXrSMBEiABEtAJAQq6ThzNZpIACZAACcQ3AQp6fPuXrSMBEiABEtAJAQq6ThzNZpIACZAACcQ3AQp6fPuXrSMBEiABEtAJAQq6ThzNZpIACZAACcQ3AQp6fPuXrSMBEiABEtAJgf8HQnqBu4WZ6gwAAAAASUVORK5CYII.png?ex=65564579&is=6543d079&hm=b04e006d8ede21eeb43d6cbfba27f7a41f680d366eea1d9cd1cde32a0fcca8be&=)
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
@@ -673,15 +676,11 @@ El As-Is Scenario Map es una representación visual que describe y documenta de 
 
 ***Segmento 1: Agricultores***
 
-| Steps | Busca informacion sobre agricultura | Encuentra mucha informacion esparcida por internet | Ingresa a un enlace de internet | Obtiene cierta informacion | 
-| -------------- | -------------- | -------------- | -------------- | -------------- | 
-| Doing | Investiga sobre superficies y cultivos e ingresa desde anuncios publicitarios  | La informacion esta desordenada | Prueba lo que leyo en internet | Experimenta con sus cultivos
-| Thinking | Donde puedo dejar crecer mis cultivos? | Es demasiada informacion, por donde empiezo? | Estare haciendo lo correcto? | Ojala mis cultivos permanezcan fructiferos | 
-| Feeling | Dudoso | Frustrado | Inseguro | Ansioso |  
+![As Is Agricultores](https://media.discordapp.net/attachments/1043142986512474153/1169683185337110678/Flowchart.jpg?ex=65564b5b&is=6543d65b&hm=bdeda38ee278a523f827f5912618d1686507991aa015bb1819a4597959e31d14&=&width=1058&height=540)
 
 ***Segmento 2: Especialistas***
 
-| Steps | Descubrimiento e interes | Investiga por internet | Ingresa a un enlace de internet | Obtiene cierta informacion | 
+![As Is Specialist](https://media.discordapp.net/attachments/1043142986512474153/1169684495193096242/Flowchart_1.jpg?ex=65564c93&is=6543d793&hm=ac70bdf0f68ed4647a6a84117453bc08f2aebac119e77529a7114914e3eb3224&=&width=1193&height=577)| Steps | Descubrimiento e interes | Investiga por internet | Ingresa a un enlace de internet | Obtiene cierta informacion | 
 | -------------- | -------------- | -------------- | -------------- | -------------- | 
 | Doing | El especialista se cuestiona si podria enseñar sus capacidades a otros agricultores | El especialista busca por internet formas de contactarse con otros agricultores | El especialista ingresa a una pagina comun y corriente | El especialista no recibe ningun contacto, ya que la mayoria de los usuarios no estan interesados en agricultura.
 | Thinking | Como sere capaz de apoyar a otros agricultores? | No veo muchas paginas buenas | Supongo que podre registrarme aqui | No hay nadie que me contacte | 
@@ -2038,6 +2037,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
   | User Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155583194188480554/image.png) |    
 
 ##- 5.5. Applications Prototyping.
+	Enlace: https://www.figma.com/proto/Mhmi5BLMyg93FsEgdl1Cwx/Mobile-App?type=design&node-id=95-4&t=8icZvZMkEscT3mrz-1&scaling=scale-down&page-id=95%3A3&starting-point-node-id=95%3A4&show-proto-sidebar=1&mode=design 
   
   # Capítulo VI: Product implementation, Validation & Deployment
 ## 6.1 Software Configuration Management
@@ -2602,9 +2602,11 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 | Vídeo exposición TP |  | 
 | Vídeo exposición TB2 |[https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/ETXu-QHum1NIv9aGwc8z4O8BfGc2yLVotNIQqyGKrPX3Sw?e=Z41cwS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/ETXu-QHum1NIv9aGwc8z4O8BfGc2yLVotNIQqyGKrPX3Sw?e=Z41cwS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) |   
 
+
 **ANEXO C: ENTREVISTAS**
 |Entrevistas de validación|[https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EWgjv263DnNFi8zNEpUPJcQBydZKlJ5WawkpzaUQERZagQ?e=cCY20w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EWgjv263DnNFi8zNEpUPJcQBydZKlJ5WawkpzaUQERZagQ?e=cCY20w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)|
 |-|-|    
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTYwMjE2NTc3XX0=
 -->
+
