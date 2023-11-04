@@ -2504,9 +2504,24 @@ Entrevista 3: Kayacza Molero
 - Timing: 8:44
 - Resumen: Kayacza nos comenta que cambiaría la paleta de colores por más verdes y claros. Nos indica que quisiera añadir una función de que al momento de añadir un cultivo, salga una advertencia de cuales son las estaciones que se recomiendan plantar.
 
-Entrevista 4:
+Entrevista 4:Erick Joaquin
+![]()
+- Edad: 26
+- Timing: 14:40
+- Resumen: Nuestro entrevistado comenta le gustó las funcionalidades de la aplicación. Erick nos comenta que es posible mejorar el chat y la vista del perfil
 
-Entrevista 5:
+Entrevista 5: Richard Romero
+![]()
+- Edad: 29
+- Timing: 18:12
+- Resumen: Richard nos comenta que la aplicación le parece genial. Lo que más le fascina es poder revisar los proyectos asignados a sus cultivos y saber las fechas en las que debería realizar ciertas actividades. Recomienda que el usuario pueda personalizar los colores de la aplicación.
+
+Entrevista 6: Jhan
+![]()
+- Edad: 31
+- Timing: 28:30
+- Resumen: Nos comenta que la aplicación le parece genial, los colores son neutrales y le parecen correctos. Mejorar la bista de proyectos del lado de los agricultores, que sea más entendible y amigable.
+
 
 ### 6.3.3 Evaluación según heurísticas
 
@@ -2583,7 +2598,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 | Vídeo exposición TB1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 | 
 |-----------|-----------|
 | Vídeo exposición TP |  | 
-| Vídeo exposición TB2 | |   
+| Vídeo exposición TB2 |[https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/ETXu-QHum1NIv9aGwc8z4O8BfGc2yLVotNIQqyGKrPX3Sw?e=Z41cwS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/ETXu-QHum1NIv9aGwc8z4O8BfGc2yLVotNIQqyGKrPX3Sw?e=Z41cwS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) |   
 
     
 <!--stackedit_data:
