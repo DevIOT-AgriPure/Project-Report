@@ -2344,7 +2344,9 @@ En el presente sprint se delegaron las tareas a los distintos miembros del equip
 
   | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
   |------------|--------|-----------|----------------|---------------------|---------------|
-
+  |------------|--------|-----------|----------------|---------------------|---------------|
+  | Agripure-Landing-Page|main| 20b77b8dd8623a1e07229f741926404efe09806a|first scenario|| 25/09/2023|
+  |Agripure-Landing-Page|main|7ff27918981f92c6ed9717d5a03cc22849865d83|add: 2 ,3 ,4 scenarios|26/09/2023           |        |           |                |                     |               |
     
 ####  6.2.2.5. Execution Evidence for Sprint Review
 
@@ -2366,7 +2368,7 @@ Vista de proyectos asignados a farmer:
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/projectFarmer.PNG?raw=true)
 nlace l rontEnd:**[https://agripure-web.netlify.app](https://agripure-web.netlify.app)
 
-**Enlace al video:**
+**Enlace al video:** ![https://upcedupe-my.sharepoint.com/personal/u202017388_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202017388%5Fupc%5Fedu%5Fpe%2FDocuments%2FaboutTheProduct%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview](https://upcedupe-my.sharepoint.com/personal/u202017388_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202017388%5Fupc%5Fedu%5Fpe%2FDocuments%2FaboutTheProduct%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
@@ -2533,12 +2535,14 @@ Hacer un cambio en la paleta de colores, de modo que se sientas colores más viv
 ## 6.4 Video About-the-Product
 
 A continuacion, se hara presente el video sobre el producto desarrollado.
+![https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EZVsfhRYANJPvaYVoukXz7gBXOVAyg3cGCnz3JaWfDRESg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=yhmgl3 ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EZVsfhRYANJPvaYVoukXz7gBXOVAyg3cGCnz3JaWfDRESg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=yhmgl3 )
 
 ## Conclusiones
 
 - La creación de repositorios en GitHub y su alojamiento en la nube permite que todos los miembros del equipo interactúen directamente con los avances desarrollados, lo que facilita la identificación de avances y futuras incorporaciones de programacion.
 - Las entrevistas de validación son esenciales para que el equipo de desarrollo pueda identificar errores que solo son perceptibles para personas externas al proceso de desarrollo, como los posibles usuarios.
 - Mejorar la comunicación es una de las ventajas de utilizar herramientas colaborativas, ya que facilitan la interacción efectiva y fluida entre los integrantes del equipo, lo que simplifica la discusión de ideas, la resolución de problemas y la toma de decisiones.
+- Es bueno dividir la colaboración del código en ramas para evitar futuros conflictos en el desarrollo del proyecto.
 
 ## Video About the Team
 
@@ -2554,7 +2558,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 | Vídeo exposición TB1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 | 
 |-----------|-----------|
 | Vídeo exposición TP |  | 
-| Vídeo exposición TB2 ||   
+| Vídeo exposición TB2 | |   
 
     
 <!--stackedit_data:
