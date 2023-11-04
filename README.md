@@ -63,7 +63,10 @@ Desarrollo del equipo durante la TP:
 
 ![Commits](https://media.discordapp.net/attachments/912089666939916348/1156422129747775518/image.png?ex=6514e989&is=65139809&hm=c2596e83b06be3b4cf50eb235c4698da63d51a6b8ce620c34be569568ad4cbc0&=&width=1440&height=614)
 
-Para este entregable, nuestro equipo se ha dividido cada uno las correcciones de los capitulos anteriores, corrigiendo todos los puntos indicados por la rubrica, a su vez, hemos iniciado con la documentacion de nuestro TP, dividiendonos los puntos del capitulo 5 entre cada uno de nosotros, al igual que para el desarrollo de la Landing Page y el primer avance de nuestra Aplicacion Web.
+Desarrollo del equipo durante la TB2:
+![Commits](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/commitsTB2.PNG?raw=true)
+
+En este entregable nos enfocamos en el desarrollo del Frontend y Backend. A su vez, también se inició un proyecto en Wokwi para la futura integración de dispositivos IoT con nuestra plataforma
 
 # Student Outcome
 
@@ -205,6 +208,15 @@ Para este entregable, nuestro equipo se ha dividido cada uno las correcciones de
           - [6.2.1.6. Services Documentation Evidence for Sprint Review](#6216-services-documentation-evidence-for-sprint-review)
           - [6.2.1.7. Software Deployment Evidence for Sprint Review](#6217-software-deployment-evidence-for-sprint-review)
           - [6.2.1.8. Team Collaboration Insights During Sprint](#6218-team-collaboration-insights-during-sprint)
+		- [6.2.2. Sprint 2]($621-sprint-2)
+		  - [6.2.2.1 Sprint Planning 1](#6211-sprint-planning-1)
+          - [6.2.2.2 Sprint Backlog 1](#6212-sprint-backlog-1)
+          - [6.2.2.3. Development Evidence for Sprint Review](#6213-development-evidence-for-sprint-review)
+          - [6.2.2.4. Testing Suite Evidence for Sprint Review](#6214-testing-suite-evidence-for-sprint-review)
+          - [6.2.2.5. Execution Evidence for Sprint Review](#6215-execution-evidence-for-sprint-review)
+          - [6.2.2.6. Services Documentation Evidence for Sprint Review](#6216-services-documentation-evidence-for-sprint-review)
+          - [6.2.2.7. Software Deployment Evidence for Sprint Review](#6217-software-deployment-evidence-for-sprint-review)
+          - [6.2.2.8. Team Collaboration Insights During Sprint](#6218-team-collaboration-insights-during-sprint)
 
 
 # Capítulo I: Introducción
@@ -2346,7 +2358,6 @@ En el presente sprint se delegaron las tareas a los distintos miembros del equip
 
   | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
   |------------|--------|-----------|----------------|---------------------|---------------|
-  |------------|--------|-----------|----------------|---------------------|---------------|
   | Agripure-Landing-Page|main| 20b77b8dd8623a1e07229f741926404efe09806a|first scenario|| 25/09/2023|
   |Agripure-Landing-Page|main|7ff27918981f92c6ed9717d5a03cc22849865d83|add: 2 ,3 ,4 scenarios|26/09/2023           |        |           |                |                     |               |
     
@@ -2379,11 +2390,23 @@ nlace l rontEnd:**[https://agripure-web.netlify.app](https://agripure-web.netlif
 BackEnd
 Se logró implementar la mayoría de endpoints acordados, a continuación se muestra la documentación implementada con la herramienta de Swagger:
 
+|Controlador|Variable que usa|Retorno|
+|-----------|----------------|-------|
+|Account|Un formulario de registro|Mensaje si la cuenta fue creada|
+|Account|Formulario de logeo|Token para la autenticación|
+|Crop|Formulario de creación de un crop|Mensaje si fue creado exitosamente|
+|Crop|Id de un cultivador|Lista de crops de acuerdo al id dado|
+|CropReport|Formulario de creación de crop report|Mensaje de confirmación|
+|CropReport|Id del crop|Retornar una lista de crop reports que pertenecen a un crop|
+|CropReport|Id del crop report|Retornar un crop report de acuerdo al Id dado|
+
+
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger1.PNG?raw=true)
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger2.PNG?raw=true)
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger3.PNG?raw=true)
 
 **Documentacion del BackEnd:**[ttps://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.html](https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.htmln) 
+**Enlace al repositorio del BackEnd:** [https://github.com/DevIOT-AgriPure/AgriPure-BackEnd](https://github.com/DevIOT-AgriPure/AgriPure-BackEnd)
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -2432,7 +2455,7 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/EjecutamoslaApi.jpg?raw=true)
 
 
-#### 6.2.2.2. Team Collaboration Insights During Sprint
+#### 6.2.2.8. Team Collaboration Insights During Sprint
 
 Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sprint, a continuación se muestra la colaboración utilizando la herramienta de GitHub Insights: 
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/InsightBackend.PNG?raw=true)
