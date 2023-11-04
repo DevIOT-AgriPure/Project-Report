@@ -2305,8 +2305,8 @@ En el presente sprint se delegaron las tareas a los distintos miembros del equip
 - Sprint Goal & User Stories
     | Sprint Goal 2                  | Implementar mejoras del Front End, implementación del BackEnd |
     |---------------------------------| ------------------------------------------------------------------------------------------------|
-    | Sprint 2  Velocity               |     45                                                                  |
-    | Sum of story  points             |      41                                                                   |
+    | Sprint 2  Velocity               |     42                                                                  |
+    | Sum of story  points             |      42                                                                   |
 #### 6.2.2.2 Sprint Backlog 2
         
 - Sprint #: 2
@@ -2575,7 +2575,7 @@ Hacer un cambio en la paleta de colores, de modo que se sientas colores más viv
 ## 6.4 Video About-the-Product
 
 A continuacion, se hara presente el video sobre el producto desarrollado.
-![https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EZVsfhRYANJPvaYVoukXz7gBXOVAyg3cGCnz3JaWfDRESg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=yhmgl3 ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EZVsfhRYANJPvaYVoukXz7gBXOVAyg3cGCnz3JaWfDRESg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=yhmgl3 )
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EZVsfhRYANJPvaYVoukXz7gBXOVAyg3cGCnz3JaWfDRESg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=yhmgl3 ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EZVsfhRYANJPvaYVoukXz7gBXOVAyg3cGCnz3JaWfDRESg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=yhmgl3 )
 
 ## Conclusiones
 
