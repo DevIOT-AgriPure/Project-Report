@@ -2461,6 +2461,85 @@ Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sp
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/InsightBackend.PNG?raw=true)
 
 
+#### 6.2.3.1 Sprint Planning 3
+
+- Sprint #: 3
+- Spring Planning Background
+    | Date                            | 23/10/2023                                                   |
+    |---------------------------------|--------------------------------------------------------------|
+    | Time                            | 5pm                                                          |
+    | Location                        | Llamada en discord                                           |
+    | Prepared By                     | Talledo, Diego                                               |
+    | Attendees (to planning meeting) | Soto, Franchesco Reynoso, Andrés Palomino, Bruno Alva, Frank |
+- Sprint Goal & User Stories
+    | Sprint Goal 2                  | Implementar mejoras del Front End, implementación del BackEnd |
+    |---------------------------------| ------------------------------------------------------------------------------------------------|
+    | Sprint 2  Velocity               |     42                                                                  |
+    | Sum of story  points             |      42                                                                   |
+#### 6.2.3.2 Sprint Backlog 3
+        
+- Sprint #: 3
+        
+
+
+#### 6.2.3.3. Development Evidence for Sprint Review
+
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
+|------------|--------|-----------|----------------|----------------------|--------------|
+|AgriPure-BackEnd|feat/account|bbc3414b6bb918c0bd1c052c2fb1602ee61b7aa8|feat(account):add jwt||18/10/2023|
+|AgriPure-BackEnd|feat/notifications|32a5848dd4442e2d32b35e475f638caba877fab4|feat(notification): created NotificationRepository||19/10/2023|
+|AgriPure-BackEnd|feat/profile|e0ab1386a6c8eaa83b6528e3958fd806a494e26c|Fixed estructure||19/10/2023|
+|AgriPure-BackEnd|feat/notification|30d795ad5303eb158c143caf21e5ecad4621fa3a|feat(notification): created NotificationCommand||19/10/2023|
+|AgriPure-BackEnd|feat/crop|82fdf3099974b1e410f42ccac996d0af6784c0b7|feat(crop):add crop entity||20/10/2023|
+|AgriPure-BackEnd|feat/crop|4e691868f5bf5dfe60a458a1a45452a82a41e793|feat(crop):add crop services||20/10/2023|
+|AgriPure-BackEnd|feat/profile|b055848cbf4e5ed4bcffe850a36acad8c5f1a31c|Fixed estructure, has errors||23/10/2023|
+|AgriPure-BackEnd|feat/crop|8ed8f883b21d2506f253ea25e7ae2e16c8a80e7b|Add crop controller||23/10/2023|
+|AgriPure-BackEnd|feat/profile|ef7b0a341a15e918e300b8ce1ee0ae2b62dac137|Service Fixed||24/10/2023|
+|AgriPure-BackEnd|feat/notification|86ad4d63db6ce5907b144ed85f07c225c6da2e10|feat(notification): add queries methods||27/10/2023|
+|AgriPure-BackEnd|feat/advisory|4cbe43be4935876aac97fdbc89b64e7a3e2d0ff6|feat(advisory):add project entity||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|0742cc185fe97221c6d35c3791d7e139adfdf511|feat(advisory):add project activity entitty||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|dd107e9bc50208c1617c9bf3a6fcc21290e59b09|feat(advisory):add commands for project and activity||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|bb6493a5fca47f2f034e054f81bde3f4a1ada743|feat(advisory-management): message comand interfaces created||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|0c031ff3d2d24e75f483d9acc806ca7571d1024f|feat(advisory):add service interfaces for activity and project||28/10/2023|
+|AgriPure-BackEnd|develop|6c7f67f1a8a90d6060d6fbb0e27d8b105e35075a|add dependencies security||28/10/2023|
+|AgriPure-BackEnd|develop|2b34bb0a325106c0da0b2ddb54be8933ab116355|add new dependencies||28/10/2023|
+|AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
+|AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
+|AgriPure-Landing-Page|main|132a4b1d162d1b6262ea8fb6c0a10f49d8fe9b59|feat: Added Call to Action||10/10/2023|
+|AgriPure-Landing-Page|main|7ac50b1163e8a10e09d3701ca46ca9761484f611|feat: Update index.html||10/10/2023|
+|AgriPure-Landing-Page|main|55c1a05f0385489384e21aba24c64782f913663a|feat: Added Multilanguage feature, as well as adding spaces for videos||31/10/2023|
+
+
+
+
+####  6.2.3.4. Testing Suite Evidence for Sprint Review
+
+
+####  6.2.3.5. Execution Evidence for Sprint Review
+
+
+#### 6.2.3.6. Services Documentation Evidence for Sprint Review
+
+
+#### 6.2.3.7. Software Deployment Evidence for Sprint Review
+
+Para el presente Sprint, se logró desplegar la segunda version de nuestra Landing Page y de nuestro FrontEnd. 
+
+**Landing Page:**
+
+
+ -  **Web application**
+
+
+ - **BackEnd Services**
+
+
+#### 6.2.3.8. Team Collaboration Insights During Sprint
+
+Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sprint, a continuación se muestra la colaboración utilizando la herramienta de GitHub Insights: 
+
 ## 6.3 Validation Interviews
 
 ### 6.3.1 Diseño de entrevistas
