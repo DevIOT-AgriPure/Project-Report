@@ -2089,23 +2089,23 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 ### 6.1.1 Software Development EnviromentConfiguration
   En esta sección vamos a definir las líneas base del sistema de la gestión de la configuración. A continuación, se definirán las aplicaciones que serán utilizadas para el desarrollo de nuestro proyecto.
 
-  - **LucidChart:** Aplicación web que se utilizará para creación de diagramas de clases. Podemos accedertravés del siguiente enlace: [https://www.lucidchacom/](https://www.lucidchart.com/
-  - **Structurizr:** Aplicación web que se utilizará pala creación del diagrama c4. Podemos acceder a travdel siguiente enlace: [https://structurizr.co(https://structurizr.com
-  - **UXPressia:** Aplicación web que se utilizará pala creación de artefactos Lean UX como User PersonUser Journey Maps, Empathy Maps, Impact Maps. Podemacceder a través de: [https://uxpressia.com/](httpsuxpressia.com
-  - **Trello:** Aplicación web que se utilizará para seguimiento de las historias de usuario en cada sprinPodemos acceder a través de: [https://trello.co(https://trello.com
-  - **Figma:** Aplicación web que se utilizará para creación de Wireframes y Mockups. También servirá pala creación de prototipos de nuestra aplicación wresponsive. Podemos acceder a través de: [https://figcom/](https://figma.com
-  - **Visual Studio Code:** Entorno de desarrollo (IDLque utilizaremos para trabajar en nuestro front-end nuestra aplicación web. Podemos descargarlo a travde: [https://code.visualstudio.com/](https://covisualstudio.com
-  - **Intellij Idea Ultima:** Entorno de desarrol(IDLE) que utilizaremos para trabajar en nuestback-end de nuestra aplicación web. Podemos descargara través de: [https://www.jetbrains.com/idea/downloasection=windows](https://www.jetbrains.com/iddownload/?section=window
+  - **LucidChart:** Aplicación web que se utilizará para creación de diagramas de clases. Podemos accedertravés del siguiente enlace: [https://www.lucidchacom/](https://www.lucidchart.com/)
+  - **Structurizr:** Aplicación web que se utilizará pala creación del diagrama c4. Podemos acceder a travdel siguiente enlace: [https://structurizr.com](https://structurizr.com)
+  - **UXPressia:** Aplicación web que se utilizará pala creación de artefactos Lean UX como User PersonUser Journey Maps, Empathy Maps, Impact Maps. Podemacceder a través de: [https://uxpressia.com/](httpsuxpressia.com)
+  - **Trello:** Aplicación web que se utilizará para seguimiento de las historias de usuario en cada sprinPodemos acceder a través de: [https://trello.com](https://trello.com)
+  - **Figma:** Aplicación web que se utilizará para creación de Wireframes y Mockups. También servirá pala creación de prototipos de nuestra aplicación wresponsive. Podemos acceder a través de: [https://figcom/](https://figma.com)
+  - **Visual Studio Code:** Entorno de desarrollo IDL que utilizaremos para trabajar en nuestro front-end nuestra aplicación web. Podemos descargarlo a travde: [https://code.visualstudio.com/](https://covisualstudio.com)
+  - **Intellij Idea Ultima:** Entorno de desarrol(IDLE) que utilizaremos para trabajar en nuestback-end de nuestra aplicación web. Podemos descargara través de: [https://www.jetbrains.com/idea/downloasection=windows](https://www.jetbrains.com/iddownload/?section=window)
   - **VueJs:** Framework de javascript que utilizarempara desarrollar nuestro front-end de nuestaplicación web. Requiere instalar previamente NodeJPodemos descargar NodeJs a través de: [https://nodeorg/es/](https://nodejs.org/es/). Luego, podreminstalar VueJs siguiendo las instrucciones instalación dadas en el siguiente enlace: [https://vuejs.org/v2/guide/installation.html](https://es.vueorg/v2/guide/installation.htm
   - **GitHub:** Aplicación web que utilizaremos para control de versiones de nuestro proyecto. Podemacceder a sus servicios a través de: [https://githcom/](https://github.com
-  - **Android Studio:** Entorno de desarrollo (IDLE) qutilizaremos para desarrollar nuestra aplicación móviPodemos acceder a través de: [https://developer.androcom/studgclid=CjwKCAjwmbqoBhAgEiwACIjzEALGhH7IKxVPgvmi7rUWtPaD-Bw3QZAltOFF2JEIJvrA-ftw-hRoCfvsQAvD_BwE&gclsrc=aw.(https://developer.android.com/studgclid=CjwKCAjwmbqoBhAgEiwACIjzEALGhH7IKxVPgvmi7rUWtPaD-Bw3QZAltOFF2JEIJvrA-ftw-hRoCfvsQAvD_BwE&gclsrc=aw.ds)
+  - **Android Studio:** Entorno de desarrollo (IDLE) qutilizaremos para desarrollar nuestra aplicación móviPodemos acceder a través de: [https://developer.androcom/studgclid=CjwKCAjwmbqoBhAgEiwACIjzEALGhH7IKxVPgvmi7rUWtPaD-Bw3QZAltOFF2JEIJvrA-ftw-hRoCfvsQAvD_BwE&gclsrc=aw.](https://developer.android.com/studgclid=CjwKCAjwmbqoBhAgEiwACIjzEALGhH7IKxVPgvmi7rUWtPaD-Bw3QZAltOFF2JEIJvrA-ftw-hRoCfvsQAvD_BwE&gclsrc=aw.ds)
 
 ### 6.1.2. Source Code Management
 
   Como se mencionó anteriormente, se utilizará GitHcomo sistema de control de versiones. Se han crearepositorios dentro de nuestra organización de GitHu
-  - Enlace al repositorio de la landing page: [httpsgithub.com/DevIOT-AgriPure/AgriPure-Landing-Pa(https://github.com/DevIOT-AgriPuAgriPure-Landing-Pag
-  - Enlace al repositorio de Front-End: [https://githcom/DevIOT-AgriPure/Agripure-Web-Application](httpsgithub.com/DevIOT-AgriPure/Agripure-Web-Applicatio
-  - Enlace al repositorio de Back-End: [https://githcom/DevIOT-AgriPure/AgriPure-WebServices](httpsgithub.com/DevIOT-AgriPure/AgriPure-WebService
+  - Enlace al repositorio de la landing page: [httpsgithub.com/DevIOT-AgriPure/AgriPure-Landing-Page](https://github.com/DevIOT-AgriPuAgriPure-Landing-Page)
+  - Enlace al repositorio de Front-End: [https://githcom/DevIOT-AgriPure/Agripure-Web-Application](httpsgithub.com/DevIOT-AgriPure/Agripure-Web-Application)
+  - Enlace al repositorio de Back-End: [https://githcom/DevIOT-AgriPure/AgriPure-WebServices](httpsgithub.com/DevIOT-AgriPure/AgriPure-WebService)
   Los repositorios mencionados anteriormente seguirán metodología de Git Flow, que nos permitirá trabajar manera eficiente y ágil en proyectos colaborativos. este enfoque, utilizaremos las siguientes ramas:
   
   - **Main:** Esta rama contiene la versión completa dproyecto, asegurándose de que no haya errores en ejecución. Es la versión que se encuentra en producciy es accesible para los usuarios finale
@@ -2301,7 +2301,7 @@ En el presente sprint se delegaron las tareas a los distintos miembros del equip
     | Time                            | 5pm                                                          |
     | Location                        | Llamada en discord                                           |
     | Prepared By                     | Talledo, Diego                                               |
-    | Attendees (to planning meeting) | Soto, Franchesco Reynoso, Andrés Palomino, Bruno Alva, Frank |
+    | Attendees (to planning meeting) | Soto Franchesco, Reynoso Andrés ,Palomino Bruno, Alva Frank |
 - Sprint Goal & User Stories
     | Sprint Goal 2                  | Implementar mejoras del Front End, implementación del BackEnd |
     |---------------------------------| ------------------------------------------------------------------------------------------------|
@@ -2460,8 +2460,28 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sprint, a continuación se muestra la colaboración utilizando la herramienta de GitHub Insights: 
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/InsightBackend.PNG?raw=true)
 
+### 6.2.3 Sprint 3
 
 #### 6.2.3.1 Sprint Planning 3
+
+**Sprint Planning Background**
+
+| Sprint #                       | Sprint 3       |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Date                           | 10/11/2023                                                                                                                  |
+| Time                           | 7:00 PM                                                                                                                     |
+| Location                       | Reunión en Discord                                                                                                          |
+| Prepared By                    | Diego Talledo                                                                                                               |
+| Attendees (to planing meeting) | Franchesco Soto, Bruno Palomino,Frank Alva,Andrés Reynoso                                                                   |
+| Sprint 2 Review Summary        | Se alcanzó la mayoría de endpoints y vistas del Frontend, las vistas de la aplicación móvil recién se estaban desarrollando |
+| Sprint 2 Retrospective Summary | Se pudo organizar mejor la división de la aplicación móvil y Frontend.                                                      |
+
+**Sprint Goal & User Stories**
+
+|Sprint 3 Goal||
+|-------------|---|
+|Sprint 3 Velocity|-|
+|Sum of Story Points|-|
 
 #### 6.2.3.2 Sprint Backlog 3
         
@@ -2471,17 +2491,83 @@ Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sp
 
 #### 6.2.3.3. Development Evidence for Sprint Review
 
-
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
+|------------|--------|-----------|----------------|----------------------|--------------|
+|DevIOT-AgriPure/AgriPure-Landing-Page|main|f81a064df694b672e54c8b70bdcd7ad856097745|Fixed image file||22/11/2023|
+|DevIOT-AgriPure/AgriPure-Landing-Page|main|262eb397db545bfe174ffb7fef73dfe9eb474b29|Delete assets/images/Inegrantes.jpg||22/11/2023|
+|DevIOT-AgriPure/AgriPure-Landing-Page|main|060aecb9ee98c23add6733ada820b1c8ca3d10c3|Fixed and updated some images||22/11/2023|
+|DevIOT-AgriPure/AgriPure-Landing-Page|main|2b2fd8739ca5fe26c309d93f34acdde76b5b9b63|Added videos for the spanish version of the landing page||21/11/2023|
+|DevIOT-AgriPure/AgriPure-Mobile-Application|feat/IoTDevices|d214b7fb481a0d18ff766fd9cc8996bdc67d5150|feat: add ddd to project and fix some errors||22/11/2023|
+|DevIOT-AgriPure/AgriPure-Mobile-Application|feat/IoTDevices|561a481f8c59e1b0e92300d681b4aca8e69c0d09||22/11/2023|
+|DevIOT-AgriPure/AgriPure-Mobile-Application|feat/IoTDevices|19a47804fd45d95c24b4669e190aad540a1b6b42|feat(IoT): add timer to get info device||21/11/2023|
+|DevIOT-AgriPure/AgriPure-Mobile-Application|feat/IoTDevices|10edf4356eeec324c5c93f978158432679ae7e14|feat(IoT): add iot service||20/11/2023|
+|DevIOT-AgriPure/AgriPure-Mobile-Application|feat/Specialist|6f12977a65f9f4413291842afa0e21442521d683|add list of specialists||19/11/2023|
+|DevIOT-AgriPure/AgriPure-Mobile-Application|feat/Specialist|c77e2f1fabaf81608ff56da13123665a18cf0446|add specialist view||19/11/2023|
+|DevIOT-AgriPure/AgriPure-Mobile-Application|feat/Specialist|7edd9864d547182d451108ef16c5b6a7d5887860|add specialist model||16/11/2023|
+|DevIOT-AgriPure/AgriPure-Mobile-Application|feat/crop|922e4746b03ea9cfe6ea7cfde2039d6b57a3d50e|fixed names||8/11/2023|
+|DevIOT-AgriPure/AgriPure-Mobile-Application|feat/crop|d6d20fd1a11a7a117ec6c77af0dfe06131bd5e9e|application runs un android emulator||16/11/2023|
+|DevIOT-AgriPure/Agripure-Web-Application|feat/IOT|f5731f900c77ca73e258ab68715c015e588a15f1|feat(IOT): new components paths||21/11/2023|
+|DevIOT-AgriPure/Agripure-Web-Application|feat/IOT|ede4faa0ded244ddfd8059b930d82f280e2b6573|feat(IOT): refactor||21/11/2023|
+|DevIOT-AgriPure/Agripure-Web-Application|feat/IOT|16e8b21e9ab224dc4ffa8bd51e23844429a7ae4b|feat(IOT): endopoint modified||21/11/2023|
+|DevIOT-AgriPure/Agripure-Web-Application|feat/IOT|f98455ffce2ae787e335b99948e48dc880c0fa00|feat(paymentService): redirect specialist||21/11/2023|
+|DevIOT-AgriPure/Agripure-Web-Application|develop|efeeb31ef9d87f7599095d8bae6a6ff30a4a9533|feat(payment): showing device iot for localhost||16/11/2023|
+|DevIOT-AgriPure/Agripure-Web-Application|develop|81fd1fee8b819a66f5455d27d751f713d7680cd6|feat(payment): update payment"||15/11/2023|
+|DevIOT-AgriPure/AgriPure-BackEnd|feat/IoT-management|afd1d9f8b59a7d41f7543d5774bd906cf4a1afdb|feat: add get by cropid|||14/11/2023|
+|DevIOT-AgriPure/AgriPure-BackEnd|feat/IoT-management|3ef28dfae7914ca7217316d0fc652e1a481a8403|feat: fix connections||13/11/2023|
+|DevIOT-AgriPure/AgriPure-BackEnd|develop|71b77b84c43b2e43110c8fd4fc254946c0a02d0c|feat: add plant ranges||19/11/2023|
+|DevIOT-AgriPure/AgriPure-BackEnd|develop|2a77afcb6590e1bc7a801309eb498c9ca938953a|feat: fix query services||15/11/2023|
 
 ####  6.2.3.4. Testing Suite Evidence for Sprint Review
 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
+  |------------|--------|-----------|----------------|---------------------|---------------|
+  | Agripure-Landing-Page|main| 20b77b8dd8623a1e07229f741926404efe09806a|first scenario|| 25/09/2023|
+  |Agripure-Landing-Page|main|7ff27918981f92c6ed9717d5a03cc22849865d83|add: 2 ,3 ,4 scenarios|26/09/2023           |        |           |                |                     |               |
 
 ####  6.2.3.5. Execution Evidence for Sprint Review
 
+Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue de los servicios del FrontEnd y BackEnd. 
+
+Inicio de sesión:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/AgriPureFrontSignIn.PNG?raw=true)
+
+Escoger tipo de usuario:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/chosePlan.PNG?raw=true)
+
+Primera vista de crops:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/dashboardFarmer.PNG?raw=true)
+
+Vista de buscar especialistas:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/findSpecialist.PNG?raw=true)
+
+Vista de proyectos asignados a farmer:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/projectFarmer.PNG?raw=true)
+Enlace al FrontEnd:[https://agripure-web.netlify.app](https://agripure-web.netlify.app)
+
+**Enlace al video:** [https://upcedupe-my.sharepoint.com/personal/u202017388_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202017388%5Fupc%5Fedu%5Fpe%2FDocuments%2FaboutTheProduct%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview](https://upcedupe-my.sharepoint.com/personal/u202017388_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202017388%5Fupc%5Fedu%5Fpe%2FDocuments%2FaboutTheProduct%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
 
+BackEnd
+Se logró implementar la mayoría de endpoints acordados, a continuación se muestra la documentación implementada con la herramienta de Swagger:
 
+|Controlador|Variable que usa|Retorno|
+|-----------|----------------|-------|
+|Account|Un formulario de registro|Mensaje si la cuenta fue creada|
+|Account|Formulario de logeo|Token para la autenticación|
+|Crop|Formulario de creación de un crop|Mensaje si fue creado exitosamente|
+|Crop|Id de un cultivador|Lista de crops de acuerdo al id dado|
+|CropReport|Formulario de creación de crop report|Mensaje de confirmación|
+|CropReport|Id del crop|Retornar una lista de crop reports que pertenecen a un crop|
+|CropReport|Id del crop report|Retornar un crop report de acuerdo al Id dado|
+
+
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger1.PNG?raw=true)
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger2.PNG?raw=true)
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger3.PNG?raw=true)
+
+**Documentacion del BackEnd:**[ttps://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.html](https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.htmln) 
+**Enlace al repositorio del BackEnd:** [https://github.com/DevIOT-AgriPure/AgriPure-BackEnd](https://github.com/DevIOT-AgriPure/AgriPure-BackEnd)
 #### 6.2.3.7. Software Deployment Evidence for Sprint Review
 
 Para el presente Sprint, se logró desplegar la segunda version de nuestra Landing Page y de nuestro FrontEnd. 
@@ -2497,9 +2583,36 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 	![Landing Deployed](https://media.discordapp.net/attachments/973358848159133696/1170135535868706916/image.png?ex=6557f0a3&is=65457ba3&hm=00be33f22838a7beebabd467a28da4e035ca8a3a676257b651b204606d1d2d38&=&width=1254&height=669)
 
  -  **Web application**
-
+	Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
+	- Iniciamos sesión en netlify:
+		![Sesion netlify](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/logInNetlify.PNG?raw=true)
+	- Generamos un archivo dist ingresando el siguiente comando en la carpeta de nuestro proyecto:
+		![npm](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/npmrunbuild.PNG?raw=true)
+	- Subimos el archivo dist y esperamos que termine de subir el proyecto:
+		![front](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/FrontDeployed.jpeg?raw=true)
 
  - **BackEnd Services**
+	Para el despliegue de nuestro Backend utilizaremos la plataforma de Google Cloud, a continuacin se detallanlospasoa a seguir:
+
+	Creamos nuestro proyecto de Base de Datos en nuestra cuenta de Google Cloud:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/createProjectGooggleCloud.jpg?raw=true)
+
+	Creamos una instancia MySql:
+	![](hhttps://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CreateSchemab.jpg?raw=true)
+
+	Esperamos a que se cree la instancia:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CreatingSchema.jpg?raw=true)
+
+	Creamos nuestra base de datos:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CrearBaseDatos.jpg?raw=true)
+
+	Hacemos una conexión desde nuestro MySql para ver si la base de datos fue creada:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/ConexionConMySql.jpg?raw=true)
+
+	Ejecutamos nuestra API para ver si se conecta y genera las tablas:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/EjecutamoslaApi.jpg?raw=true)
+- **Mobile App**
+
 
 
 #### 6.2.3.8. Team Collaboration Insights During Sprint
