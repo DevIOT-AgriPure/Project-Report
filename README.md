@@ -2551,15 +2551,41 @@ Enlace al FrontEnd:[https://agripure-web.netlify.app](https://agripure-web.netli
 BackEnd
 Se logró implementar la mayoría de endpoints acordados, a continuación se muestra la documentación implementada con la herramienta de Swagger:
 
+**Account Controller**
 |Controlador|Variable que usa|Retorno|
 |-----------|----------------|-------|
 |Account|Un formulario de registro|Mensaje si la cuenta fue creada|
 |Account|Formulario de logeo|Token para la autenticación|
+
+**Crop Controller**
+|Controlador|Variable que usa|Retorno|
+|-----------|----------------|-------|
 |Crop|Formulario de creación de un crop|Mensaje si fue creado exitosamente|
 |Crop|Id de un cultivador|Lista de crops de acuerdo al id dado|
 |CropReport|Formulario de creación de crop report|Mensaje de confirmación|
 |CropReport|Id del crop|Retornar una lista de crop reports que pertenecen a un crop|
 |CropReport|Id del crop report|Retornar un crop report de acuerdo al Id dado|
+
+**Project Controller**
+|Endpoint|Variable que usa|Retorno|Tipo de solicitud|
+|-----------|----------------|-------|-|
+|Project|Cuerpo necesario para la creación de un Crop|Mensaje de confirmación de creación exitosa|POST|
+|projects/{projectId}|Id del proyecto deseado|Un Dto de un proyecto|GET|
+|projects/{specialistId}/specialist|Id del especialista|Lista de Dto's del proyecto según el Id dado|GET|
+|project/{farmerId}/farmer|Id del farmer|Una lista de prouectos de acuerdo al Id dado|GET|
+|project/{projectId/start}/Id del proyecto|Inicia un proyecto|PUT|
+
+
+**Device Controller**
+|Endpoint|Variable que usa|Retorno|Tipo de solicitud|
+|-----------|----------------|-------|--------------|
+|devices|Cuerpo para la creación de un dispositivo IoT|Confirmación de la creación|POST|
+|devices/{deviceId}/{cropId}/assign|Id de dispositivo y Id de crop|POST|
+|devices/{deviceId}|Id de dispositivo|Retorna DTo de un dispositivo IoT|GET|
+|devices/{deviceId}/temperaturehumidity|Id del dispositivo|Retorna temperatura y humedad que registra un dispositivo IoT|GET|
+|devices/{deviceId}/temperature|Cuerpo para envío de información|Mensaje de operación exitosa|PUT|
+
+**Plant Controller**
 
 
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger1.PNG?raw=true)
