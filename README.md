@@ -2810,8 +2810,9 @@ Hacer un cambio en la paleta de colores, de modo que se sientas colores más viv
 ## 6.4 Video About-the-Product
 
 A continuacion, se hara presente el video sobre el producto desarrollado.
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EfMGmDcPZ5FLgOjV5-Yk_m8BwmWPc9reNmb4UrSZfTio5Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FIWYig](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EfMGmDcPZ5FLgOjV5-Yk_m8BwmWPc9reNmb4UrSZfTio5Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FIWYig)
-Enlace al producto móvil: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020026_upc_edu_pe/EaxdSe1FHpBDqEDR6bDi5c8BZFEmdTtwBgkaxB9sYeER4w?e=JOo0XE](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020026_upc_edu_pe/EaxdSe1FHpBDqEDR6bDi5c8BZFEmdTtwBgkaxB9sYeER4w?e=JOo0XE)
+[http://surl.li/nlrhb](http://surl.li/nlrhb)
+
+Enlace al producto móvil: [http://surl.li/nlrhl](http://surl.li/nlrhl)
 
 ## Conclusiones
 
@@ -2822,7 +2823,7 @@ Enlace al producto móvil: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u2
 
 ## Video About the Team
 
-Enlace al video About the Team: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EcKSOHVbZxZGlaUMmQlyXx8BQ1Bl8ke17cCJJ_PQq1sbMQ?e=g4aaGj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EcKSOHVbZxZGlaUMmQlyXx8BQ1Bl8ke17cCJJ_PQq1sbMQ?e=g4aaGj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Enlace al video About the Team: [http://surl.li/nlrhw](http://surl.li/nlrhw)
 
 ## Anexos
 
@@ -2837,7 +2838,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 |-----------|-----------|
 | Vídeo exposición TP |  | 
 | Vídeo exposición TB2 |[https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/ETXu-QHum1NIv9aGwc8z4O8BfGc2yLVotNIQqyGKrPX3Sw?e=Z41cwS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/ETXu-QHum1NIv9aGwc8z4O8BfGc2yLVotNIQqyGKrPX3Sw?e=Z41cwS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) |   
-|Vídeo exposición TF|[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EWcr6Etz7LZPhr4EZgHKYE0BCaJpWIglEvbTKRb7CDJTtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=lmtZ0M ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EWcr6Etz7LZPhr4EZgHKYE0BCaJpWIglEvbTKRb7CDJTtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=lmtZ0M)|
+|Vídeo exposición TF|[http://surl.li/nlrji](http://surl.li/nlrji)|
 
 
 **ANEXO C: ENTREVISTAS**
