@@ -75,7 +75,7 @@ Desarrollo del equipo durante la TB2:
 En este entregable nos enfocamos en el desarrollo del Frontend y Backend. A su vez, también se inició un proyecto en Wokwi para la futura integración de dispositivos IoT con nuestra plataforma
 
 Desarrollo del equipo durante TF:
-
+![Commits](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/commitsReport.PNG?raw=true)
 
 # Student Outcome
 
@@ -227,6 +227,15 @@ Desarrollo del equipo durante TF:
           - [6.2.2.6. Services Documentation Evidence for Sprint Review](#6226-services-documentation-evidence-for-sprint-review)
           - [6.2.2.7. Software Deployment Evidence for Sprint Review](#6227-software-deployment-evidence-for-sprint-review)
           - [6.2.2.8. Team Collaboration Insights During Sprint](#6228-team-collaboration-insights-during-sprint)
+		- [6.2.3. Sprint 3](#623-sprint-3)
+			- [6.2.3.1 Sprint Planning](#6231-sprint-planning-3)
+			- [6.2.3.2 Sprint Backlog](#6232-sprint-backlog-3)
+			- [6.2.3.3 Development Evidence for Sprint Review](#6233-development-evidence-for-sprint-review)
+			- [6.2.3.4 Testing Suite Evivence for Sprint Review](#6234-testing-suite-evidence-for-sprint-review)
+			- [6.2.3.5 Execution Evidence for Sprint Review](#6235-execution-evidence-for-sprint-review)
+			- [6.2.3.6 Services Documentation Evidence for Sprint Review](#6236-services-documentation-evidence-for-sprint-review)
+			- [6.2.3.7 Software Deployment Evidence for Sprint Review](#6237-software-deployment-evidence-for-sprint-review)
+			- [6.2.3.8. Team Collaboration Insights During Sprint](#6238-team-collaboration-insights-during-sprint)
 	 - [6.3 Validation Interviews](#63-validation-interviews)
 
 # Capítulo I: Introducción
