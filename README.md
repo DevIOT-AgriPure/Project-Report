@@ -2673,6 +2673,17 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 
 Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sprint, a continuación se muestra la colaboración utilizando la herramienta de GitHub Insights: 
 
+- **Backend**
+
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/collaboration/BackEnd.PNG?raw=true)
+
+- **Frontend**
+
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/collaboration/FrontEnd.PNG?raw=true)
+
+- **Mobile App**
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/collaboration/MobileApp.PNG?raw=true)
+
 ## 6.3 Validation Interviews
 
 ### 6.3.1 Diseño de entrevistas
