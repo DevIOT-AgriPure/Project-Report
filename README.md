@@ -2480,13 +2480,24 @@ Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sp
 
 |Sprint 3 Goal||
 |-------------|---|
-|Sprint 3 Velocity|-|
-|Sum of Story Points|-|
+|Sprint 3 Velocity|33|
+|Sum of Story Points|33|
 
 #### 6.2.3.2 Sprint Backlog 3
         
-- Sprint #: 3
-        
+- **Sprint Backlog #3**
+
+| US Id | US Title | Task Id | Task Description | Task Estimation | Assigned To | Status |
+|-------|----------|---------|------------------|-----------------|-------------|--------|
+|US019|Seleccionar un plan|ST0015|Diseñar e implementar la vista y funcionalidad de selección de planes|12 horas|Diego|Done|
+|US020|Mejorar su plan|ST0016|Diseñar e implementar la vista y funcionalidad de mejora de plan|8 horas|Franchesco|Done|
+|TS006|Gestión de dispositivos vinculados|ST0017|Implementar funcionalidades de gestión de dispositivos|8 horas|Andrés|Done|
+|TS008|Notificaciones y alertas|ST0018|Diseñar e implementar las vistas y funcionalidades de las notificaciones|8 horas|Bruno|Done|
+|TS005|Integraciones de Dispositivos IoT|ST0019|Diseñar e implementar funcionalidades de dispositivos IoT con el Backend|8 horas|Frank|Done|
+|TS007|Visualización de Datos en la Interfaz de Usuario|ST0020|Diseñar la visualización de datos en tiempo real|8 horas|Franchesco|Done|
+
+- **Trello:**
+![]()
 
 
 #### 6.2.3.3. Development Evidence for Sprint Review
@@ -2523,7 +2534,7 @@ Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sp
   |------------|--------|-----------|----------------|---------------------|---------------|
   | Agripure-Landing-Page|main| 20b77b8dd8623a1e07229f741926404efe09806a|first scenario|| 25/09/2023|
   |Agripure-Landing-Page|main|7ff27918981f92c6ed9717d5a03cc22849865d83|add: 2 ,3 ,4 scenarios|26/09/2023           |        |           |                |                     |               |
-
+|Agripure-BackEnd|develop|4c31691fa480a55410f978b31f703de29b1ddc39|feat: add test||22/11/2023|
 ####  6.2.3.5. Execution Evidence for Sprint Review
 
 Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue de los servicios del FrontEnd y BackEnd. 
