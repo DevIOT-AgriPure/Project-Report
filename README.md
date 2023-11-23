@@ -74,6 +74,9 @@ Desarrollo del equipo durante la TB2:
 
 En este entregable nos enfocamos en el desarrollo del Frontend y Backend. A su vez, también se inició un proyecto en Wokwi para la futura integración de dispositivos IoT con nuestra plataforma
 
+Desarrollo del equipo durante TF:
+
+
 # Student Outcome
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
@@ -2798,7 +2801,8 @@ Hacer un cambio en la paleta de colores, de modo que se sientas colores más viv
 ## 6.4 Video About-the-Product
 
 A continuacion, se hara presente el video sobre el producto desarrollado.
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EZVsfhRYANJPvaYVoukXz7gBXOVAyg3cGCnz3JaWfDRESg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=yhmgl3 ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EZVsfhRYANJPvaYVoukXz7gBXOVAyg3cGCnz3JaWfDRESg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=yhmgl3 )
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EfMGmDcPZ5FLgOjV5-Yk_m8BwmWPc9reNmb4UrSZfTio5Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FIWYig](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EfMGmDcPZ5FLgOjV5-Yk_m8BwmWPc9reNmb4UrSZfTio5Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FIWYig)
+Enlace al producto móvil: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020026_upc_edu_pe/EaxdSe1FHpBDqEDR6bDi5c8BZFEmdTtwBgkaxB9sYeER4w?e=JOo0XE](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020026_upc_edu_pe/EaxdSe1FHpBDqEDR6bDi5c8BZFEmdTtwBgkaxB9sYeER4w?e=JOo0XE)
 
 ## Conclusiones
 
@@ -2824,6 +2828,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 |-----------|-----------|
 | Vídeo exposición TP |  | 
 | Vídeo exposición TB2 |[https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/ETXu-QHum1NIv9aGwc8z4O8BfGc2yLVotNIQqyGKrPX3Sw?e=Z41cwS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/ETXu-QHum1NIv9aGwc8z4O8BfGc2yLVotNIQqyGKrPX3Sw?e=Z41cwS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) |   
+|Vídeo exposición TF|[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EWcr6Etz7LZPhr4EZgHKYE0BCaJpWIglEvbTKRb7CDJTtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=lmtZ0M ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EWcr6Etz7LZPhr4EZgHKYE0BCaJpWIglEvbTKRb7CDJTtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=lmtZ0M)|
 
 
 **ANEXO C: ENTREVISTAS**
