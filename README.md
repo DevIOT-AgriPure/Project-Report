@@ -2497,7 +2497,9 @@ Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sp
 |TS007|Visualización de Datos en la Interfaz de Usuario|ST0020|Diseñar la visualización de datos en tiempo real|8 horas|Franchesco|Done|
 
 - **Trello:**
-![]()
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/sprint3.PNG?raw=true)
+
+**Enlace al Trello:** [Sprint 3](https://trello.com/invite/b/unKiQCIf/ATTIa72ab974b66a491485b8b86ad7cb9a3526A3543E/sprint-3)
 
 
 #### 6.2.3.3. Development Evidence for Sprint Review
@@ -2629,7 +2631,7 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 		![front](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/FrontDeployed.jpeg?raw=true)
 
  - **BackEnd Services**
-	Para el despliegue de nuestro Backend utilizaremos la plataforma de Google Cloud, a continuacin se detallanlospasoa a seguir:
+	Para el despliegue de nuestro Backend utilizaremos la plataforma de Google Cloud, a continuación se detallan los pasoa a seguir:
 
 	Creamos nuestro proyecto de Base de Datos en nuestra cuenta de Google Cloud:
 	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/createProjectGooggleCloud.jpg?raw=true)
@@ -2649,6 +2651,13 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 	Ejecutamos nuestra API para ver si se conecta y genera las tablas:
 	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/EjecutamoslaApi.jpg?raw=true)
 - **Mobile App**
+	Para el despliegue de nuestra aplicación móvil utilizaremos la plataforma de Firebase, a continuación se detallan los pasos a seguir:
+
+	Primero instalamos FIrebase Hosting dentro de nuestro proyecto de flutter con el comando npm install -g firebase-tools: ![](https://cdn.discordapp.com/attachments/1143666758042013892/1177073991773605929/image.png?ex=65712e94&is=655eb994&hm=94103caf056cf20b82477f84c68bceb4972c52b67b368a81d997e9b60e3d0708&)
+
+	Posteriormente con el comando firebase login ingresamos nuestras credenciales de firebase. Luego, escribimos el comando de firebase init para inicializar nuestro proyecto. Seleccionamos el proyecto que creamos en firebase: ![](https://cdn.discordapp.com/attachments/1143666758042013892/1177074010698297365/image.png?ex=65712e99&is=655eb999&hm=a89c453e9082ebf579dcd7e828d4fa7f74e3dac095dd07892ae84f7d7b6beeae&)
+
+	Luego de eso escribirmos firebase deploy y se inicializara el deploy dentro de firebase: ![](https://cdn.discordapp.com/attachments/1143666758042013892/1177074024325591163/image.png?ex=65712e9c&is=655eb99c&hm=64d035f0e9772b663aa02067d43f74701b0e259abde02a43827953cd3125912a&)
 
 
 
